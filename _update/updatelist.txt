@@ -1,4 +1,4 @@
-LoTRlcg	05-06-17	
+LoTRlcg	08-24-17	
 images/backgrounds/LoTR-LCG_mapbak.jpg	https://raw.githubusercontent.com/Tragic-zz/lackeyCCG-LoTRLCG/master/images/backgrounds/LoTR-LCG_mapbak.jpg	-579044
 images/zonebackgrounds/LoTR-LCG_ZoneBack.jpg	https://raw.githubusercontent.com/Tragic-zz/lackeyCCG-LoTRLCG/master/images/zonebackgrounds/LoTR-LCG_ZoneBack.jpg	275802
 skins/LoTRLCG.txt	https://raw.githubusercontent.com/Tragic-zz/lackeyCCG-LoTRLCG/master/skins/LoTRLCG.txt	363605
