@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>170506</lastupdateYYMMDD>
+<lastupdateYYMMDD>170824</lastupdateYYMMDD>
 <quality>MAX</quality>
-<versionurl>http://theblathering.5gbfree.com/LoTR-LCG/_Common/version.txt</versionurl>
-<updateurl>http://theblathering.5gbfree.com/LoTR-LCG/_Desktop/updatelist.txt</updateurl>
-<message>Added a new Cycle and moved PLugin to a new Host</message>
+<versionurl>https://raw.githubusercontent.com/Tragic-zz/lackeyCCG-LoTRLCG/master/_update/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/Tragic-zz/lackeyCCG-LoTRLCG/master/_update/updatelist.txt</updateurl>
+<message>Moved the plugin to GitHub to host</message>
 
 </version>
