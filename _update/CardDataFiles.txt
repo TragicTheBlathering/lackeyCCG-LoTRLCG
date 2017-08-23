@@ -129,23 +129,23 @@ Anduin Passage	Core	core127a.png,core127b.png	1	Quest	(River, Eye, Orcs, Paw) - 
 Ambush on the Shore	Core	core128a.png,core128b.png	1	Quest	(River, Eye, Orcs, Paw) - Journey Along the Anduin									0		128	3A: none.  3B: When Revealed: Reveal 2 encounter cards per player and add them to the staging area. Skip the staging step of the quest phase for the remainder of the game. Once there are no enemies in play, the players have won the game.			
 First Player	Token	1stplayer.png		token																
 Helper Card	Token	helper.png		token																
-Eagle Token	Token	token01		token	Token - Eagles of the Misty Mountains						1	1			Token		Add +1[atk] and +1[Def] to attached Creature. May only be attached to “Eagles of the Misty Mountains“ though the “Eagles of the Misty Mountains“ card effect.			
+Eagle Token	Token	token01		token	Token - Eagles of the Misty Mountains						1	1			Token		Add +1[atk] and +1[Def] to attached Creature. May only be attached to ?Eagles of the Misty Mountains? though the ?Eagles of the Misty Mountains? card effect.			
 CUSTOM.-.A Dark Fog	CUSTOM.TcatBD	TcatBD01a.png,TCatBD01b.png	1	CUSTOM.-.Quest	CUSTOM.-.(Castle, Tree, Eye).-.The Culling at the Barrow-downs															
 CUSTOM.-.Silent, Heavy and Chill	CUSTOM.TcatBD	TcatBD02a.png,TCatBD02b.png	1	CUSTOM.-.Quest	CUSTOM.-.(Castle, Tree, Eye).-.The Culling at the Barrow-downs															
-CUSTOM.-.Barrow-Bats	CUSTOM.TcatBD	TcatBD03,encounter	2	CUSTOM.-.Enemy	CUSTOM.-.(Castle).-.The Culling at the Barrow-downs		Creature.	15		1	2	3	3		Surge.			Shadow: Attach this card to a defending character. Counts as a Condition attachment with the text: “Attached character has -1 defence.” (if undefended, attach to a random hero controlled by defending player)		
+CUSTOM.-.Barrow-Bats	CUSTOM.TcatBD	TcatBD03,encounter	2	CUSTOM.-.Enemy	CUSTOM.-.(Castle).-.The Culling at the Barrow-downs		Creature.	15		1	2	3	3		Surge.			Shadow: Attach this card to a defending character. Counts as a Condition attachment with the text: ?Attached character has -1 defence.? (if undefended, attach to a random hero controlled by defending player)		
 CUSTOM.-.Barrow-Spider	CUSTOM.TcatBD	TcatBD04,encounter	1	CUSTOM.-.Enemy	CUSTOM.-.(Castle).-.The Culling at the Barrow-downs		Creature. Spider.	24		1	2	3	4				Forced: After this enemy engages with a player, remove one progress token from every location in play.	Shadow : Remove one progress token from every location in play. Attacking enemy gets +1 Attack for every two progress tokens removed in this way (rounded up)		
 CUSTOM.-.Barrow-Wight	CUSTOM.TcatBD	TcatBD05,encounter	3	CUSTOM.-.Enemy	CUSTOM.-.(Castle).-.The Culling at the Barrow-downs		Undead. Wight.	34		3	3	2	4				When Revealed: If the active location is a Barrow. Barrow-Wight gets +1 Will and +1 Attack until the end of the turn. Forced: If the active location is not a Barrow and there is a Barrow location in the staging area, the players must immediately travel to a random barrow location. If there is already an active location, return it to the staging area.			
 CUSTOM.-.Carin Stones	CUSTOM.TcatBD	TcatBD06,encounter	2	CUSTOM.-.Location	CUSTOM.-.(Castle).-.The Culling at the Barrow-downs		Barrow.			X				4			X is equal to the number of Wights in play. Travel: When you travel to Cairn Stones, all characters in play have =1 Attack until the end of the turn.	Shadow: All Wights gain +1 until the end of the turn.		
 CUSTOM.-.Ancient Borrow	CUSTOM.TcatBD	TcatBD07,encounter	3	CUSTOM.-.Location	CUSTOM.-.(Castle).-.The Culling at the Barrow-downs		Barrow.			2				2			While Ancient Barrow is the active location, all Wights gain +1 Defence			
 CUSTOM.-.Foggy Hills	CUSTOM.TcatBD	TcatBD08,encounter	2	CUSTOM.-.Location	CUSTOM.-.(Castle).-.The Culling at the Barrow-downs		Plains.			1				1	Surge.		Forced: If Foggy Hills leaves play, remove all progress tokens from all Barrow locations in play.	Shadow: Remove all progress tokens from all Barrow locations in play.		
 CUSTOM.-.Cardolan Standing Stones	CUSTOM.TcatBD	TcatBD09,encounter	1	CUSTOM.-.Location	CUSTOM.-.(Castle).-.The Culling at the Barrow-downs		Barrow.			3					Immune to Player Card Effects. Victory 4.		When Revealed: The first player may choose to search the encounter deck for the first Undead enemy he finds and add it to the staging area. If so, place three progress tokens on Cardolan Standing Stones. Response: When the players travel to Cardolan Standing Stones, the first player may choose to search the encounter deck for the first Undead enemy he finds and add it to the staging area. If so, place three progress tokens on Cardolan Standing Stones.			
-CUSTOM.-.Fog and Melancholy	CUSTOM.TcatBD	TCatBD10,encounter	2	CUSTOM.-.Treachery	CUSTOM.-.(Castle).-.The Culling at the Barrow-downs												When Revealed: Attach this card to the hero with the highest will. Counts as a Condition attachment with the text: “Attached hero’s will is reduced to zero.”	Shadow: Resolve the When Revealed effect of this card, attaching it to the defending character (If undefended, attach to the hero will this highest will)		
-CUSTOM.-.The Wight's Song	CUSTOM.TcatBD	TcatBD11,encounter	2	CUSTOM.-.Treachery	CUSTOM.-.(Castle).-.The Culling at the Barrow-downs												When Revealed: The player with the highest threat attached this card to one of his heroes. Counts as a Condition attachment with the text: “Attached hero dose not refresh during refresh phase.”.			
+CUSTOM.-.Fog and Melancholy	CUSTOM.TcatBD	TCatBD10,encounter	2	CUSTOM.-.Treachery	CUSTOM.-.(Castle).-.The Culling at the Barrow-downs												When Revealed: Attach this card to the hero with the highest will. Counts as a Condition attachment with the text: ?Attached hero?s will is reduced to zero.?	Shadow: Resolve the When Revealed effect of this card, attaching it to the defending character (If undefended, attach to the hero will this highest will)		
+CUSTOM.-.The Wight's Song	CUSTOM.TcatBD	TcatBD11,encounter	2	CUSTOM.-.Treachery	CUSTOM.-.(Castle).-.The Culling at the Barrow-downs												When Revealed: The player with the highest threat attached this card to one of his heroes. Counts as a Condition attachment with the text: ?Attached hero dose not refresh during refresh phase.?.			
 CUSTOM.-.Bitter Cold	CUSTOM.TcatBD	TcatBD12,encounter	3	CUSTOM.-.Treachery	CUSTOM.-.(Castle).-.The Culling at the Barrow-downs												When Revealed: Increase the will of all the Barrow locations and all the Undead enemies in the staging area by one for the remainder of the round.	Shadow: If the attacking enemy is Undead, attach this card to the enemy. While attached, this card gives the enemy +1 Will and +1 Attack.		
 CUSTOM.-.Escaping the Great Barrow	CUSTOM.TcatBD	TcatBD13a.png,TCatBD13b.png	1	CUSTOM.-.Quest	CUSTOM.-.(Castle, Tree, Eye).-.The Culling at the Barrow-downs															
 CUSTOM.-.Faedthandir	CUSTOM.TcatBD	TcatBD14,encounter	1	CUSTOM.-.Enemy	CUSTOM.-.(Castle).-.The Culling at the Barrow-downs	*	Undead. Wight.	22		6	5	4	6				Players cannot play attachments on Faedthandir. Faedthandir can not attack, engage players, or receive damage, while he has a progress token on him. (He still contributes threat). Forced: Whenever Faedthandir would be destroyed, instead place a progress token on him and move him into the staging area. After one full turn during witch Faedthandir had the progress token on him, remove from him all attachments , damage and progress tokens.			
 CUSTOM.-.Song from the Old Forest	CUSTOM.TcatBD	TcatBD15,encounter	1	CUSTOM.-.Objective	CUSTOM.-.(Castle).-.The Culling at the Barrow-downs		Song.										Spend a resource fro many heroes resource pool to place a resource token on this card. Action: Spend three resources from this card to discard any Condition from play.			
-CUSTOM.-.Barrow-Blade	CUSTOM.TcatBD	TcatBD16,encounter	4	CUSTOM.-.Objective	CUSTOM.-.(Castle).-.The Culling at the Barrow-downs		Item. Weapon.										When Revealed: Attach one previously set aside Wight Lord card to the Barrow-Blade, guarding it. Action: Claim this objective if it has no encounters attached. Then attach it to one hero you control. Treat as an attachment with the following text: “Attached hero has a +1 Attack and a +1 Defence when attacking or defending against the undead. 			
+CUSTOM.-.Barrow-Blade	CUSTOM.TcatBD	TcatBD16,encounter	4	CUSTOM.-.Objective	CUSTOM.-.(Castle).-.The Culling at the Barrow-downs		Item. Weapon.										When Revealed: Attach one previously set aside Wight Lord card to the Barrow-Blade, guarding it. Action: Claim this objective if it has no encounters attached. Then attach it to one hero you control. Treat as an attachment with the following text: ?Attached hero has a +1 Attack and a +1 Defence when attacking or defending against the undead. 			
 CUSTOM.-.Wight Lord	CUSTOM.TcatBD	TcatBD17,encounter	4	CUSTOM.-.Enemy	CUSTOM.-.(Castle).-.The Culling at the Barrow-downs		Undead. Wight.	10		2	4	2	6				Forced: When a character defends against Wight Lord, the defending character uses his will in the place of this defence.			
 CUSTOM.-.Anborn	CUSTOM.TcatBD	TcatBD18	1	CUSTOM.-.Hero	CUSTOM.-.Spirit	*	Gondor. Ranger	9		3	2	1	3		Ranged.		Action: Exhaust Anborn to choose a locations. Place two progress tokens on the chosen location.		<s><a>y</a><l>Initialise counters</l><f>/ccwhite=1</f></s>	
 CUSTOM.-.Erestor	CUSTOM.TcatBD	TcatBD19	1	CUSTOM.-.Hero	CUSTOM.-.Lore	*	Elf. Noldor	8		2	1	2	3				Action: Exhaust Erestor and pay one resource from his resource pool to choose and discard a CONDITION from play.		<s><a>y</a><l>Initialise counters</l><f>/ccwhite=1</f></s>	
@@ -208,13 +208,13 @@ Ancient Mathom 	AJTR	AJTR07	3	Attachment	Spirit		Mathom		1							56	Attach to a 
 Haldir of Lorien	AJTR	AJTR08	3	Ally	Lore	*	Silvan		4	2	2	2	2		Ranged. Sentinel. 	57				
 Infighting	AJTR	AJTR09	3	Event	Lore				1							58	Action: Move any number of damage from one enemy to another. 			
 Radagast 	AJTR	AJTR10	3	Ally	Neutral		Istari		5	2	1	1	3			59	Radagst collects 1 resource each resource phase. These resources can be used to pay for Creature cards played from your hand. Action: Spend X resources from Radagast's pool to heal X wounds on any 1 Creature.			
-Athelas   	AJTR	AJTR11,encounter	4	Objective	(Eagle) A Journey to Rhosgobel	*	Item								Guarded	63	Action: Exhaust a hero to claim this objective if it has no encounters attached. Then, attach Athelas to that hero.			
+Athelas ? 	AJTR	AJTR11,encounter	4	Objective	(Eagle) A Journey to Rhosgobel	*	Item								Guarded	63	Action: Exhaust a hero to claim this objective if it has no encounters attached. Then, attach Athelas to that hero.			
 Wilyador 	AJTR	AJTR12,encounter	1	Objective	(Eagle) A Journey to Rhosgobel	*	Creature. Eagle			1	1	1	20			64	No attachments. The first player gains control of Wilyador, as an ally. Forced: At the end of each round, Wilyador suffers 2 damage. Wilyador cannot be healed of more then 5 wounds by a single card effect. If Wilyador leaves play, the players have lost the game.			
 Rhosgobel 	AJTR	AJTR13,encounter	1	Location	(Eagle) A Journey to Rhosgobel		Forest			x				4		65	X is the number of players in the game. While Rhosgobel is in the staging area, Wilyador cannot be healed. Travel: Players must complete stage one of this quest before they can travel to Rhosgobel.Victory 4.			
-Forest Grove   	AJTR	AJTR14,encounter	4	Location	(Eagle) A Journey to Rhosgobel		Forest			2				3		66	Response: After the players explore Forest Grove, search the encounter deck for 1 Athelas objective, and add it to the staging area. Then, shuffle the encounter deck.			
-Exhaustion     	AJTR	AJTR15,encounter	4	Treachery	(Eagle) A Journey to Rhosgobel											67	When Revealed: Deal 2 damage to each exhausted character	Shadow: Deal 1 damage to each exhausted character		
-Swarming Insects   	AJTR	AJTR16,encounter	4	Treachery	(Eagle) A Journey to Rhosgobel											68	When Revealed: Deal 1 damage to each character without any attachments.	Shadow: If a character (including Wilyador) has more damage than each other character, deal 3 additional damage to that character. 		
-Festering Wounds   	AJTR	AJTR17,encounter	2	Treachery	(Eagle) A Journey to Rhosgobel											69	When Revealed: Deal 2 damage to each wounded character.	Shadow: Deal 1 damage to each wounded character. (2 damage instead if this attack is undefended.)		
+Forest Grove ? 	AJTR	AJTR14,encounter	4	Location	(Eagle) A Journey to Rhosgobel		Forest			2				3		66	Response: After the players explore Forest Grove, search the encounter deck for 1 Athelas objective, and add it to the staging area. Then, shuffle the encounter deck.			
+Exhaustion ? ? 	AJTR	AJTR15,encounter	4	Treachery	(Eagle) A Journey to Rhosgobel											67	When Revealed: Deal 2 damage to each exhausted character	Shadow: Deal 1 damage to each exhausted character		
+Swarming Insects ? 	AJTR	AJTR16,encounter	4	Treachery	(Eagle) A Journey to Rhosgobel											68	When Revealed: Deal 1 damage to each character without any attachments.	Shadow: If a character (including Wilyador) has more damage than each other character, deal 3 additional damage to that character. 		
+Festering Wounds ? 	AJTR	AJTR17,encounter	2	Treachery	(Eagle) A Journey to Rhosgobel											69	When Revealed: Deal 2 damage to each wounded character.	Shadow: Deal 1 damage to each wounded character. (2 damage instead if this attack is undefended.)		
 Mirkwood Flock 	AJTR	AJTR18,encounter	4	Enemy	(Eagle) A Journey to Rhosgobel		Creature	32		1	2	1	3			70	Only Eagle characters or characters with ranged can attack or defend against Mirkwood Flock	Shadow: If this attack is undefended, the damage must be placed on Wilyador. 		
 Black Forest Bats (AJTR)	AJTR	AJTR19,encounter	5	Enemy	(Eagle) A Journey to Rhosgobel		Creature	26		1	1	1	0			71	Only Eagle creatures or characters with ranged attack can attack or defend against Black Forest Bats.	Shadow: If this attack is undefended, the damage must be placed on Wilyador. 		
 The Wounded Eagle	AJTR	AJTR20a.png,AJTR20b.png	1	Quest	(Eagle, Orcs, Spider) A Journey to Rhosgobel									8		60	Setup: Search the encounter deck for Rhosgobel and Wilyandor, and add them to the staging area with 2 damage tokens on Wilyador. Then, shuffle the encounter deck.			
@@ -321,7 +321,7 @@ Dain Ironfoot	RTM	RTM01	1	Hero	Leadership	*	Dwarf.	11		1	2	3	5			116			<s><a>y</
 Dawn Take You All	RTM	RTM02	3	Event	Leadership				2							118				
 Dunedain Signal	RTM	RTM03	3	Attachment	Leadership		Signal.		1							117				
 Shadow of the Past	RTM	RTM04	3	Event	Neutral				2							125				
-Mirkwood Runner	RTM	RTM05	3	Ally	Lore		Silvan. Scout.		3	1	2	0	2			123	While Mirkwood Runner is attacking alone, the defending enemy does not count its DEF			
+Mirkwood Runner	RTM	RTM05	3	Ally	Lore		Silvan. Scout.		3	1	2	0	2			123	While Mirkwood Runner is attacking alone, the defending enemy does not count its?DEF			
 Rumour from the Earth	RTM	RTM06	3	Event	Lore				0							124				
 Astonishing Speed	RTM	RTM07	3	Event	Spirit				3							122				
 West Road Traveller	RTM	RTM08	3	Ally	Spirit		Rohan.		2	2	0	0	1			121				
@@ -450,7 +450,7 @@ Lure of Moria	RTR	RTR030		Event	Leadership				3							30	Action: Ready all Dwarf
 Rivendell Blade	RTR	RTR031		Attachment	Tactics		Item, Weapon		1						Restricted 	31	Attach to a Noldor or Silvan character. Restricted. When attached character attacks an enemy, that enemy gets -2 [Defense] until the end of the phase. 			
 Hail of Stones	RTR	RTR032		Event	Tactics				1							32	Action: Exhaust X characters to deal X damage to an enemy in the staging area. 			
 Rider of the Mark	RTR	RTR033		Ally	Spirit		Rohan		3	2	1	1	2			33	Action: Spend 1 [Spirit] resource to give control of Rider of the Mark to another player. (Limit once per round.) Response: After Rider of the Mark changes control, discard a shadow card dealt to an enemy you are engaged with. 			
-Song of Earendil	RTR	RTR034		Attachment	Spirit		Song		1							34	Attach to a [Spirit] hero. Response: After Song of Eärendil enters play, draw 1 card. Response: After another player raises his threat, raise your threat by 1 to reduce that player's threat by 1. 			
+Song of Earendil	RTR	RTR034		Attachment	Spirit		Song		1							34	Attach to a [Spirit] hero. Response: After Song of E?rendil enters play, draw 1 card. Response: After another player raises his threat, raise your threat by 1 to reduce that player's threat by 1. 			
 Bombur	RTR	RTR035		Ally	Lore	*	Dwarf		3	0	0	1	3			35	Action: Exhaust Bombur to choose a location. That location gets -1 [Threat] until the end of the phase. (That location does not contribute its [Threat] instead if it is an Underground location.) 	Shadow: Return attacking enemy to the staging area after it attacks.		
 Out of the Wild	RTR	RTR036		Event	Lore				3						Secrecy 2	36	Action: Search the top 5 cards of the encounter deck for any 1 non-objective card worth no victory points and add it to your victory display. Shuffle the encounter deck.			
 The End Comes	RTR	RTR037		Event	Neutral				0							37	Response: After a Dwarf character leaves play, shuffle the encounter discard pile back into the encounter deck. 			
@@ -543,12 +543,12 @@ Cave Spider	TLD	TLD097,encounter	3	Enemy	(Bat) The Long Dark		Spider, Creature	3
 Goblin Sneak	TLD	TLD098,encounter	4	Enemy	(Bat) The Long Dark		Goblin, Orc	15		2	1	1	2			98	Forced: After Goblin Sneak engages a player, discard the top card of the encounter deck. If it is a treachery card, Goblin Sneak engages the next player, if able. 	Shadow: Add Goblin Sneak to the staging area. 		
 Goblin Warlord	TLD	TLD099,encounter	1	Enemy	(Bat) The Long Dark		Goblin, Orc	39		4	3	3	5			99	Lost: Each player must choose and discard 1 ally he controls from play, if able. 	Shadow: Trigger all Lost: effects in play.		
 Rock Adder	TLD	TLD100,encounter	3	Enemy	(Bat) The Long Dark		Creature	20		1	3	0	3			100	Rock Adder cannot be attacked unless it has dealt at least 1 damage this round. 	Shadow: If this attack is undefended, the defending player must discard 1 character he controls from play. 		
-CUSTOM.-.Ancient Sword	CUSTOM.OrcHunt	OrcHunt_Ancient-Sword-Front-Face,encounter	1	Objective	CUSTOM.-.(Coins) Orc Hunt		Artifact. Treasure. Weapon.									13	Guarding enemy gets -1 [Threat] (to a minimum of 0). Action: If unguarded, exhaust a character to claim this Artifact. Then, attach Ancient Sword to that character. While attached, it gains the text: Restricted. Attached character gains +1 [attack] (+3 [Attack] instead while attacking an Orc). Corruption: Dúnedain +1, Dwarf +2, Gondor +3, Hobbit -2, Rohan +2, Warrior +1.			
+CUSTOM.-.Ancient Sword	CUSTOM.OrcHunt	OrcHunt_Ancient-Sword-Front-Face,encounter	1	Objective	CUSTOM.-.(Coins) Orc Hunt		Artifact. Treasure. Weapon.									13	Guarding enemy gets -1 [Threat] (to a minimum of 0). Action: If unguarded, exhaust a character to claim this Artifact. Then, attach Ancient Sword to that character. While attached, it gains the text: Restricted. Attached character gains +1 [attack] (+3 [Attack] instead while attacking an Orc). Corruption: D?nedain +1, Dwarf +2, Gondor +3, Hobbit -2, Rohan +2, Warrior +1.			
 CUSTOM.-.Back in Thranduil's Halls	CUSTOM.OrcHunt	OrcHunt_Back-in-Thranduil's-Halls-Front-Face.png,OrcHunt_Back-in-Thranduil's-Halls-Back-Face.png	1	CUSTOM.-.Quest	CUSTOM.-.(Coins, Eye, Orcs, Tree, Coins) Orc Hunt									7	Guarded by a non-Tracker, non-Spy enemy. Restricted. Victory 4.	26	When revealed: Reveal and add to the staging area 1 encounter card per player. Then, if there is no (non-Tracker) Orc enemy in play, repeat adding to the staging area 1 additional encounter card until there is a (non-Tracker) Orc enemy in play. You may not advance to side 3B as long as there is an enemy in play (except for Tracker, Spy and Flame enemies). In addition to normal scoring rules, subtract victory points multiplied by 5 on Treasure cards controlled by you and Captive cards in your victory display.			
 CUSTOM.-.Battle Fatigue	CUSTOM.OrcHunt	OrcHunt_Battle-Fatigue-Front-Face,encounter	2	CUSTOM.-.Treachery	CUSTOM.-.(Coins) Orc Hunt											18	When Revealed: Each player must must make a corruption test upon a the character that currently carries the most wound counters. Add a additional +1 to the corruption test value for each wound token upon the chosen character. If at least 1 chosen character has no wounds then Battle Fatigue gains Surge.	Defending character gets -X [Defense], where X is the number of his wounds.		
 CUSTOM.-.Bloodthirsty Orcs	CUSTOM.OrcHunt	OrcHunt_Bloodthirsty-Orcs-Front-Face,encounter	1	CUSTOM.-.Enemy	CUSTOM.-.(Coins) Orc Hunt		Orc	34		2	4	0	3			1	When Revealed: Each player must place 3 wound tokens upon 1 or 2 different characters he controls.	The attacking enemy gets +1 [Attack]. (If a defender is wounded, instead +3 [Attack].)		
 CUSTOM.-.Clandestine Orc Lair	CUSTOM.OrcHunt	OrcHunt_Clandestine-Orc-Lair-Front-Face,encounter	2	CUSTOM.-.Location	CUSTOM.-.(Coins) Orc Hunt		Cave. Lair.			2				4	Victory 3	8	Immune to player card effects. While Clandestine Orc Lair is the active location, all Orc enemies gain Surge, +1 [Threat] and +1 [Attack]. Forced: At the end of the refresh phase, if Clandestine Orc Lair is in the staging area, increase each player's threat by 1.	If attacking enemy is an Orc, deal 2 additional shadow cards to it and resolve their shadow effects.		
-CUSTOM.-.Concealed Lookout	CUSTOM.OrcHunt	OrcHunt_Concealed-Lookout-Front-Face,encounter	2	CUSTOM.-.Location	CUSTOM.-.(Coins) Orc Hunt		Forest. Watch.			0				1		9	While Concealed Lookout is the active location, the first ranged attack in each turn gets +2 [Attack]. Response: Before progress is placed on this card, cancel all progress and increase each player’s threat by 1 for each progress cancelled.			
+CUSTOM.-.Concealed Lookout	CUSTOM.OrcHunt	OrcHunt_Concealed-Lookout-Front-Face,encounter	2	CUSTOM.-.Location	CUSTOM.-.(Coins) Orc Hunt		Forest. Watch.			0				1		9	While Concealed Lookout is the active location, the first ranged attack in each turn gets +2 [Attack]. Response: Before progress is placed on this card, cancel all progress and increase each player?s threat by 1 for each progress cancelled.			
 CUSTOM.-.Corrupted by Power	CUSTOM.OrcHunt	OrcHunt_Corrupted-by-Power-Front-Face,encounter	4	CUSTOM.-.Treachery	CUSTOM.-.(Coins) Orc Hunt										Surge	19	When Revealed: Each player chooses a character he controls currently committed to the quest with the highest [Willpower], then raises his threat level by double the [Willpower] of that character. That character makes a corruption test with a modifier of +1.	Raise the threat of each player by the total [Willpower] of the defending character(s).		
 CUSTOM.-.Deceivingly Quiet	CUSTOM.OrcHunt	OrcHunt_Deceivingly-Quiet-Front-Face,encounter	1	CUSTOM.-.Treachery	CUSTOM.-.(Coins) Orc Hunt											20	When Revealed: If there is 1, or less, location card or  enemy card in the staging area, reveal and add to the staging area 1 encounter card per player.	Attacking enemy gets dealt X additional shadow cards, where X = 1 (or 2, or 2, or 3) if there are 1 (or 2, or 3, or 4) players in the game. Flip around and immediately resolve each card by itself.		
 CUSTOM.-.Elven Prisoner	CUSTOM.OrcHunt	OrcHunt_Elven-Prisoner-Front-Face,encounter	6	CUSTOM.-.Objective	CUSTOM.-.(Coins) Orc Hunt		Captive. Silvan.								Guarded by a non-Tracker, non-Spy enemy. Victory 1	14	Guarding enemy gets +1 [Threat] and -1 [Attack] (to a minimum of 0). Action: When unguarded, any player may exhaust a hero to claim this objective and add it to the victory points display.			
@@ -568,7 +568,7 @@ CUSTOM.-.The Red Eye	CUSTOM.OrcHunt	OrcHunt_The-Red-Eye-Front-Face,encounter	1	C
 CUSTOM.-.Thick Forest	CUSTOM.OrcHunt	OrcHunt_Thick-Forest-Front-Face,encounter	2	CUSTOM.-.Location	CUSTOM.-.(Coins) Orc Hunt		Forest			3				7		23	Travel: After travelling to the Thick Forest, each player must choose and discard allies until the number of allies controlled by that player is equal to or lower than the the sum of his heroes' printed [Willpower].			
 CUSTOM.-.Thievery	CUSTOM.OrcHunt	OrcHunt_Thievery-Front-Face,encounter	2	CUSTOM.-.Treachery	CUSTOM.-.(Coins) Orc Hunt											22	The first player chooses a Treasure card with the highest victory points that is attached to a character. Discard that Treasure card. Each player may exhaust a character with at least 2 [Willpower]. If every player exhausted a character in this way, cancel the discard.	If 1 or more wounds are placed upon the defending character in this attack, the first player chooses 1 Treasure card attached to the defender. That card is discarded. (If undefended, nothing happens.)		
 CUSTOM.-.Thranduil's Request	CUSTOM.OrcHunt	OrcHunt_Thranduil's-Request-Front-Face.png,OrcHunt_Thranduil's-Request-Back-Face.png	1	CUSTOM.-.Quest	CUSTOM.-.(Coins, Eye, Orcs, Tree, Coins) Orc Hunt									12		24	Setup: Search the encounter deck for The Red Eye and the Forest Gate and add them to the staging area.  When revealed: Reveal and add to the staging area 1 encounter card for each player. Players may not advance to stage 2 of this quest if they don't control 1 Treasure card or 1 Captive card.			
-CUSTOM.-.Woodland-Realm Bridge	CUSTOM.OrcHunt	OrcHunt_Woodland-Realm-Bridge-Front-Face,encounter	2	CUSTOM.-.Location	CUSTOM.-.(Coins) Orc Hunt		Bridge. Defense. Forest.			0				1	Surge	12	While Woodland Realm Bridge is the active location, all characters get +1 [Defense]. Response: Before progress is placed on this card, cancel all progress and increase each player’s threat by 1 for each progress cancelled.			
+CUSTOM.-.Woodland-Realm Bridge	CUSTOM.OrcHunt	OrcHunt_Woodland-Realm-Bridge-Front-Face,encounter	2	CUSTOM.-.Location	CUSTOM.-.(Coins) Orc Hunt		Bridge. Defense. Forest.			0				1	Surge	12	While Woodland Realm Bridge is the active location, all characters get +1 [Defense]. Response: Before progress is placed on this card, cancel all progress and increase each player?s threat by 1 for each progress cancelled.			
 Asfaloth	FoS	FoS110	3	Attachment	Lore	*	Mount		2							110	Attach to a Noldor or Silvan hero. Action: Exhaust Asfaloth to place 1 progress token on any location. (2 tokens instead if attached hero is Glorfindel.) 			
 Below the Mines.-.Old One Lair	FoS	FoS117_front.png,FoS117_back.png	1	Quest	(Gorge, Goblin-Body, Torch, Rock) Foundations of Stone									5		117	When Revealed: Create you own staging area. Reveal 4 cards from the encounter deck and add them to your staging area. Forced: After the 5th progress token is placed on Old One Lair, join another player at the beginning of the travel phase. If you cannot join another player, all players continue on to stage 5 together. 			
 Below the Mines.-.Sheltered Rocks	FoS	FoS114_front.png,FoS114_back.png	1	Quest	(Gorge, Goblin-Body, Torch, Rock) Foundations of Stone									11		114	When Revealed: Create your own staging area. Reveal 2 cards from the encounter deck and add them to your staging area. Forced: After the 17th progress token is placed on The Endless Caves, join another player at the beginning of the travel phase. If you cannot join another player, all players continue on to stage 5 together. 			
@@ -825,13 +825,13 @@ Black Arrow	OTD	OTD-22	3	Attachment	Tactics	*	Artifact. Weapon.		0						Victory 
 Thror's Key	OTD	OTD-75	3	Attachment	Spirit	*	Artifact. Item.		1							16	Attach to a hero. Response: After attached hero declares an attack, add Black Arrow to the victory display to give attached hero +5 [Attack] for this attack.			
 Expert Treasure-Hunter	OTD	OTD-34	3	Attachment	Lore		Skill.		0							17	Response: After attached hero quests successfully, name a card type and discard the top card of your deck. If the discarded card is the named type, take it into your hand. 			
 King Under the Mountain	OTD	OTD-49	3	Attachment	Leadership	*	Title.		2							18	Exhaust King Under the Mountain to look at the top 2 cards of your deck. Add 1 to your hand and discard the other.			
-Bilbo’s Magic Ring	OTD	OTD-21	1	Treasure	(Web) Flies and Spiders	*	Artifact. Item. Ring.		0							19	Attach to Bilbo Baggins. Action: Exhaust Bilbo's Magic Ring and raise your threast by 1 to gain 1 BAG resource. (Limit once per round.) Response: After Bilbo Baggins exhausts to defend an attack, exhaust Bilbo's Magic Ring and raise your threat by 3 to cancel all damage from this attack.			
+Bilbo?s Magic Ring	OTD	OTD-21	1	Treasure	(Web) Flies and Spiders	*	Artifact. Item. Ring.		0							19	Attach to Bilbo Baggins. Action: Exhaust Bilbo's Magic Ring and raise your threast by 1 to gain 1 BAG resource. (Limit once per round.) Response: After Bilbo Baggins exhausts to defend an attack, exhaust Bilbo's Magic Ring and raise your threat by 3 to cancel all damage from this attack.			
 The Arkenstone	OTD	OTD-67	1	Treasure	(Smaug) The Lonely Mountain	*	Artifact. Item. Erebor.		0							20	Attach to a hero. Action: Exhaust The Arkenstone and raise your threat by X to lower by the cost of the next ally you play this phase that matches the attached hero's sphere.			
 Mithril Shirt	OTD	OTD-53	1	Treasure	(Smaug) The Lonely Mountain	*	Artifact. Item. Erebor.		0							21	Attach to Bilbo Baggins. Attached hero gets +1 DEF and +1 hit point.			
-Thror’s Battle Axe	OTD	OTD-72	1	Treasure	(Smaug) The Lonely Mountain	*	Artifact. Item. Erebor.		0						Restricted. 	22	Attach to a hero. Attached hero gets +2 ATT. Response: After attached hero attacks and destroys an enemy, deal 1 damage to another enemy engaged with you.			
-Thror’s Hunting Bow	OTD	OTD-74	1	Treasure	(Smaug) The Lonely Mountain	*	Artifact. Item. Erebor.		0						Restricted. 	23	Attach to a hero. Attached hero gains Ranged. When making a ranged attack, attached hero gets +2 ATT.			
-Thror’s Golden Cup	OTD	OTD-73	1	Treasure	(Smaug) The Lonely Mountain	*	Artifact. Item. Erebor.		0						Victory 3.	24	Attach to a hero. Action: Add Thrór’s Golden Cup to the victory display to draw 3 cards.			
-The Spider’s Glade	OTD	OTD-71,encounter	1	Location	(Web) Flies and Spiders		Forest.			1				9		25	Immune to player card effects. Travel: Exhaust Bilbo Baggins to travel here. Forced: At the start of each quest phase, search the encounter deck for 1 Spider enemy and add it to the staging area. (2 Spider enemies instead if 3 or more players are at this stage.) Shuffle the encounter deck.			
+Thror?s Battle Axe	OTD	OTD-72	1	Treasure	(Smaug) The Lonely Mountain	*	Artifact. Item. Erebor.		0						Restricted. 	22	Attach to a hero. Attached hero gets +2 ATT. Response: After attached hero attacks and destroys an enemy, deal 1 damage to another enemy engaged with you.			
+Thror?s Hunting Bow	OTD	OTD-74	1	Treasure	(Smaug) The Lonely Mountain	*	Artifact. Item. Erebor.		0						Restricted. 	23	Attach to a hero. Attached hero gains Ranged. When making a ranged attack, attached hero gets +2 ATT.			
+Thror?s Golden Cup	OTD	OTD-73	1	Treasure	(Smaug) The Lonely Mountain	*	Artifact. Item. Erebor.		0						Victory 3.	24	Attach to a hero. Action: Add Thr?r?s Golden Cup to the victory display to draw 3 cards.			
+The Spider?s Glade	OTD	OTD-71,encounter	1	Location	(Web) Flies and Spiders		Forest.			1				9		25	Immune to player card effects. Travel: Exhaust Bilbo Baggins to travel here. Forced: At the start of each quest phase, search the encounter deck for 1 Spider enemy and add it to the staging area. (2 Spider enemies instead if 3 or more players are at this stage.) Shuffle the encounter deck.			
 Giant Web	OTD	OTD-38,encounter	4	Location	(Web) Flies and Spiders		Forest.			3				3		26	While Giant Web is the active location, each character gets -1 WIL, -1 ATT, & -1 DEF for each poison it has. Response: After Giant Web leaves play as an explored location, ready an unconscious character.			
 Forest Stream	OTD	OTD-37,encounter	2	Location	(Web) Flies and Spiders		Forest. River.			2				4		27	While Forest Stream is the active location, poisoned characters cannot quest. Response: After Forest Stream leaves play as an explored location, discard 4 poison.			
 Old Tomnoddy	OTD	OTD-56,encounter	3	Enemy	(Web) Flies and Spiders		Creature. Spider.	37		3	5	2	4		Venom.	28	Forced: At the end of each round, each player must give a hero he controls 1 poison.			
@@ -878,7 +878,7 @@ Lost in the Dark	OTD	OTD-13.png,OTD-14.png	1	Quest	(Web, PineTree) Flies and Spi
 Captured by Spiders	OTD	OTD-07.png,OTD-08.png	1	Quest	(Web, PineTree) Flies and Spiders									11		69				
 Battle with the Spiders	OTD	OTD-05.png,OTD-06.png	1	Quest	(Web, PineTree) Flies and Spiders									3		70				
 A Warm Welcome	OTD	OTD-01.png,OTD-02.png	1	Quest	(Smaug, PineTree) The Lonely Mountain									-		71				
-The Burglar’s Turn	OTD	OTD-81.png,OTD-82.png	1	Quest	(Smaug, PineTree) The Lonely Mountain									-		72				
+The Burglar?s Turn	OTD	OTD-81.png,OTD-82.png	1	Quest	(Smaug, PineTree) The Lonely Mountain									-		72				
 Inside Information	OTD	OTD-09.png,OTD-10.png	1	Quest	(Smaug, PineTree) The Lonely Mountain									20		73				
 Thieves! Fire! Murder!	OTD	OTD-89.png,OTD-90.png	1	Quest	(Smaug, PineTree) The Lonely Mountain									7		74				
 The Gathering of the Clouds	OTD	OTD-91.png,OTD-92.png	1	Quest	(OrcSkull, PineTree) The Battle of Five Armies									-		75				
@@ -888,25 +888,25 @@ The Defence of Ravenhill	OTD	OTD-85.png,OTD-86.png	1	Quest	(OrcSkull, PineTree) 
 The Clouds Burst	OTD	OTD-83.png,OTD-84.png	1	Quest	(OrcSkull, PineTree) The Battle of Five Armies									-		79				
 Smaug the Mighty	TBOLT	TBOLT04,encounter	3	Enemy	(Dragon) The Battle of Lake-Town	*	Dragon.	40		7	5	9	20			4	Immune to player card effects. When Revealed: Smaug the Mighty makes an immediate attack against each player (deal and resolve a shadow card for each attack.)			
 Smaug the Terrible	TBOLT	TBOLT05,encounter	3	Enemy	(Dragon) The Battle of Lake-Town	*	Dragon.	35		6	7	7	20			5	Immune to player card effects. When Revealed: Resolve all burn damage from all locations in play.			
-Smaug the Magnificent	TBOLT	TBOLT06,encounter	3	Enemy	(Dragon) The Battle of Lake-Town	*	Dragon.	30		5	8	8	20			6	Immune to player card effects. Excess damage from attacks by Smaug the Magnificent must be assigned to Lake-town. When Revealed: Move 3 damage from Smaug the Magnificent to Lake-town.Ê			
-Lake-town	TBOLT	TBOLT07,encounter	1	Objective	(Dragon) The Battle of Lake-Town	*	City.									7	If Lake-town has 50 or more damage on it, Lake-town has completely burned and the players have lost the game.Ê			
+Smaug the Magnificent	TBOLT	TBOLT06,encounter	3	Enemy	(Dragon) The Battle of Lake-Town	*	Dragon.	30		5	8	8	20			6	Immune to player card effects. Excess damage from attacks by Smaug the Magnificent must be assigned to Lake-town. When Revealed: Move 3 damage from Smaug the Magnificent to Lake-town.?			
+Lake-town	TBOLT	TBOLT07,encounter	1	Objective	(Dragon) The Battle of Lake-Town	*	City.									7	If Lake-town has 50 or more damage on it, Lake-town has completely burned and the players have lost the game.?			
 The Old Thrush	TBOLT	TBOLT08,encounter	1	Objective	(Dragon) The Battle of Lake-Town	*	Creature.									8	Guarded. Action: Exhaust a hero to claim this objective and attach it to that hero when it is free of encounters. (Counts as an attachment with the text: If detached, discard The Old Thrush. Response: After attached hero exhausts to attack Smaug, discard X cards from hand ot reduce Smaug's [Defense] by X.)			
-Close to the Flame	TBOLT	TBOLT09,encounter	3	Treachery	(Dragon) The Battle of Lake-Town											9	When Revealed: Deal 1 damage to each character in play.Ê	Deal 1 damage to each character in play. Any player may discard a hero to cancel this effect.Ê		
-Scorching Blast	TBOLT	TBOLT10,encounter	3	Treachery	(Dragon) The Battle of Lake-Town											10	When Revealed: Resolve all burn damage from all locations in play.Ê	Resolve this card's When Revealed effect. Any player may discard a hero to cancel this effect.Ê		
+Close to the Flame	TBOLT	TBOLT09,encounter	3	Treachery	(Dragon) The Battle of Lake-Town											9	When Revealed: Deal 1 damage to each character in play.?	Deal 1 damage to each character in play. Any player may discard a hero to cancel this effect.?		
+Scorching Blast	TBOLT	TBOLT10,encounter	3	Treachery	(Dragon) The Battle of Lake-Town											10	When Revealed: Resolve all burn damage from all locations in play.?	Resolve this card's When Revealed effect. Any player may discard a hero to cancel this effect.?		
 Town-Baiting	TBOLT	TBOLT11,encounter	3	Treachery	(Dragon) The Battle of Lake-Town											11	When Revealed: Smaug makes an attack against Lake-town. The last player may declare a defender against this attack. Excess damage from this attack must be placed on Lake-town. This effect cannot be canceled.			
-Dire Magnificence	TBOLT	TBOLT12,encounter	3	Treachery	(Dragon) The Battle of Lake-Town											12	When Revealed: Each player must choose and discard 1 ally he controls, if able. Deal 2 damage to Lake-town for each player that cannot.Ê	If this attack destroys a character, Smaug engages the next player and makes an immediate attack against that player.		
-Catching Fire	TBOLT	TBOLT13,encounter	2	Treachery	(Dragon) The Battle of Lake-Town											13	When Revealed: Choose and shuffle 1 Pier location from the victory display back into the encounter deck. If no location was shuffled into the encounter deck by this effect, Catching Fire gains surge.	Defending character gets -2 [Defense]Ê		
-Reckless in His Rage	TBOLT	TBOLT14,encounter	2	Treachery	(Dragon) The Battle of Lake-Town											14	When Revealed: If Smaug is in play, he gets +2 [Threat], +2 [Attack], -2 [Defense] and gains the text: Allies cannot be declared as defenders. This effect lasts until the end of the round.	If this attack destroys a character resolve all burn damage on locations in play.Ê		
+Dire Magnificence	TBOLT	TBOLT12,encounter	3	Treachery	(Dragon) The Battle of Lake-Town											12	When Revealed: Each player must choose and discard 1 ally he controls, if able. Deal 2 damage to Lake-town for each player that cannot.?	If this attack destroys a character, Smaug engages the next player and makes an immediate attack against that player.		
+Catching Fire	TBOLT	TBOLT13,encounter	2	Treachery	(Dragon) The Battle of Lake-Town											13	When Revealed: Choose and shuffle 1 Pier location from the victory display back into the encounter deck. If no location was shuffled into the encounter deck by this effect, Catching Fire gains surge.	Defending character gets -2 [Defense]?		
+Reckless in His Rage	TBOLT	TBOLT14,encounter	2	Treachery	(Dragon) The Battle of Lake-Town											14	When Revealed: If Smaug is in play, he gets +2 [Threat], +2 [Attack], -2 [Defense] and gains the text: Allies cannot be declared as defenders. This effect lasts until the end of the round.	If this attack destroys a character resolve all burn damage on locations in play.?		
 West Pier	TBOLT	TBOLT15,encounter	1	Location	(Dragon) The Battle of Lake-Town		Lake-town. Pier			2				2	Victory 2.	15	Each location in play gains Burn 1.			
 The Master's Manor	TBOLT	TBOLT16,encounter	1	Location	(Dragon) The Battle of Lake-Town	*	Lake-town.			4				8	Burn 3. Victory 8.	16	When Revealed: Move all damage from Smaug to Lake-town.	If this attack destroys a character, defending player discards his hand.		
 South Pier	TBOLT	TBOLT17,encounter	1	Location	(Dragon) The Battle of Lake-Town		Lake-town. Pier			1				4	Burn 2. Victory 4.	17	When faced with the option to travel, players cannot travel to other locations.			
 North Pier	TBOLT	TBOLT18,encounter	1	Location	(Dragon) The Battle of Lake-Town		Lake-town. Pier			2				2	Burn 2. Victory 2.	18	Smaug cannot be damaged.			
-Merchant's District	TBOLT	TBOLT19,encounter	4	Location	(Dragon) The Battle of Lake-Town		Lake-town.			4				3	Burn 1. Victory 3.	19	Travel Action: Deal 2 damage per player to Lake-town to add this location to the victory display.	Deal 1 damage on Lake-town. (4 damage instead if undefended.)Ê		
+Merchant's District	TBOLT	TBOLT19,encounter	4	Location	(Dragon) The Battle of Lake-Town		Lake-town.			4				3	Burn 1. Victory 3.	19	Travel Action: Deal 2 damage per player to Lake-town to add this location to the victory display.	Deal 1 damage on Lake-town. (4 damage instead if undefended.)?		
 East Pier	TBOLT	TBOLT20,encounter	1	Location	(Dragon) The Battle of Lake-Town		Lake-town. Pier			2				2	Burn 1. Victory 2.	20	When Revealed effects cannot be canceled.			
 Great House	TBOLT	TBOLT21,encounter	1	Location	(Dragon) The Battle of Lake-Town	*	Lake-town.			6				6	Burn 3. Victory 6.	21	When Revealed: Resolve all burn damage from all locations in play.			
 Great Bridge	TBOLT	TBOLT22,encounter	1	Location	(Dragon) The Battle of Lake-Town	*	Lake-town.			3				4	Burn 2. Victory 4.	22	When Revealed: Discard X cards from each player's deck. X is the amount of damage on Lake-town. (If no cards are discarded by this effect, Great Bridge gains surge.)			
-Fisherman's Dock	TBOLT	TBOLT23,encounter	4	Location	(Dragon) The Battle of Lake-Town		Lake-town.			2				2	Burn 1. Victory 2.	23	Travel: If there is 1 active location, exhaust a hero to travel here. (There are now 2 active locations.)	Add this location to the staging area.Ê		
-Esgaroth Wharf	TBOLT	TBOLT24,encounter	4	Location	(Dragon) The Battle of Lake-Town		Lake-town. 			3				4	Burn 1. Victory 4.	24	All locations are immune to player card effects.	Attacking enemy gets +2 [Attack]. Then it makes an additional attack after this one.Ê		
+Fisherman's Dock	TBOLT	TBOLT23,encounter	4	Location	(Dragon) The Battle of Lake-Town		Lake-town.			2				2	Burn 1. Victory 2.	23	Travel: If there is 1 active location, exhaust a hero to travel here. (There are now 2 active locations.)	Add this location to the staging area.?		
+Esgaroth Wharf	TBOLT	TBOLT24,encounter	4	Location	(Dragon) The Battle of Lake-Town		Lake-town. 			3				4	Burn 1. Victory 4.	24	All locations are immune to player card effects.	Attacking enemy gets +2 [Attack]. Then it makes an additional attack after this one.?		
 Terror from the Mountain	TBOLT	TBOLT01a.png,TBOLT01b.png	1	Quest	(Dragon) The Battle of Lake-Town									14		1				
 Fire and Water	TBOLT	TBOLT02a.png,TBOLT02b.png	1	Quest	(Dragon) The Battle of Lake-Town									10		2				
 The Dragon's Wrath	TBOLT	TBOLT03a.png,TBOLT03b.png	1	Quest	(Dragon) The Battle of Lake-Town									-		3				
@@ -1020,30 +1020,30 @@ The Pursuit	TDF	TDF-22.png,TDF-23.png	1	Quest	(Dart, Leaf) The Druadan Forest
 An Untimely End	TDF	TDF-24.png,TDF-25.png	1	Quest	(Dart, Leaf) The Druadan Forest															
 The Passage Out	TDF	TDF-26.png,TDF-27.png	1	Quest	(Dart, Leaf) The Druadan Forest															
 Book of Eldacar	EaAD	EaAD-01		Attachment	Tactics															
-Burning Farmhouse	EaAD	EaAD-02,encounter	4	Location	(BurningHouse) Encounter at Amon Dîn															
-Burnt Homestead	EaAD	EaAD-03,encounter	2	Treachery	(BurningHouse) Encounter at Amon Dîn															
-Craven Eagle	EaAD	EaAD-04,encounter	2	Enemy	(BurningHouse) Encounter at Amon Dîn															
-Dead Villagers	EaAD	EaAD-05,encounter	1	Objective	(BurningHouse) Encounter at Amon Dîn															
+Burning Farmhouse	EaAD	EaAD-02,encounter	4	Location	(BurningHouse) Encounter at Amon D?n															
+Burnt Homestead	EaAD	EaAD-03,encounter	2	Treachery	(BurningHouse) Encounter at Amon D?n															
+Craven Eagle	EaAD	EaAD-04,encounter	2	Enemy	(BurningHouse) Encounter at Amon D?n															
+Dead Villagers	EaAD	EaAD-05,encounter	1	Objective	(BurningHouse) Encounter at Amon D?n															
 Denethor (EaAD)	EaAD	EaAD-06		Ally	Leadership															
-Ghulat	EaAD	EaAD-07,encounter	1	Enemy	(BurningHouse) Encounter at Amon Dîn															
+Ghulat	EaAD	EaAD-07,encounter	1	Enemy	(BurningHouse) Encounter at Amon D?n															
 Gondorian Discipline	EaAD	EaAD-08		Event	Tactics															
-Gondorian Hamlet	EaAD	EaAD-09,encounter	4	Location	(BurningHouse) Encounter at Amon Dîn															
+Gondorian Hamlet	EaAD	EaAD-09,encounter	4	Location	(BurningHouse) Encounter at Amon D?n															
 Hobbit-Sense	EaAD	EaAD-10		Event	Neutral															
 Ithilien Archer	EaAD	EaAD-11		Ally	Lore															
 Ithilien Pit	EaAD	EaAD-12		Attachment	Lore															
-Lord Alcaron	EaAD	EaAD-13,encounter	1	Objective.-.Ally	(BurningHouse) Encounter at Amon Dîn															
+Lord Alcaron	EaAD	EaAD-13,encounter	1	Objective.-.Ally	(BurningHouse) Encounter at Amon D?n															
 Lord of Morthond	EaAD	EaAD-14		Attachment	Leadership															
-Marauding Orc	EaAD	EaAD-15,encounter	4	Enemy	(BurningHouse) Encounter at Amon Dîn															
+Marauding Orc	EaAD	EaAD-15,encounter	4	Enemy	(BurningHouse) Encounter at Amon D?n															
 Minas Tirith Lampwright	EaAD	EaAD-16		Ally	Spirit															
-Orc Ravager	EaAD	EaAD-17,encounter	3	Enemy	(BurningHouse) Encounter at Amon Dîn															
-Panicked!	EaAD	EaAD-18,encounter	2	Treachery	(BurningHouse) Encounter at Amon Dîn															
+Orc Ravager	EaAD	EaAD-17,encounter	3	Enemy	(BurningHouse) Encounter at Amon D?n															
+Panicked!	EaAD	EaAD-18,encounter	2	Treachery	(BurningHouse) Encounter at Amon D?n															
 Pippin	EaAD	EaAD-19		Hero	Spirit														<s><a>y</a><l>Initialise counters</l><f>/ccwhite=1</f></s>	
-Rescued Villagers	EaAD	EaAD-20,encounter	1	Objective	(BurningHouse) Encounter at Amon Dîn															
-Secluden Farmhouse	EaAD	EaAD-21,encounter	3	Location	(BurningHouse) Encounter at Amon Dîn															
+Rescued Villagers	EaAD	EaAD-20,encounter	1	Objective	(BurningHouse) Encounter at Amon D?n															
+Secluden Farmhouse	EaAD	EaAD-21,encounter	3	Location	(BurningHouse) Encounter at Amon D?n															
 Small Target	EaAD	EaAD-22		Event	Spirit															
-Trapped Inside	EaAD	EaAD-23,encounter	2	Treachery	(BurningHouse) Encounter at Amon Dîn															
-Savagery of the Orcs	EaAD	EaAD-24.png,EaAD-25.png	1	Quest	(BurningHouse,Sabre) Encounter at Amon Dîn															
-Protect the Villages	EaAD	EaAD-26.png,EaAD-27.png	1	Quest	(BurningHouse,Sabre) Encounter at Amon Dîn															
+Trapped Inside	EaAD	EaAD-23,encounter	2	Treachery	(BurningHouse) Encounter at Amon D?n															
+Savagery of the Orcs	EaAD	EaAD-24.png,EaAD-25.png	1	Quest	(BurningHouse,Sabre) Encounter at Amon D?n															
+Protect the Villages	EaAD	EaAD-26.png,EaAD-27.png	1	Quest	(BurningHouse,Sabre) Encounter at Amon D?n															
 Ancient Harbor	AOO	AOO-01-1,encounter	1	Location	(Flag) Assault on Osgiliath															
 Counter-Attack	AOO	AOO-02-2,encounter	2	Treachery	(Flag) Assault on Osgiliath															
 East Quarter	AOO	AOO-03-2,encounter	2	Location	(Flag) Assault on Osgiliath															
@@ -1416,3 +1416,255 @@ Return to Mirkwood (Nightmare)	Nightmare	N-RTM7,N-RTM6		Nightmare.-.Location	Ret
 Web-Spinner (Nightmare)	Nightmare	N-RTM8	3	Nightmare.-.Enemy	Return to Mirkwood (Nightmare)															
 Web-Wall (Nightmare)	Nightmare	N-RTM9	3	Nightmare.-.Location	Return to Mirkwood (Nightmare)															
 Wickedness and Mischief (Nightmare)	Nightmare	N-RTM10	2	Nightmare.-.Treachery	Return to Mirkwood (Nightmare)															
+Celeborn	TDT	TDT01	1	Hero	Leadership	*	Silvan. Noble. 	11		3	2	2	4				Response:?After a?Silvan?ally enters play, that ally gets +1??+1??and +1??until the end of the round.			
+Firefoot	TDT	TDT02	3	Attachment	Tactics	*														
+Naith Guide	TDT	TDT03	3	Ally	Leadership				2	1	1	0	1							
+Blue Mountain Trader	TDT	TDT04	3	Ally	Spirit				2	1	0	1	2							
+Ithilien Lookout	TDT	TDT05	3	Ally	Lore				3	1	2	0	2							
+The Fall of Gil-Galad	TDT	TDT06	3	Attachment	Spirit															
+Chief Turch	TDT	TDT07,encounter	1	Enemy	(Wolf) The Dunland Trap	*														
+Swift and Silent	TDT	TDT08,encounter	3	Event	Leadership															
+Close Call	TDT	TDT09,encounter	3	Event	Tactics															
+The Tree People	TDT	TDT10,encounter	3	Event	Lore															
+The White Council	TDT	TDT11,encounter	3	Event	Neutral															
+Munuv D?v Ravine	TDT	TDT12,encounter	1	Location	(Wolf) The Dunland Trap	*														
+Old South Road (TDT)	TDT	TDT13,encounter	1	Location	(Wolf) The Dunland Trap	*														
+Boar Clan Stalker	TDT	TDT14,encounter	3 (2)	Enemy	(Wolf) The Dunland Trap															
+Boar Clan Warrior	TDT	TDT15,encounter	4	Enemy	(Wolf) The Dunland Trap															
+Hithaeglir Foothills	TDT	TDT16,encounter	2 (1)	Location	(Wolf) The Dunland Trap															
+Hills of Dunland	TDT	TDT17,encounter	4 (2)	Location	(Wolf) The Dunland Trap															
+Plains of Enedwaith	TDT	TDT18,encounter	3	Location	(Wolf) The Dunland Trap															
+Hithaeglir Stream	TDT	TDT19,encounter	4	Location	(Wolf) The Dunland Trap															
+Frenzied Attack	TDT	TDT20,encounter	3	Treachery	(Wolf) The Dunland Trap															
+Dunlending Ambush	TDT	TDT21,encounter	3	Treachery	(Wolf) The Dunland Trap															
+The Road to Tharbad	TDT	TDT22.png,TDT23.png	1	Quest	(Wolf, OrcFlag, Fork) The Dunland Trap															
+A Well Laid Trap	TDT	TDT24.png,TDT25.png	1	Quest	(Wolf, OrcFlag, Fork) The Dunland Trap															
+No Way Out	TDT	TDT26.png,TDT27.png	1	Quest	(Wolf, OrcFlag, Fork) The Dunland Trap															
+Idraen	TTT	TTT01	1	Hero	Spirit	*	Dunedain. Ranger. Scout.	11		2	3	2	4				Response:?After a?location?is explored, ready Idraen.			
+Rumil	TTT	TTT02	3	Ally	Tactics	*			4	2	2	1	2							
+Warden of Arnor	TTT	TTT03	3	Attachment	Spirit	*														
+Rivendell Scout	TTT	TTT04	3	Ally	Leadership															
+Greyflood Wanderer	TTT	TTT05	3	Ally	Spirit				3	2	1	0	2							
+Key of the Boar	TTT	TTT06	1	Objective	(Hilt) The Three Trials	*														
+Key of the Wolf	TTT	TTT07	1	Objective	(Hilt) The Three Trials	*														
+Key of the Raven	TTT	TTT08	1	Objective	(Hilt) The Three Trials	*														
+Elven Mail	TTT	TTT09	3	Attachment	Tactics															
+Leaf Brooch	TTT	TTT10	3	Attachment	Neutral															
+Boar's Guardian	TTT	TTT11	1	Enemy	(Hilt) The Three Trials	*														
+Wolf's Guardian	TTT	TTT12	1	Enemy	(Hilt) The Three Trials	*														
+Raven's Guardian	TTT	TTT13	1	Enemy	(Hilt) The Three Trials	*														
+Feigned Voices	TTT	TTT14	3	Event	Leadership															
+Message from Elrond	TTT	TTT15	3	Event	Lore															
+Noiseless Movement	TTT	TTT16	3	Event	Lore															
+Hallowed Circle	TTT	TTT17	1	Location	(Hilt) The Three Trials															
+Spirit of the Wild	TTT	TTT18	5 (4)	Enemy	(Hilt) The Three Trials															
+Hill Barrow	TTT	TTT19	1	Location	(Hilt) The Three Trials															
+Cave Barrow	TTT	TTT20	1	Location	(Hilt) The Three Trials															
+Stone Barrow	TTT	TTT21	1	Location	(Hilt) The Three Trials															
+Cursed Forest	TTT	TTT22	2	Location	(Hilt) The Three Trials															
+Grim Foothills	TTT	TTT23	3 (2)	Location	(Hilt) The Three Trials															
+Curse of the Wild Men	TTT	TTT24	2 (1)	Treachery	(Hilt) The Three Trials															
+The Guardian's Fury	TTT	TTT25	2 (0)	Treachery	(Hilt) The Three Trials															
+Wild Tenacity	TTT	TTT26	3 (2)	Treachery	(Hilt) The Three Trials															
+The Trial Begins	TTT	TTT27.png,TTT28.png	1	Quest	(Hilt, Trees) The Three Trials															
+The Trial of Strength	TTT	TTT29.png,TTT30.png	1	Quest	(Hilt, Trees) The Three Trials															
+The Trial of Perseverance	TTT	TTT31.png,TTT32.png	1	Quest	(Hilt, Trees) The Three Trials															
+The Trial of Intuition	TTT	TTT33.png,TTT34.png	1	Quest	(Hilt, Trees) The Three Trials															
+The Antlered Crown	TTT	TTT35.png,TTT36.png	1	Quest	(Hilt, Trees) The Three Trials															
+Haldir of Lorien (TiT)	TiT	TiT01	1	Hero	Lore	*	Silvan. Ranger. Scout	9		2	3	1	3		Ranged.		Combat Action: If you have not engaged an enemy this round, exhaust Haldir of L?rien to declare him as an attacker (and resolve his attack) against an enemy not engaged with you. Limit once per round.			
+Gwaihir	TiT	TiT02	3	Ally	Tactics	*			5	2	3	1	4							
+O Lorien!	TiT	TiT03	3	Attachment	Leadership	*														
+Herald of Anorien	TiT	TiT04	3	Ally	Leadership				2	1	0	1	1							
+Galadhrim Minstrel	TiT	TiT05	3	Ally	Lore				2	1	0	0	1							
+Defender of the Naith	TiT	TiT06	3	Ally	Neutral				3	0	1	2	2							
+Nalir	TiT	TiT07	1	Objective-Ally	(TornMap) Trouble in Tharbad					0	1	2	3							
+Lembas	TiT	TiT08	3	Attachment	Lore															
+Bellach	TiT	TiT09	1	Enemy	(TornMap) Trouble in Tharbad	*														
+Pursuing the Enemy	TiT	TiT10	3	Event	Tactics															
+Courage Awakened	TiT	TiT11	3	Event	Spirit															
+Free to Choose	TiT	TiT12	3	Event	Spirit															
+The Empty Mug	TiT	TiT13	1	Location	(TornMap) Trouble in Tharbad															
+Spy from Mordor	TiT	TiT14	4	Enemy	(TornMap) Trouble in Tharbad															
+Bellach's Marauder	TiT	TiT15	2 (1)	Enemy	(TornMap) Trouble in Tharbad															
+The Crossing at Tharbad	TiT	TiT16	1	Location	(TornMap) Trouble in Tharbad															
+Streets of Tharbad	TiT	TiT17	2	Location	(TornMap) Trouble in Tharbad															
+Tharbad Hideout	TiT	TiT18	2	Location	(TornMap) Trouble in Tharbad															
+Ruins of the Second Age	TiT	TiT19	2 (1)	Location	(TornMap) Trouble in Tharbad															
+Seedy Inn	TiT	TiT20	2 (1)	Location	(TornMap) Trouble in Tharbad															
+Hidden Alleyway	TiT	TiT21	2	Location	(TornMap) Trouble in Tharbad															
+Decrepit Rooftops	TiT	TiT22	2	Location	(TornMap) Trouble in Tharbad															
+Constant Tail	TiT	TiT23	2	Treachery	(TornMap) Trouble in Tharbad															
+Conspicuous Lot	TiT	TiT24	2 (1)	Treachery	(TornMap) Trouble in Tharbad															
+Cornered	TiT	TiT25	2	Treachery	(TornMap) Trouble in Tharbad															
+Get That Dwarf!	TiT	TiT26	2 (1)	Treachery	(TornMap) Trouble in Tharbad															
+Double Dealings	TiT	TiT27.png,TiT28.png	1	Quest	(TornMap, Nobel) Trouble in Tharbad															
+Escape from Tharbad	TiT	TiT29.png,TiT30.png	1	Quest	(TornMap, Nobel) Trouble in Tharbad															
+Mablung	NiE	NiE01	1	Hero	Tactics	*	Gondor. Ranger.	10		2	2	2	4				Response: After you engage an enemy, add 1 resource to Mablung's resource pool. (Limit once per phase.)			
+Nalir	NiE	NiE02	1	Objective-Ally	(Tentacles) The Nin-in-Eilph	*				0	1	2	3							
+Wingfoot	NiE	NiE03	3	Attachment	Lore	*														
+Defender of the West	NiE	NiE04	3	Attachment	Neutral	*														
+Galadhon Archer	NiE	NiE05	3	Ally	Tactics				2	0	2	0	1							
+Celduin Traveler	NiE	NiE06	3	Ally	Spirit				3	2	0	1	2							
+Mirkwood Pioneer	NiE	NiE07	3	Ally	Lore				2	1	0	0	2							
+Bow of the Galadhrim	NiE	NiE08	3	Attachment	Tactics															
+Ancient Marsh-dweller	NiE	NiE09	1	Enemy	(Tentacles) The Nin-in-Eilph	*														
+Follow Me!	NiE	NiE10	3	Event	Leadership															
+Tighten Our Belts	NiE	NiE11	3	Event	Leadership															
+Island Amid Perils	NiE	NiE12	3	Event	Spirit															
+Giant Swamp Adder	NiE	NiE13	4 (3)	Enemy	(Tentacles) The Nin-in-Eilph															
+Neekerbreekers	NiE	NiE14	3	Enemy	(Tentacles) The Nin-in-Eilph															
+Fen of Reeds	NiE	NiE15	3 (2)	Location	(Tentacles) The Nin-in-Eilph															
+Finger of Glanduin	NiE	NiE16	3	Location	(Tentacles) The Nin-in-Eilph															
+Hidden Eyot	NiE	NiE17	2	Location	(Tentacles) The Nin-in-Eilph															
+Sinking Bog	NiE	NiE18	3	Location	(Tentacles) The Nin-in-Eilph															
+Shifting Marshland	NiE	NiE19	3 (2)	Treachery	(Tentacles) The Nin-in-Eilph															
+Remnants of Elder Days	NiE	NiE20	1 (0)	Treachery	(Tentacles) The Nin-in-Eilph															
+Fleeing from Tharbad	NiE	NiE21.png,NiE22.png	1	Quest	(Tentacles, OrcFlag) The Nin-in-Eilph															
+Through the Marsh, No End in Sight	NiE	NiE23.png,NiE24.png	1	Quest	(Tentacles, OrcFlag) The Nin-in-Eilph															
+Through the Marsh, A Weary Passage	NiE	NiE25.png,NiE26.png	1	Quest	(Tentacles, OrcFlag) The Nin-in-Eilph															
+Through the Marsh, A Forgotton Land	NiE	NiE27.png,NiE28.png	1	Quest	(Tentacles, OrcFlag) The Nin-in-Eilph															
+Lost in Swanfleet, Impassable Marshland	NiE	NiE29.png,NiE30.png	1	Quest	(Tentacles, OrcFlag) The Nin-in-Eilph															
+Lost in Swanfleet, A Treacherous Swamp	NiE	NiE31.png,NiE32.png	1	Quest	(Tentacles, OrcFlag) The Nin-in-Eilph															
+Lost in Swanfleet, Creatures of a Forgotton Age	NiE	NiE33.png,NiE34.png	1	Quest	(Tentacles, OrcFlag) The Nin-in-Eilph															
+Out of the Swamp	NiE	NiE35.png,NiE36.png	1	Quest	(Tentacles, OrcFlag) The Nin-in-Eilph															
+Galadriel (CS)	CS	CS01	1	Hero	Spirit	*	Noldor. Noble.	9		4	0	0	4				Galadriel cannot quest, attack, or defend. Allies you control do not exhaust to commit to the quest during the round they enter play. Action: Exhaust Galadriel to choose a player. That player reduces his threat by 1 and draws 1 card. (Limit once per round.)			
+Orophin	CS	CS02	3	Ally	Leadership	*			3	2	2	0	2							
+Heir of Mardil	CS	CS03	3	Attachment	Leadership	*														
+Mirror of Galadriel	CS	CS04	3	Attachment	Spirit	*														
+Nenya	CS	CS05	3	Attachment	Neutral	*														
+Henneth Annun Guard	CS	CS06	3	Ally	Tactics				3	0	2	2	2							
+Galadriel's Handmaiden	CS	CS07	3	Ally	Spirit				2	2	0	1	1							
+Wandering Ent	CS	CS08	3	Ally	Lore				2	2	2	2	3							
+Celebrimbor's Mould	CS	CS09	1	Objective	(Remains) Celebrimbor's Secret															
+Cloak of Lorien	CS	CS10	3	Attachment	Lore															
+Bellach	CS	CS11	1	Enemy	(Remains) Celebrimbor's Secret	*														
+the Orcs' Search	CS	CS12	1	Objective	(Remains) Celebrimbor's Secret															
+Charge of the Rohirrim	CS	CS13	3	Event	Tactics															
+Bellach's Scout	CS	CS14	4 (3)	Enemy	(Remains) Celebrimbor's Secret															
+Prowling Orc	CS	CS15	2 (1)	Enemy	(Remains) Celebrimbor's Secret															
+The Secret Chamber	CS	CS16	1	Location	(Remains) Celebrimbor's Secret															
+Ruined Plaza	CS	CS17	3	Location	(Remains) Celebrimbor's Secret															
+Collapsed Tower	CS	CS18	2	Location	(Remains) Celebrimbor's Secret															
+Ancient Foundation	CS	CS19	4	Location	(Remains) Celebrimbor's Secret															
+City Remains	CS	CS20	4 (2)	Location	(Remains) Celebrimbor's Secret															
+Discovered!	CS	CS21	2 (0)	Treachery	(Remains) Celebrimbor's Secret															
+Desecrated Ruins	CS	CS22	3	Treachery	(Remains) Celebrimbor's Secret															
+Spies from Mordor	CS	CS23	2	Treachery	(Remains) Celebrimbor's Secret															
+The Ruins of Ost-in-Edhil	CS	CS24.png,CS25.png	1	Quest	(Remains, Nobel, ShootStar) Celebrimbor's Secret															
+The Enemy's Servant	CS	CS26.png,CS27.png	1	Quest	(Remains, Nobel, ShootStar) Celebrimbor's Secret															
+Erkenbrand	TAC	TAC01	1	Hero	Leadership	*	Rohan. Warrior.	10		1	2	3	4		Sentinal.		While Erkenbrand is defending, he gains: Response: Deal 1 damage to Erkenbrand to cancel a shadow effect just triggered.			
+Treebeard	TAC	TAC02	3	Ally	Neutral	*			4	2	4	3	5							
+Chief Turch (TAC)	TAC	TAC03	1	Objective-Ally	(Antlers) The Antlered Crown	*														
+The Day's Rising	TAC	TAC04	3	Attachment	Leadership	*														
+Captain of Gondor	TAC	TAC05	3	Attachment	Tactics	*														
+Warden of Helm's Deep	TAC	TAC06	3	Ally	Leadership				3	0	1	3	2							
+Booming Ent	TAC	TAC07	3	Ally	Tactics				2	0	2	2	3							
+Raven Chief	TAC	TAC08	1	Enemy	(Antlers) The Antlered Crown															
+Ride Them Down	TAC	TAC09	3	Event	Spirit															
+Shadows Give Way	TAC	TAC10	3	Event	Spirit															
+Don't Be Hasty!	TAC	TAC11	3	Event	Lore															
+Waters of Nimrodel	TAC	TAC12	3	Event	Lore															
+Raven Chief's Camp	TAC	TAC13	1	Location	(Antlers) The Antlered Crown															
+Raven Warrior	TAC	TAC14	4 (3)	Enemy	(Antlers) The Antlered Crown															
+Raven Skirmisher	TAC	TAC15	3 (2)	Enemy	(Antlers) The Antlered Crown															
+Raven War-camp	TAC	TAC16	4 (2)	Location	(Antlers) The Antlered Crown															
+Raven Villiage	TAC	TAC17	3	Location	(Antlers) The Antlered Crown															
+Dunland Battlefield	TAC	TAC18	3	Location	(Antlers) The Antlered Crown															
+Raven Country	TAC	TAC19	2	Location	(Antlers) The Antlered Crown															
+Raising the Cry	TAC	TAC20	3 (2)	Treachery	(Antlers) The Antlered Crown															
+Fierce Folk	TAC	TAC21	2 (1)	Treachery	(Antlers) The Antlered Crown															
+Driven Back	TAC	TAC22	2	Treachery	(Antlers) The Antlered Crown															
+Battle for Dunland	TAC	TAC23.png,TAC24.png	1	Quest	(Antlers, Sword, Fork) The Antlered Crown															
+The Raven Clan	TAC	TAC25.png,TAC26.png	1	Quest	(Antlers, Sword, Fork) The Antlered Crown															
+The Last Stage	TAC	TAC27.png,TAC28.png	1	Quest	(Antlers, Sword, Fork) The Antlered Crown															
+Ancient Guardroom	TRD	TRD001,encounter	2	Location	(Balrog) Journey in the Dark															
+Anduril	TRD	TRD002	1	Attachment	Neutral	*														
+Bilbo Baggins (TRD)	TRD	TRD003	3	Ally	Spirit	*			2	2	0	0	2							
+Bitter Cold	TRD	TRD004,encounter	2 (1)	Treachery	(Warg) The Ring Goes South															
+Black Feathered Arrows	TRD	TRD005,encounter	3	Treachery	(Break) Breaking of the Fellowship															
+Boromir (TRD)	TRD	TRD006,encounter	3	Ally	Tactics	*			4	1	3	1	4							
+Chamber of Mazarbul	TRD	TRD007,encounter	1	Location	(Balrog) Journey in the Dark															
+Crebain from Dunland	TRD	TRD008,encounter	2	Enemy	(Warg) The Ring Goes South															
+Darkened Stairway	TRD	TRD009,encounter	2 (1)	Location	(Balrog) Journey in the Dark															
+Deep Fissure	TRD	TRD010,encounter	3	Treachery	(Balrog) Journey in the Dark															
+Doom, Doom, Doom	TRD	TRD011,encounter	1	Objective	(Balrog) Journey in the Dark															
+Doors of Durin (TRD)	TRD	TRD012,encounter	1	Location	(Warg) The Ring Goes South															
+Elrond (TRD)	TRD	TRD013,encounter	3	Ally	Lore	*			3	3	2	3	3							
+Eregion	TRD	TRD014,encounter	3 (2)	Location	(Warg) The Ring Goes South															
+Fallen Into Evil	TRD	TRD015,encounter	1 (0)	Treachery	(Break) Breaking of the Fellowship															
+Fellowship of the Ring	TRD	TRD016,encounter	3	Attachment	Ring	*														
+Flame of Anor	TRD	TRD017,encounter	3	Event	Neutral															
+Followed by Night (TRD)	TRD	TRD018,encounter	1	Treachery	(Break) Breaking of the Fellowship															
+Fool of a Took!	TRD	TRD019,encounter	2 (1)	Treachery	(Balrog) Journey in the Dark															
+Frodo Baggins (TRD)	TRD	TRD020	1	Hero	Ring	*	Hobbit. Ring-bearer.	0		2	1	2	2				Response: After Frodo Baggins exhausts to defend an attack, exhaust The One Ring and spend 1 Fellowship resource to target the attacking enemy. Then, this attack deals no damage and each player raises his threat by 2.			
+Frodo's Choice	TRD	TRD021,encounter	1	Objective	(Break) Breaking of the Fellowship															
+Galadriel (TRD)	TRD	TRD022	3	Ally	Leadership	*			3	3	0	0	3							
+Gandalf (TRD)	TRD	TRD023	1	Hero	Neutral	*	Istarti. 	14		3	3	3	5				Play with the top card of your deck faceup. Once per phase, you may play the top card of your deck as if it was in your hand. When playing a card this way, Gandalf is considered to have the printed Leadership, Lore, Tactics, and Spirit icons.			
+Gandalf's Staff	TRD	TRD024	3	Attachment	Neutral	*														
+Glamdring (TRD)	TRD	TRD025	1	Attachment	Neutral	*														
+Great Cave-troll (TRD)	TRD	TRD026,encounter	2 (1)	Enemy	(Balrog) Journey in the Dark															
+Great Warg Chief	TRD	TRD027,encounter	1	Enemy	(Warg) The Ring Goes South															
+Grievous Wound	TRD	TRD028,encounter	1	Objective	(Balrog) Journey in the Dark															
+Growing Threat	TRD	TRD029,encounter	2	Treachery	(Break) Breaking of the Fellowship															
+Hills of Hollin	TRD	TRD030,encounter	3	Location	(Warg) The Ring Goes South															
+Hound of Sauron	TRD	TRD031,encounter	4 (2)	Enemy	(Warg) The Ring Goes South															
+Howling Warg	TRD	TRD032,encounter	4	Enemy	(Warg) The Ring Goes South															
+Ill Fate	TRD	TRD033,encounter	1	Treachery	(Break) Breaking of the Fellowship															
+Leaf-wrapped Lembas	TRD	TRD034	1	Attachment	Neutral	*														
+Lorien Rope	TRD	TRD035	1	Attachment	Neutral	*														
+Lust for the Ring	TRD	TRD036,encounter	1	Treachery	(Warg) The Ring Goes South															
+Many-pillared Hall	TRD	TRD037,encounter	4 (3)	Location	(Balrog) Journey in the Dark															
+Mines of Moria	TRD	TRD038,encounter	4	Location	(Balrog) Journey in the Dark															
+Mithril Shirt (TRD)	TRD	TRD039	1	Attachment	Neutral	*														
+Moria Archer	TRD	TRD040,encounter	3(2)	Enemy	(Balrog) Journey in the Dark															
+Moria Orc	TRD	TRD041,encounter	3	Enemy	(Balrog) Journey in the Dark															
+Orc-chieftain	TRD	TRD042,encounter	1	Enemy	(Balrog) Journey in the Dark															
+Orcs of the White Hand	TRD	TRD043,encounter	2	Treachery	(Break) Breaking of the Fellowship															
+Overcome by Grief	TRD	TRD044,encounter	1	Objective	(Balrog) Journey in the Dark															
+Parth Galen	TRD	TRD045,encounter	1	Location	(Break) Breaking of the Fellowship															
+Phial of Galadriel	TRD	TRD046	1	Attachment	Neutral	*														
+Pursued by the Enemy (TRD)	TRD	TRD047,encounter	1	Treachery	(Balrog) Journey in the Dark															
+Redhorn Foothills	TRD	TRD048,encounter	3 (2)	Location	(Warg) The Ring Goes South															
+Redhorn Pass	TRD	TRD049,encounter	1	Location	(Warg) The Ring Goes South															
+Regiments of Crows	TRD	TRD050,encounter	2 (1)	Treachery	(Warg) The Ring Goes South															
+River Anduin	TRD	TRD051,encounter	4	Location	(Break) Breaking of the Fellowship															
+Sarn Gebir  	TRD	TRD052,encounter	1	Location	(Break) Breaking of the Fellowship															
+Seat of Seeing	TRD	TRD053,encounter	1	Location	(Break) Breaking of the Fellowship															
+Shadow of Fear (TRD)	TRD	TRD054,encounter	1	Treachery	(Balrog) Journey in the Dark															
+Slopes of Amon Hen	TRD	TRD055,encounter	3	Location	(Break) Breaking of the Fellowship															
+Snowdrifts (TRD)	TRD	TRD056,encounter	2	Treachery	(Warg) The Ring Goes South															
+Sting (TRD)	TRD	TRD057	1	Attachment	Neutral	*														
+Storm of Howls	TRD	TRD058,encounter	3 (2)	Treachery	(Warg) The Ring Goes South															
+The Argonath	TRD	TRD059,encounter	1	Location	(Break) Breaking of the Fellowship															
+The Balrog	TRD	TRD060,encounter	1	Enemy	(Balrog) Journey in the Dark															
+The Great Bridge	TRD	TRD061,encounter	1	Location	(Balrog) Journey in the Dark															
+The One Ring (TRD)	TRD	TRD062,encounter	1	Objective	Ring	*														
+They Are Coming!	TRD	TRD063,encounter	2 (1)	Treachery	(Balrog) Journey in the Dark															
+Three Golden Hairs	TRD	TRD064	1	Attachment	Neutral	*														
+Tree-crowned Hill	TRD	TRD065,encounter	1	Location	(Warg) The Ring Goes South															
+Uruk from Mordor	TRD	TRD066,encounter	3 (2)	Enemy	(Balrog) Journey in the Dark															
+Uruk-hai Archer	TRD	TRD067,encounter	4 (3)	Enemy	(Break) Breaking of the Fellowship															
+Uruk-hai Captain	TRD	TRD068,encounter	2 (1)	Enemy	(Break) Breaking of the Fellowship															
+Uruk-hai Hunter	TRD	TRD069,encounter	3 (2)	Enemy	(Break) Breaking of the Fellowship															
+Uruk-hai Tracker	TRD	TRD070,encounter	3 (2)	Enemy	(Break) Breaking of the Fellowship															
+Watcher in the Water (TRD)	TRD	TRD071,encounter	1	Enemy	(Warg) The Ring Goes South															
+We Cannot Get Out	TRD	TRD072,encounter	3 (2)	Treachery	(Balrog) Journey in the Dark															
+Wizard Pipe	TRD	TRD073	3	Attachment	Neutral															
+Wooded Shoreline	TRD	TRD074,encounter	3 (1)	Location	(Break) Breaking of the Fellowship															
+Breaking of the Fellowship	TRD	TRD075,TRD076	1	Campaign	(Break) Breaking of the Fellowship															
+Journey in the Dark	TRD	TRD077,TRD078	1	Campaign	(Balrog) Journey in the Dark															
+The Ring Goes South	TRD	TRD079,TRD080	1	Campaign	(Warg) The Ring Goes South															
+Drums in the Deep	TRD	TRD081.png,TRD082.png	1	Quest	(Balrog) Journey in the Dark															
+Guard the Hobbits	TRD	TRD083.png,TRD084.png	1	Quest	(Break) Breaking of the Fellowship															
+Orc Hunting  	TRD	TRD085.png,TRD086.png	1	Quest	(Break) Breaking of the Fellowship															
+Searching the Woods	TRD	TRD087.png,TRD088.png	1	Quest	(Break) Breaking of the Fellowship															
+The Bridge of Khazad-dum	TRD	TRD089.png,TRD090.png	1	Quest	(Balrog) Journey in the Dark															
+The Company Divided	TRD	TRD091.png,TRD092.png	1	Quest	(Break) Breaking of the Fellowship															
+The Council of Elrond	TRD	TRD093.png,TRD094.png	1	Quest	(Warg) The Ring Goes South															
+The Gates of Moria	TRD	TRD095.png,TRD096.png	1	Quest	(Warg) The Ring Goes South															
+The Great River	TRD	TRD097.png,TRD098.png	1	Quest	(Break) Breaking of the Fellowship															
+The Hunt is Up!	TRD	TRD099.png,TRD100.png	1	Quest	(Warg) The Ring Goes South															
+The Long Dark of Moria	TRD	TRD101.png,TRD102.png	1	Quest	(Balrog) Journey in the Dark															
+The Nine Walkers	TRD	TRD103.png,TRD104.png	1	Quest	(Warg) The Ring Goes South															
+The Ring-bearer Sets Out	TRD	TRD105.png,TRD106.png	1	Quest	(Break) Breaking of the Fellowship															
+The Seat of Amon Hen	TRD	TRD107.png,TRD108.png	1	Quest	(Break) Breaking of the Fellowship															
