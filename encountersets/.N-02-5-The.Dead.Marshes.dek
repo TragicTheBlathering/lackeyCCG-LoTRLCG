@@ -1,0 +1,59 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="TDM03,encounter">A Wisp of Pale Sheen</name><set>TDM</set></card>
+		<card><name id="TDM03,encounter">A Wisp of Pale Sheen</name><set>TDM</set></card>
+		<card><name id="TDM10,encounter">Giant Marsh Worm</name><set>TDM</set></card>
+		<card><name id="TDM10,encounter">Giant Marsh Worm</name><set>TDM</set></card>
+		<card><name id="TDM12,encounter">Impassable Bog</name><set>TDM</set></card>
+		<card><name id="TDM12,encounter">Impassable Bog</name><set>TDM</set></card>
+		<card><name id="TDM12,encounter">Impassable Bog</name><set>TDM</set></card>
+		<card><name id="TDM12,encounter">Impassable Bog</name><set>TDM</set></card>
+		<card><name id="TDM13,encounter">Nightfall</name><set>TDM</set></card>
+		<card><name id="TDM13,encounter">Nightfall</name><set>TDM</set></card>
+		<card><name id="TDM13,encounter">Nightfall</name><set>TDM</set></card>
+		<card><name id="TDM17,encounter">The Heart of the Marshes</name><set>TDM</set></card>
+		<card><name id="TDM17,encounter">The Heart of the Marshes</name><set>TDM</set></card>
+		<card><name id="TDM17,encounter">The Heart of the Marshes</name><set>TDM</set></card>
+		<card><name id="TDM17,encounter">The Heart of the Marshes</name><set>TDM</set></card>
+		<card><name id="TDM18,encounter">The Lights of the Dead</name><set>TDM</set></card>
+		<card><name id="TDM18,encounter">The Lights of the Dead</name><set>TDM</set></card>
+		<card><name id="TDM18,encounter">The Lights of the Dead</name><set>TDM</set></card>
+		<card><name id="TDM18,encounter">The Lights of the Dead</name><set>TDM</set></card>
+		<card><name id="TDM19,encounter">Through the Mist</name><set>TDM</set></card>
+		<card><name id="TDM19,encounter">Through the Mist</name><set>TDM</set></card>
+		<card><name id="core116,encounter">Evil Storm</name><set>Core</set></card>
+		<card><name id="core116,encounter">Evil Storm</name><set>Core</set></card>
+		<card><name id="core116,encounter">Evil Storm</name><set>Core</set></card>
+		<card><name id="core084,encounter">Marsh Adder</name><set>Core</set></card>
+		<card><name id="N-TDM1,encounter">Candles of Corpses (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-TDM2,encounter">Delivery of the Dark Land (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-TDM3,encounter">Ill-Fated Guard (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-TDM3,encounter">Ill-Fated Guard (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-TDM3,encounter">Ill-Fated Guard (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-TDM4,encounter">Lost Souls of Lorien (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-TDM4,encounter">Lost Souls of Lorien (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-TDM4,encounter">Lost Souls of Lorien (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-TDM5,encounter">Marsh Wight (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-TDM5,encounter">Marsh Wight (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-TDM6,encounter">Stagnant Quagmire (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-TDM6,encounter">Stagnant Quagmire (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-TDM6,encounter">Stagnant Quagmire (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-TDM7,encounter">Swarming Mosquitoes (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-TDM7,encounter">Swarming Mosquitoes (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-TDM10,encounter">The Mere of the Dead (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-TDM11,encounter">Things in the Pools (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-TDM11,encounter">Things in the Pools (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-TDM11,encounter">Things in the Pools (Nightmare)</name><set>Nightmare</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="TDM01a.png,TDM01b.png">Into the Marshes</name><set>TDM</set></card>
+		<card><name id="TDM02a.png,TDM02b.png">The Capture</name><set>TDM</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="TDM11,encounter">Gollum</name><set>TDM</set></card>
+		<card><name id="N-TDM9,N-TDM8">The Dead Marshes (Nightmare)</name><set>Nightmare</set></card>
+	</superzone>
+</deck>

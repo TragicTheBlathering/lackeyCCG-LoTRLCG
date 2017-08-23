@@ -1,0 +1,38 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="VoI34,encounter">Fords of Isen</name><set>VoI</set></card>
+		<card><name id="VoI34,encounter">Fords of Isen</name><set>VoI</set></card>
+		<card><name id="VoI34,encounter">Fords of Isen</name><set>VoI</set></card>
+		<card><name id="VoI35,encounter">Gap of Rohan</name><set>VoI</set></card>
+		<card><name id="VoI35,encounter">Gap of Rohan</name><set>VoI</set></card>
+		<card><name id="VoI70,encounter">The Kings Road</name><set>VoI</set></card>
+		<card><name id="VoI70,encounter">The Kings Road</name><set>VoI</set></card>
+		<card><name id="VoI39,encounter">Ill Tidings</name><set>VoI</set></card>
+		<card><name id="VoI39,encounter">Ill Tidings</name><set>VoI</set></card>
+		<card><name id="VoI60,encounter">Pillaging and Burning</name><set>VoI</set></card>
+		<card><name id="VoI26,encounter">Dunland Beserker</name><set>VoI</set></card>
+		<card><name id="VoI26,encounter">Dunland Beserker</name><set>VoI</set></card>
+		<card><name id="VoI26,encounter">Dunland Beserker</name><set>VoI</set></card>
+		<card><name id="VoI30,encounter">Dunland Tribesman</name><set>VoI</set></card>
+		<card><name id="VoI30,encounter">Dunland Tribesman</name><set>VoI</set></card>
+		<card><name id="VoI74,encounter">Wild Men of Dunland</name><set>VoI</set></card>
+		<card><name id="VoI28,encounter">Dunland Prowler</name><set>VoI</set></card>
+		<card><name id="VoI28,encounter">Dunland Prowler</name><set>VoI</set></card>
+		<card><name id="VoI28,encounter">Dunland Prowler</name><set>VoI</set></card>
+		<card><name id="VoI31,encounter">Dunlending Bandit</name><set>VoI</set></card>
+		<card><name id="VoI31,encounter">Dunlending Bandit</name><set>VoI</set></card>
+		<card><name id="VoI52,encounter">Old Hatreds</name><set>VoI</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="VoI03.png,VoI04.png">Dunlending Attack</name><set>VoI</set></card>
+		<card><name id="VoI01.png,VoI02.png">Fight at the Fords</name><set>VoI</set></card>
+		<card><name id="VoI05.png,VoI06.png">Hold the Fords</name><set>VoI</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="VoI36,encounter">Grima (VoI)</name><set>VoI</set></card>
+		<card><name id="VoI69,encounter">The Islet</name><set>VoI</set></card>
+	</superzone>
+</deck>

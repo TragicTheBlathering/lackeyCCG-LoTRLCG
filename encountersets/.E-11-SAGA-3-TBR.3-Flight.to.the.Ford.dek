@@ -1,0 +1,53 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="LBR41-4">Fell Rider</name><set>TBR</set></card>
+		<card><name id="LBR41-4">Fell Rider</name><set>TBR</set></card>
+		<card><name id="LBR41-4">Fell Rider</name><set>TBR</set></card>
+		<card><name id="LBR36-3">Ettenmoors</name><set>TBR</set></card>
+		<card><name id="LBR36-3">Ettenmoors</name><set>TBR</set></card>
+		<card><name id="LBR36-3">Ettenmoors</name><set>TBR</set></card>
+		<card><name id="LBR84-3">The Old Road (TBR)</name><set>TBR</set></card>
+		<card><name id="LBR84-3">The Old Road (TBR)</name><set>TBR</set></card>
+		<card><name id="LBR84-3">The Old Road (TBR)</name><set>TBR</set></card>
+		<card><name id="LBR88-1">The Troll&apos;s Camp</name><set>TBR</set></card>
+		<card><name id="LBR61-3">Pain Assailed Him</name><set>TBR</set></card>
+		<card><name id="LBR61-3">Pain Assailed Him</name><set>TBR</set></card>
+		<card><name id="LBR61-3">Pain Assailed Him</name><set>TBR</set></card>
+		<card><name id="LBR78-3">Stricken Dumb</name><set>TBR</set></card>
+		<card><name id="LBR78-3">Stricken Dumb</name><set>TBR</set></card>
+		<card><name id="LBR78-3">Stricken Dumb</name><set>TBR</set></card>
+		<card><name id="LBR83-2">The Nine Abroad</name><set>TBR</set></card>
+		<card><name id="LBR69-4">Ringwraith</name><set>TBR</set></card>
+		<card><name id="LBR69-4">Ringwraith</name><set>TBR</set></card>
+		<card><name id="LBR62-3">Pale Blade</name><set>TBR</set></card>
+		<card><name id="LBR67-3">Power in their Terror</name><set>TBR</set></card>
+		<card><name id="LBR64-3">Pathless Country</name><set>TBR</set></card>
+		<card><name id="LBR64-3">Pathless Country</name><set>TBR</set></card>
+		<card><name id="LBR64-3">Pathless Country</name><set>TBR</set></card>
+		<card><name id="LBR65-3">Piercing Cry</name><set>TBR</set></card>
+		<card><name id="LBR29-3">Black Steed</name><set>TBR</set></card>
+		<card><name id="LBR70-2">Rode Like a Gale</name><set>TBR</set></card>
+		<card><name id="LBR70-2">Rode Like a Gale</name><set>TBR</set></card>
+	</superzone>
+	<superzone name="2nd Encounter Deck">
+		<card><name id="LBR40-1">Fear of Discovery</name><set>TBR</set></card>
+		<card><name id="LBR60-1">Overcome by Terror</name><set>TBR</set></card>
+		<card><name id="LBR63-1">Panicked</name><set>TBR</set></card>
+		<card><name id="LBR95-1">Weight of the Ring</name><set>TBR</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="LBR01.png,LBR02.png">Pursued by the Enemy</name><set>TBR</set></card>
+		<card><name id="LBR03.png,LBR04.png">Race to Rivendale</name><set>TBR</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="LBR42,LBR43">Flight to the Ford</name><set>TBR</set></card>
+		<card><name id="LBR19-1">An Evil Wound</name><set>TBR</set></card>
+		<card><name id="LBR44-1">Ford of Bruinen</name><set>TBR</set></card>
+		<card><name id="LBR89-1">The Witch King</name><set>TBR</set></card>
+		<card><name id="LBR81-1">The Last Bridge</name><set>TBR</set></card>
+		<card><name id="LBR41-4">Fell Rider</name><set>TBR</set></card>
+	</superzone>
+</deck>

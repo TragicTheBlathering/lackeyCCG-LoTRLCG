@@ -1,0 +1,58 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="TLD089,encounter">Abandoned Mine</name><set>TLD</set></card>
+		<card><name id="TLD089,encounter">Abandoned Mine</name><set>TLD</set></card>
+		<card><name id="TLD089,encounter">Abandoned Mine</name><set>TLD</set></card>
+		<card><name id="TLD097,encounter">Cave Spider</name><set>TLD</set></card>
+		<card><name id="TLD097,encounter">Cave Spider</name><set>TLD</set></card>
+		<card><name id="TLD097,encounter">Cave Spider</name><set>TLD</set></card>
+		<card><name id="TLD088,encounter">Durin&apos;s Greaves</name><set>TLD</set></card>
+		<card><name id="TLD090,encounter">Dwarven Forge</name><set>TLD</set></card>
+		<card><name id="TLD090,encounter">Dwarven Forge</name><set>TLD</set></card>
+		<card><name id="TLD093,encounter">Fatigue</name><set>TLD</set></card>
+		<card><name id="TLD093,encounter">Fatigue</name><set>TLD</set></card>
+		<card><name id="TLD094,encounter">Foul Air</name><set>TLD</set></card>
+		<card><name id="TLD098,encounter">Goblin Sneak</name><set>TLD</set></card>
+		<card><name id="TLD098,encounter">Goblin Sneak</name><set>TLD</set></card>
+		<card><name id="TLD098,encounter">Goblin Sneak</name><set>TLD</set></card>
+		<card><name id="TLD098,encounter">Goblin Sneak</name><set>TLD</set></card>
+		<card><name id="TLD100,encounter">Rock Adder</name><set>TLD</set></card>
+		<card><name id="TLD100,encounter">Rock Adder</name><set>TLD</set></card>
+		<card><name id="TLD100,encounter">Rock Adder</name><set>TLD</set></card>
+		<card><name id="TLD091,encounter">Silent Caverns</name><set>TLD</set></card>
+		<card><name id="TLD091,encounter">Silent Caverns</name><set>TLD</set></card>
+		<card><name id="TLD092,encounter">Twisting Passage</name><set>TLD</set></card>
+		<card><name id="TLD092,encounter">Twisting Passage</name><set>TLD</set></card>
+		<card><name id="TLD096,encounter">Vast and Intricate</name><set>TLD</set></card>
+		<card><name id="KAZ76,encounter">Chance Encounter</name><set>KAZ</set></card>
+		<card><name id="KAZ76,encounter">Chance Encounter</name><set>KAZ</set></card>
+		<card><name id="KAZ76,encounter">Chance Encounter</name><set>KAZ</set></card>
+		<card><name id="KAZ39,encounter">Stray Goblin</name><set>KAZ</set></card>
+		<card><name id="KAZ39,encounter">Stray Goblin</name><set>KAZ</set></card>
+		<card><name id="KAZ39,encounter">Stray Goblin</name><set>KAZ</set></card>
+		<card><name id="KAZ41,encounter">The Mountains&apos; Roots</name><set>KAZ</set></card>
+		<card><name id="KAZ41,encounter">The Mountains&apos; Roots</name><set>KAZ</set></card>
+		<card><name id="KAZ41,encounter">The Mountains&apos; Roots</name><set>KAZ</set></card>
+		<card><name id="KAZ06,encounter">Branching Paths</name><set>KAZ</set></card>
+		<card><name id="KAZ08,encounter">Burning Low</name><set>KAZ</set></card>
+		<card><name id="KAZ08,encounter">Burning Low</name><set>KAZ</set></card>
+		<card><name id="KAZ08,encounter">Burning Low</name><set>KAZ</set></card>
+		<card><name id="KAZ19,encounter">Goblin Follower</name><set>KAZ</set></card>
+		<card><name id="KAZ19,encounter">Goblin Follower</name><set>KAZ</set></card>
+		<card><name id="KAZ19,encounter">Goblin Follower</name><set>KAZ</set></card>
+		<card><name id="KAZ19,encounter">Goblin Follower</name><set>KAZ</set></card>
+		<card><name id="KAZ27,encounter">Lightless Passage</name><set>KAZ</set></card>
+		<card><name id="KAZ28,encounter">Many Roads</name><set>KAZ</set></card>
+		<card><name id="KAZ48,encounter">Zigil Mineshaft</name><set>KAZ</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="TLD087.png,TLD087_back.png">Continuing Eastward</name><set>TLD</set></card>
+		<card><name id="TLD086.png,TLD086_back.png">Journey in the Black Pit</name><set>TLD</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="KAZ10,encounter">Cave Torch</name><set>KAZ</set></card>
+	</superzone>
+</deck>

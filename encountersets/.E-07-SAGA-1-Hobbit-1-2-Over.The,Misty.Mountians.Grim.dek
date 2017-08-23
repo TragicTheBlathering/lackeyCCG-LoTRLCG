@@ -1,0 +1,55 @@
+<deck version="0.8">
+	<meta>
+		<title>000-Saga.Hobbit.1-2-Over.The,Misty.Mountians.Grim</title>		<author>SetYourName</author>		<date>04-11-12</date>		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="OHAUH26,encounter">A Suspicious Crow</name><set>OHAUH</set></card>
+		<card><name id="OHAUH26,encounter">A Suspicious Crow</name><set>OHAUH</set></card>
+		<card><name id="OHAUH26,encounter">A Suspicious Crow</name><set>OHAUH</set></card>
+		<card><name id="OHAUH32,encounter">Cave Entrance</name><set>OHAUH</set></card>
+		<card><name id="OHAUH32,encounter">Cave Entrance</name><set>OHAUH</set></card>
+		<card><name id="OHAUH30,encounter">Dreary Hills</name><set>OHAUH</set></card>
+		<card><name id="OHAUH31,encounter">Lone-lands</name><set>OHAUH</set></card>
+		<card><name id="OHAUH31,encounter">Lone-lands</name><set>OHAUH</set></card>
+		<card><name id="OHAUH48,encounter">More Like a Grocer</name><set>OHAUH</set></card>
+		<card><name id="OHAUH47,encounter">Wind-whipped Rain</name><set>OHAUH</set></card>
+		<card><name id="OHAUH59,encounter">Overhanging Rock</name><set>OHAUH</set></card>
+		<card><name id="OHAUH59,encounter">Overhanging Rock</name><set>OHAUH</set></card>
+		<card><name id="OHAUH60,encounter">The High Pass</name><set>OHAUH</set></card>
+		<card><name id="OHAUH63,encounter">Galloping Boulders</name><set>OHAUH</set></card>
+		<card><name id="OHAUH64,encounter">Guffawing of Giants</name><set>OHAUH</set></card>
+		<card><name id="OHAUH64,encounter">Guffawing of Giants</name><set>OHAUH</set></card>
+	</superzone>
+	<superzone name="2nd Encounter Deck">
+		<card><name id="OHAUH49,encounter">Goblin Axeman</name><set>OHAUH</set></card>
+		<card><name id="OHAUH49,encounter">Goblin Axeman</name><set>OHAUH</set></card>
+		<card><name id="OHAUH49,encounter">Goblin Axeman</name><set>OHAUH</set></card>
+		<card><name id="OHAUH52,encounter">Goblin Driver</name><set>OHAUH</set></card>
+		<card><name id="OHAUH52,encounter">Goblin Driver</name><set>OHAUH</set></card>
+		<card><name id="OHAUH52,encounter">Goblin Driver</name><set>OHAUH</set></card>
+		<card><name id="OHAUH50,encounter">Goblin Miners</name><set>OHAUH</set></card>
+		<card><name id="OHAUH50,encounter">Goblin Miners</name><set>OHAUH</set></card>
+		<card><name id="OHAUH50,encounter">Goblin Miners</name><set>OHAUH</set></card>
+		<card><name id="OHAUH51,encounter">Goblin Runners</name><set>OHAUH</set></card>
+		<card><name id="OHAUH56,encounter">The Goblins&apos; Caves</name><set>OHAUH</set></card>
+		<card><name id="OHAUH56,encounter">The Goblins&apos; Caves</name><set>OHAUH</set></card>
+		<card><name id="OHAUH53,encounter">Goblin Bent-Swords</name><set>OHAUH</set></card>
+		<card><name id="OHAUH53,encounter">Goblin Bent-Swords</name><set>OHAUH</set></card>
+		<card><name id="OHAUH53,encounter">Goblin Bent-Swords</name><set>OHAUH</set></card>
+		<card><name id="OHAUH53,encounter">Goblin Bent-Swords</name><set>OHAUH</set></card>
+		<card><name id="OHAUH57,encounter">Front Porch</name><set>OHAUH</set></card>
+		<card><name id="OHAUH58,encounter">Great Cavern Room</name><set>OHAUH</set></card>
+		<card><name id="OHAUH58,encounter">Great Cavern Room</name><set>OHAUH</set></card>
+		<card><name id="OHAUH58,encounter">Great Cavern Room</name><set>OHAUH</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="OHAUH80a.png,OHAUH80b.png">The Mountain Pass</name><set>OHAUH</set></card>
+		<card><name id="OHAUH81a.png,OHAUH81b.png">Down, Down to Goblin Town</name><set>OHAUH</set></card>
+		<card><name id="OHAUH79a.png,OHAUH79b.png">A Short Rest</name><set>OHAUH</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="OHAUH54,encounter">The Great Goblin</name><set>OHAUH</set></card>
+		<card><name id="OHAUH01">Bilbo Baggins (OHAUH)</name><set>OHAUH</set></card>
+		<card><name id="OHAUH55,encounter">Stone-giant</name><set>OHAUH</set></card>
+	</superzone>
+</deck>

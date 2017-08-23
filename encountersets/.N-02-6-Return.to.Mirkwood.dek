@@ -1,0 +1,69 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="RTM12,encounter">Attercop, Attercop</name><set>RTM</set></card>
+		<card><name id="RTM12,encounter">Attercop, Attercop</name><set>RTM</set></card>
+		<card><name id="RTM12,encounter">Attercop, Attercop</name><set>RTM</set></card>
+		<card><name id="RTM14,encounter">Dry Watercourse</name><set>RTM</set></card>
+		<card><name id="RTM14,encounter">Dry Watercourse</name><set>RTM</set></card>
+		<card><name id="RTM14,encounter">Dry Watercourse</name><set>RTM</set></card>
+		<card><name id="RTM18,encounter">Gollum&apos;s Anguish</name><set>RTM</set></card>
+		<card><name id="RTM18,encounter">Gollum&apos;s Anguish</name><set>RTM</set></card>
+		<card><name id="RTM19,encounter">Gollum&apos;s Bite</name><set>RTM</set></card>
+		<card><name id="RTM19,encounter">Gollum&apos;s Bite</name><set>RTM</set></card>
+		<card><name id="RTM13,encounter">Mirkwood Bats</name><set>RTM</set></card>
+		<card><name id="RTM13,encounter">Mirkwood Bats</name><set>RTM</set></card>
+		<card><name id="RTM13,encounter">Mirkwood Bats</name><set>RTM</set></card>
+		<card><name id="RTM13,encounter">Mirkwood Bats</name><set>RTM</set></card>
+		<card><name id="RTM15,encounter">The Spider&apos;s Ring</name><set>RTM</set></card>
+		<card><name id="RTM15,encounter">The Spider&apos;s Ring</name><set>RTM</set></card>
+		<card><name id="RTM15,encounter">The Spider&apos;s Ring</name><set>RTM</set></card>
+		<card><name id="RTM15,encounter">The Spider&apos;s Ring</name><set>RTM</set></card>
+		<card><name id="RTM20,encounter">Wasted Provisions</name><set>RTM</set></card>
+		<card><name id="RTM20,encounter">Wasted Provisions</name><set>RTM</set></card>
+		<card><name id="RTM20,encounter">Wasted Provisions</name><set>RTM</set></card>
+		<card><name id="core082,encounter">Hill Troll</name><set>Core</set></card>
+		<card><name id="core082,encounter">Hill Troll</name><set>Core</set></card>
+		<card><name id="core081,encounter">Wolf Rider</name><set>Core</set></card>
+		<card><name id="core080,encounter">Caught in a Web</name><set>Core</set></card>
+		<card><name id="core080,encounter">Caught in a Web</name><set>Core</set></card>
+		<card><name id="core079,encounter">Eyes of the Forest</name><set>Core</set></card>
+		<card><name id="core077,encounter">Great Forest Web</name><set>Core</set></card>
+		<card><name id="core077,encounter">Great Forest Web</name><set>Core</set></card>
+		<card><name id="core075,encounter">Hummerhorns</name><set>Core</set></card>
+		<card><name id="core074,encounter">King Spider</name><set>Core</set></card>
+		<card><name id="core074,encounter">King Spider</name><set>Core</set></card>
+		<card><name id="core076,encounter">Ungoliant&apos;s Spawn</name><set>Core</set></card>
+		<card><name id="N-RTM1">Ambush Orcs (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-RTM1">Ambush Orcs (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-RTM1">Ambush Orcs (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-RTM2">Befouled Equipment (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-RTM2">Befouled Equipment (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-RTM3">Deceptive Path (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-RTM3">Deceptive Path (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-RTM4">Isolation (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-RTM4">Isolation (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-RTM5">Pursuing Warg-Riders (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-RTM5">Pursuing Warg-Riders (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-RTM5">Pursuing Warg-Riders (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-RTM8">Web-Spinner (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-RTM8">Web-Spinner (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-RTM8">Web-Spinner (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-RTM9">Web-Wall (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-RTM9">Web-Wall (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-RTM9">Web-Wall (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-RTM10">Wickedness and Mischief (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-RTM10">Wickedness and Mischief (Nightmare)</name><set>Nightmare</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="RTM24a.png,RTM24b.png">Ambush</name><set>RTM</set></card>
+		<card><name id="RTM22a.png,RTM22b.png">Escape Attempt</name><set>RTM</set></card>
+		<card><name id="RTM21a.png,RTM21b.png">Through the Forest</name><set>RTM</set></card>
+		<card><name id="RTM23a.png,RTM23b.png">To the Elvin King&apos;s Halls</name><set>RTM</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="RTM11,encounter">Gollum (RTM)</name><set>RTM</set></card>
+	</superzone>
+</deck>

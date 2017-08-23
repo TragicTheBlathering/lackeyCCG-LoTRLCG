@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="KAZ01,encounter">Abandoned Tools</name><set>KAZ</set></card>
+		<card><name id="KAZ31,encounter">New Devilry</name><set>KAZ</set></card>
+		<card><name id="KAZ31,encounter">New Devilry</name><set>KAZ</set></card>
+		<card><name id="KAZ31,encounter">New Devilry</name><set>KAZ</set></card>
+		<card><name id="KAZ36,encounter">Shadow of Fear</name><set>KAZ</set></card>
+		<card><name id="KAZ18,encounter">Goblin Archer</name><set>KAZ</set></card>
+		<card><name id="KAZ18,encounter">Goblin Archer</name><set>KAZ</set></card>
+		<card><name id="KAZ21,encounter">Goblin Spearman</name><set>KAZ</set></card>
+		<card><name id="KAZ21,encounter">Goblin Spearman</name><set>KAZ</set></card>
+		<card><name id="KAZ21,encounter">Goblin Spearman</name><set>KAZ</set></card>
+		<card><name id="KAZ21,encounter">Goblin Spearman</name><set>KAZ</set></card>
+		<card><name id="KAZ21,encounter">Goblin Spearman</name><set>KAZ</set></card>
+		<card><name id="KAZ35,encounter">Plundered Armoury</name><set>KAZ</set></card>
+		<card><name id="KAZ35,encounter">Plundered Armoury</name><set>KAZ</set></card>
+		<card><name id="KAZ44,encounter">Undisturbed Bones</name><set>KAZ</set></card>
+		<card><name id="KAZ09,encounter">Cave In</name><set>KAZ</set></card>
+		<card><name id="KAZ09,encounter">Cave In</name><set>KAZ</set></card>
+		<card><name id="KAZ09,encounter">Cave In</name><set>KAZ</set></card>
+		<card><name id="KAZ12,encounter">Crumbling Ruin</name><set>KAZ</set></card>
+		<card><name id="KAZ12,encounter">Crumbling Ruin</name><set>KAZ</set></card>
+		<card><name id="KAZ13,encounter">Dark and Dreadful</name><set>KAZ</set></card>
+		<card><name id="KAZ13,encounter">Dark and Dreadful</name><set>KAZ</set></card>
+		<card><name id="KAZ14,encounter">Dreadful Gap</name><set>KAZ</set></card>
+		<card><name id="KAZ17,encounter">Fouled Well</name><set>KAZ</set></card>
+		<card><name id="KAZ17,encounter">Fouled Well</name><set>KAZ</set></card>
+		<card><name id="KAZ17,encounter">Fouled Well</name><set>KAZ</set></card>
+		<card><name id="KAZ40,encounter">Sudden Pitfall</name><set>KAZ</set></card>
+		<card><name id="KAZ76,encounter">Chance Encounter</name><set>KAZ</set></card>
+		<card><name id="KAZ76,encounter">Chance Encounter</name><set>KAZ</set></card>
+		<card><name id="KAZ76,encounter">Chance Encounter</name><set>KAZ</set></card>
+		<card><name id="KAZ39,encounter">Stray Goblin</name><set>KAZ</set></card>
+		<card><name id="KAZ39,encounter">Stray Goblin</name><set>KAZ</set></card>
+		<card><name id="KAZ39,encounter">Stray Goblin</name><set>KAZ</set></card>
+		<card><name id="KAZ41,encounter">The Mountains&apos; Roots</name><set>KAZ</set></card>
+		<card><name id="KAZ41,encounter">The Mountains&apos; Roots</name><set>KAZ</set></card>
+		<card><name id="KAZ41,encounter">The Mountains&apos; Roots</name><set>KAZ</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="KAZ49.png,KAZ50.png">A Presence in the Dark</name><set>KAZ</set></card>
+		<card><name id="KAZ51.png,KAZ52.png">Search for an Exit - A Wrong Turn</name><set>KAZ</set></card>
+		<card><name id="KAZ51.png,KAZ54.png">Search for an Exit - Blocked by Shadow</name><set>KAZ</set></card>
+		<card><name id="KAZ51.png,KAZ56.png">Search for an Exit - Escape from Darkness</name><set>KAZ</set></card>
+		<card><name id="KAZ51.png,KAZ58.png">Search for an Exit - Hasty Council</name><set>KAZ</set></card>
+		<card><name id="KAZ51.png,KAZ60.png">Search for an Exit - Heading Down</name><set>KAZ</set></card>
+		<card><name id="KAZ51.png,KAZ62.png">Search for an Exit - Heading Up</name><set>KAZ</set></card>
+		<card><name id="KAZ51.png,KAZ88.png">Search for an Exit - Narrow Paths</name><set>KAZ</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="KAZ42,encounter">The Nameless Fear</name><set>KAZ</set></card>
+		<card><name id="KAZ02,encounter">A Foe Beyond</name><set>KAZ</set></card>
+	</superzone>
+</deck>

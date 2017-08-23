@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="fx3-RonRC14,encounter">CUSTOM.-.A Storm in the South</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC14,encounter">CUSTOM.-.A Storm in the South</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC14,encounter">CUSTOM.-.A Storm in the South</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC04,encounter">CUSTOM.-.Mirkwood Edge</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC04,encounter">CUSTOM.-.Mirkwood Edge</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC15,encounter">CUSTOM.-.Wilderland Hills</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC15,encounter">CUSTOM.-.Wilderland Hills</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC13,encounter">CUSTOM.-.Wilds of Rohovanion</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC16,encounter">CUSTOM.-.Dale Militia</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC16,encounter">CUSTOM.-.Dale Militia</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC16,encounter">CUSTOM.-.Dale Militia</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC16,encounter">CUSTOM.-.Dale Militia</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC01,encounter">CUSTOM.-.Eastern Catadhract</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC01,encounter">CUSTOM.-.Eastern Catadhract</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC22,encounter">CUSTOM.-.Frightened Villagers</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC22,encounter">CUSTOM.-.Frightened Villagers</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC22,encounter">CUSTOM.-.Frightened Villagers</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC22,encounter">CUSTOM.-.Frightened Villagers</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC21,encounter">CUSTOM.-.From the Shadows</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC21,encounter">CUSTOM.-.From the Shadows</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC17,encounter">CUSTOM.-.Kill Them All!</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC17,encounter">CUSTOM.-.Kill Them All!</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC17,encounter">CUSTOM.-.Kill Them All!</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC20,encounter">CUSTOM.-.Merciless Executioner</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC20,encounter">CUSTOM.-.Merciless Executioner</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC05,encounter">CUSTOM.-.Redwater Bank</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC05,encounter">CUSTOM.-.Redwater Bank</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC06,encounter">CUSTOM.-.River Flood</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC06,encounter">CUSTOM.-.River Flood</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC19,encounter">CUSTOM.-.River Settlement</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC19,encounter">CUSTOM.-.River Settlement</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC03,encounter">CUSTOM.-.Riverside Docks</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC03,encounter">CUSTOM.-.Riverside Docks</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC02,encounter">CUSTOM.-.Wetland Hideout</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC02,encounter">CUSTOM.-.Wetland Hideout</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC12,encounter">CUSTOM.-.Devastating Blitz</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC10,encounter">CUSTOM.-.Easterling Raider</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC10,encounter">CUSTOM.-.Easterling Raider</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC07,encounter">CUSTOM.-.Mistress of the Blade</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC07,encounter">CUSTOM.-.Mistress of the Blade</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC08,encounter">CUSTOM.-.Raid Party Captain</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC08,encounter">CUSTOM.-.Raid Party Captain</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC09,encounter">CUSTOM.-.Skirmisher-Corsair</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC09,encounter">CUSTOM.-.Skirmisher-Corsair</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC11,encounter">CUSTOM.-.Stolen Ammunition</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC11,encounter">CUSTOM.-.Stolen Ammunition</name><set>CUSTOM.fx3RonRC</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="fx3-RonRC25.png,fx3-RonRC26.png">CUSTOM.-.A Marching Caravan</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC23.png,fx3-RonRC24.png">CUSTOM.-.Gambit of the Dark Lord</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC27.png,fx3-RonRC28.png">CUSTOM.-.One Final Push</name><set>CUSTOM.fx3RonRC</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="fx3-RonRC18,encounter">CUSTOM.-.Town Hall</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-instruct.jpg">CUSTOM.-.Raid on the River Carnen (Instruction)</name><set>Instructions</set></card>
+	</superzone>
+</deck>

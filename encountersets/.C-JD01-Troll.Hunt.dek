@@ -1,0 +1,38 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="core086,encounter">Despair</name><set>Core</set></card>
+		<card><name id="core086,encounter">Despair</name><set>Core</set></card>
+		<card><name id="core083,encounter">Goblin Sniper</name><set>Core</set></card>
+		<card><name id="core083,encounter">Goblin Sniper</name><set>Core</set></card>
+		<card><name id="core084,encounter">Marsh Adder</name><set>Core</set></card>
+		<card><name id="core088,encounter">The East Bight</name><set>Core</set></card>
+		<card><name id="core088,encounter">The East Bight</name><set>Core</set></card>
+		<card><name id="core085,encounter">Wargs</name><set>Core</set></card>
+		<card><name id="core085,encounter">Wargs</name><set>Core</set></card>
+		<card><name id="core081,encounter">Wolf Rider</name><set>Core</set></card>
+		<card><name id="core098,encounter">Black Forest Bats</name><set>Core</set></card>
+		<card><name id="core097,encounter">East Bight Patrol</name><set>Core</set></card>
+		<card><name id="core100,encounter">Forest Gate</name><set>Core</set></card>
+		<card><name id="core096,encounter">Forest Spider</name><set>Core</set></card>
+		<card><name id="core096,encounter">Forest Spider</name><set>Core</set></card>
+		<card><name id="core096,encounter">Forest Spider</name><set>Core</set></card>
+		<card><name id="core096,encounter">Forest Spider</name><set>Core</set></card>
+		<card><name id="core099,encounter">Old Forest Road</name><set>Core</set></card>
+		<card><name id="core099,encounter">Old Forest Road</name><set>Core</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="TH01A.png,TH01B.png">CUSTOM.-.Hunt for the Troll&apos;s Lair</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="TH02A.png,TH02B.png">CUSTOM.-.Kill the Troll!</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="TH03A.png,TH03B.png">CUSTOM.-.Save the Prisoners!</name><set>CUSTOM.JRDCQ</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="core082,encounter">Hill Troll</name><set>Core</set></card>
+		<card><name id="core082,encounter">Hill Troll</name><set>Core</set></card>
+		<card><name id="core087,encounter">The Brown Lands</name><set>Core</set></card>
+		<card><name id="core087,encounter">The Brown Lands</name><set>Core</set></card>
+		<card><name id="core100,encounter">Forest Gate</name><set>Core</set></card>
+	</superzone>
+</deck>

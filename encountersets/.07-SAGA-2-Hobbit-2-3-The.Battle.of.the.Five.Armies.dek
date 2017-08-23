@@ -1,0 +1,64 @@
+<deck version="0.8">
+	<meta>
+		<title>000-1.Hobbit.1.E-2-Over.The,Misty.Mountians.Grim</title>
+		<author>SetYourName</author>
+		<date>04-11-12</date>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="OTD-29">Dark Bats</name><set>OTD</set></card>
+		<card><name id="OTD-29">Dark Bats</name><set>OTD</set></card>
+		<card><name id="OTD-29">Dark Bats</name><set>OTD</set></card>
+		<card><name id="OTD-36">Fighting Among Friends</name><set>OTD</set></card>
+		<card><name id="OTD-36">Fighting Among Friends</name><set>OTD</set></card>
+		<card><name id="OTD-48">Hidden Path</name><set>OTD</set></card>
+		<card><name id="OTD-48">Hidden Path</name><set>OTD</set></card>
+		<card><name id="OTD-48">Hidden Path</name><set>OTD</set></card>
+		<card><name id="OTD-78">Weighed Down</name><set>OTD</set></card>
+		<card><name id="OTD-78">Weighed Down</name><set>OTD</set></card>
+		<card><name id="OTD-23">Bodyguard of Bolg</name><set>OTD</set></card>
+		<card><name id="OTD-23">Bodyguard of Bolg</name><set>OTD</set></card>
+		<card><name id="OTD-23">Bodyguard of Bolg</name><set>OTD</set></card>
+		<card><name id="OTD-23">Bodyguard of Bolg</name><set>OTD</set></card>
+		<card><name id="OTD-40">Goblins Are Upon You!</name><set>OTD</set></card>
+		<card><name id="OTD-40">Goblins Are Upon You!</name><set>OTD</set></card>
+		<card><name id="OTD-43">Gundabad Archer</name><set>OTD</set></card>
+		<card><name id="OTD-43">Gundabad Archer</name><set>OTD</set></card>
+		<card><name id="OTD-44">Gundabad Climber</name><set>OTD</set></card>
+		<card><name id="OTD-44">Gundabad Climber</name><set>OTD</set></card>
+		<card><name id="OTD-44">Gundabad Climber</name><set>OTD</set></card>
+		<card><name id="OTD-44">Gundabad Climber</name><set>OTD</set></card>
+		<card><name id="OTD-45">Gundabad Wolf Rider</name><set>OTD</set></card>
+		<card><name id="OTD-45">Gundabad Wolf Rider</name><set>OTD</set></card>
+		<card><name id="OTD-45">Gundabad Wolf Rider</name><set>OTD</set></card>
+		<card><name id="OTD-46">Hatred Rekindled</name><set>OTD</set></card>
+		<card><name id="OTD-46">Hatred Rekindled</name><set>OTD</set></card>
+		<card><name id="OTD-47">Heedless of Order</name><set>OTD</set></card>
+		<card><name id="OTD-47">Heedless of Order</name><set>OTD</set></card>
+		<card><name id="OTD-52">Misty Mountain Eagle</name><set>OTD</set></card>
+		<card><name id="OTD-54">Northern Slopes</name><set>OTD</set></card>
+		<card><name id="OTD-54">Northern Slopes</name><set>OTD</set></card>
+		<card><name id="OTD-54">Northern Slopes</name><set>OTD</set></card>
+		<card><name id="OTD-59">Ravenhill</name><set>OTD</set></card>
+		<card><name id="OTD-60">Ravenous Warg</name><set>OTD</set></card>
+		<card><name id="OTD-60">Ravenous Warg</name><set>OTD</set></card>
+		<card><name id="OTD-60">Ravenous Warg</name><set>OTD</set></card>
+		<card><name id="OTD-62">Ruins of Dale</name><set>OTD</set></card>
+		<card><name id="OTD-68">The Front Gate</name><set>OTD</set></card>
+		<card><name id="OTD-77">Vanguard of Bolg</name><set>OTD</set></card>
+		<card><name id="OTD-77">Vanguard of Bolg</name><set>OTD</set></card>
+		<card><name id="OTD-77">Vanguard of Bolg</name><set>OTD</set></card>
+		<card><name id="OTD-77">Vanguard of Bolg</name><set>OTD</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="OTD-03">Battle in the Dale</name><set>OTD</set></card>
+		<card><name id="OTD-83">The Clouds Burst</name><set>OTD</set></card>
+		<card><name id="OTD-85">The Defence of Ravenhill</name><set>OTD</set></card>
+		<card><name id="OTD-87">The Eastern Spur</name><set>OTD</set></card>
+		<card><name id="OTD-91">The Gathering of the Clouds</name><set>OTD</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="OTD-20">Bilbo Baggins (OtD)</name><set>OTD</set></card>
+		<card><name id="OTD-24">Bolg</name><set>OTD</set></card>
+	</superzone>
+</deck>

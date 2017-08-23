@@ -1,0 +1,71 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="core090,encounter">Chieftan Ufthak</name><set>Core</set></card>
+		<card><name id="core091,encounter">Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name id="core091,encounter">Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name id="core089,encounter">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core089,encounter">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core089,encounter">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core095,encounter">Enchanted Stream</name><set>Core</set></card>
+		<card><name id="core095,encounter">Enchanted Stream</name><set>Core</set></card>
+		<card><name id="core094,encounter">Necromancer&apos;s Pass</name><set>Core</set></card>
+		<card><name id="core094,encounter">Necromancer&apos;s Pass</name><set>Core</set></card>
+		<card><name id="core092,encounter">Driven by Shadow</name><set>Core</set></card>
+		<card><name id="core093,encounter">The Necromancer&apos;s Reach</name><set>Core</set></card>
+		<card><name id="core093,encounter">The Necromancer&apos;s Reach</name><set>Core</set></card>
+		<card><name id="core093,encounter">The Necromancer&apos;s Reach</name><set>Core</set></card>
+		<card><name id="core085,encounter">Wargs</name><set>Core</set></card>
+		<card><name id="core085,encounter">Wargs</name><set>Core</set></card>
+		<card><name id="core082,encounter">Hill Troll</name><set>Core</set></card>
+		<card><name id="core082,encounter">Hill Troll</name><set>Core</set></card>
+		<card><name id="core087,encounter">The Brown Lands</name><set>Core</set></card>
+		<card><name id="core087,encounter">The Brown Lands</name><set>Core</set></card>
+		<card><name id="core088,encounter">The East Bight</name><set>Core</set></card>
+		<card><name id="core088,encounter">The East Bight</name><set>Core</set></card>
+		<card><name id="core086,encounter">Despair</name><set>Core</set></card>
+		<card><name id="core086,encounter">Despair</name><set>Core</set></card>
+		<card><name id="core083,encounter">Goblin Sniper</name><set>Core</set></card>
+		<card><name id="core083,encounter">Goblin Sniper</name><set>Core</set></card>
+		<card><name id="core084,encounter">Marsh Adder</name><set>Core</set></card>
+		<card><name id="core081,encounter">Wolf Rider</name><set>Core</set></card>
+		<card><name id="core075,encounter">Hummerhorns</name><set>Core</set></card>
+		<card><name id="core074,encounter">King Spider</name><set>Core</set></card>
+		<card><name id="core074,encounter">King Spider</name><set>Core</set></card>
+		<card><name id="core077,encounter">Great Forest Web</name><set>Core</set></card>
+		<card><name id="core077,encounter">Great Forest Web</name><set>Core</set></card>
+		<card><name id="core078,encounter">Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name id="core078,encounter">Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name id="core078,encounter">Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name id="core080,encounter">Caught in a Web</name><set>Core</set></card>
+		<card><name id="core080,encounter">Caught in a Web</name><set>Core</set></card>
+		<card><name id="core079,encounter">Eyes of the Forest</name><set>Core</set></card>
+		<card><name id="core103,encounter">Cavern Guardian</name><set>Core</set></card>
+		<card><name id="core103,encounter">Cavern Guardian</name><set>Core</set></card>
+		<card><name id="core101,encounter">Dungeon Jailor</name><set>Core</set></card>
+		<card><name id="core101,encounter">Dungeon Jailor</name><set>Core</set></card>
+		<card><name id="core106,encounter">Endless Caverns</name><set>Core</set></card>
+		<card><name id="core106,encounter">Endless Caverns</name><set>Core</set></card>
+		<card><name id="core107,encounter">Tower Gate</name><set>Core</set></card>
+		<card><name id="core107,encounter">Tower Gate</name><set>Core</set></card>
+		<card><name id="core105,encounter">Iron Shackles</name><set>Core</set></card>
+		<card><name id="core104,encounter">Under the Shadow</name><set>Core</set></card>
+		<card><name id="core104,encounter">Under the Shadow</name><set>Core</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="NinjaDorg3_3a.png,NinjaDorg3_3b.png">CUSTOM.-.Risen Nightmare</name><set>CUSTOM.NinjaDorg</set></card>
+		<card><name id="NinjaDorg3_4a.png,encounter2.png">CUSTOM.-.Fleeing Reprieve</name><set>CUSTOM.NinjaDorg</set></card>
+		<card><name id="NinjaDorg3_2a.png,NinjaDorg3_2b.png">CUSTOM.-.Deep Catacombs</name><set>CUSTOM.NinjaDorg</set></card>
+		<card><name id="NinjaDorg3_1a.png,NinjaDorg3_1b.png">CUSTOM.-.Ancient Path</name><set>CUSTOM.NinjaDorg</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="core102,encounter">Nazgvl of Dol Guldur</name><set>Core</set></card>
+		<card><name id="core076,encounter">Ungoliant&apos;s Spawn</name><set>Core</set></card>
+		<card><name id="core109,encounter">Dungeon Torch - Escape from Dol Guldur</name><set>Core</set></card>
+		<card><name id="core108,encounter">Gandalf&apos;s Map - Escape from Dol Guldur</name><set>Core</set></card>
+		<card><name id="core110,encounter">Shadow Key - Escape from Dol Guldur</name><set>Core</set></card>
+		<card><name id="NinjaDorg3_0a.png,encounter2.png">CUSTOM.-.Hidden Enemy</name><set>CUSTOM.NinjaDorg</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,50 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="NiE13">Giant Swamp Adder</name><set>NiE</set></card>
+		<card><name id="NiE13">Giant Swamp Adder</name><set>NiE</set></card>
+		<card><name id="NiE13">Giant Swamp Adder</name><set>NiE</set></card>
+		<card><name id="NiE13">Giant Swamp Adder</name><set>NiE</set></card>
+		<card><name id="NiE14">Neekerbreekers</name><set>NiE</set></card>
+		<card><name id="NiE14">Neekerbreekers</name><set>NiE</set></card>
+		<card><name id="NiE14">Neekerbreekers</name><set>NiE</set></card>
+		<card><name id="NiE15">Fen of Reeds</name><set>NiE</set></card>
+		<card><name id="NiE15">Fen of Reeds</name><set>NiE</set></card>
+		<card><name id="NiE15">Fen of Reeds</name><set>NiE</set></card>
+		<card><name id="NiE16">Finger of Glanduin</name><set>NiE</set></card>
+		<card><name id="NiE16">Finger of Glanduin</name><set>NiE</set></card>
+		<card><name id="NiE16">Finger of Glanduin</name><set>NiE</set></card>
+		<card><name id="NiE17">Hidden Eyot</name><set>NiE</set></card>
+		<card><name id="NiE17">Hidden Eyot</name><set>NiE</set></card>
+		<card><name id="NiE18">Sinking Bog</name><set>NiE</set></card>
+		<card><name id="NiE18">Sinking Bog</name><set>NiE</set></card>
+		<card><name id="NiE18">Sinking Bog</name><set>NiE</set></card>
+		<card><name id="NiE20">Remnants of Elder Days</name><set>NiE</set></card>
+		<card><name id="NiE19">Shifting Marshland</name><set>NiE</set></card>
+		<card><name id="NiE19">Shifting Marshland</name><set>NiE</set></card>
+		<card><name id="NiE19">Shifting Marshland</name><set>NiE</set></card>
+		<card><name id="VoI40,encounter">In Need of Rest</name><set>VoI</set></card>
+		<card><name id="VoI40,encounter">In Need of Rest</name><set>VoI</set></card>
+		<card><name id="VoI44,encounter">Low on Provisions</name><set>VoI</set></card>
+		<card><name id="VoI44,encounter">Low on Provisions</name><set>VoI</set></card>
+		<card><name id="VoI44,encounter">Low on Provisions</name><set>VoI</set></card>
+		<card><name id="VoI51,encounter">Off Track</name><set>VoI</set></card>
+		<card><name id="VoI51,encounter">Off Track</name><set>VoI</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="NiE21.png,NiE22.png">Fleeing from Tharbad</name><set>NiE</set></card>
+		<card><name id="NiE31.png,NiE32.png">Lost in Swanfleet, A Treacherous Swamp</name><set>NiE</set></card>
+		<card><name id="NiE33.png,NiE34.png">Lost in Swanfleet, Creatures of a Forgotton Age</name><set>NiE</set></card>
+		<card><name id="NiE29.png,NiE30.png">Lost in Swanfleet, Impassable Marshland</name><set>NiE</set></card>
+		<card><name id="NiE35.png,NiE36.png">Out of the Swamp</name><set>NiE</set></card>
+		<card><name id="NiE27.png,NiE28.png">Through the Marsh, A Forgotton Land</name><set>NiE</set></card>
+		<card><name id="NiE25.png,NiE26.png">Through the Marsh, A Weary Passage</name><set>NiE</set></card>
+		<card><name id="NiE23.png,NiE24.png">Through the Marsh, No End in Sight</name><set>NiE</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="NiE02">Nalir</name><set>NiE</set></card>
+		<card><name id="NiE09">Ancient Marsh-dweller</name><set>NiE</set></card>
+	</superzone>
+</deck>

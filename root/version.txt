@@ -1,0 +1,9 @@
+<version>
+
+<lastupdateYYMMDD>170506</lastupdateYYMMDD>
+<quality>MAX</quality>
+<versionurl>http://theblathering.5gbfree.com/LoTR-LCG/_Common/version.txt</versionurl>
+<updateurl>http://theblathering.5gbfree.com/LoTR-LCG/_Desktop/updatelist.txt</updateurl>
+<message>Added a new Cycle and moved PLugin to a new Host</message>
+
+</version>

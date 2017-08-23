@@ -1,0 +1,12 @@
+RECENTDECK0:.12.3-The.Fords.of.Isen.dek
+RECENTDECK1:.12.2-Into.Fangorn.dek
+RECENTDECK2:.12.1-To.Catch.an.Orc.dek
+RECENTDECK3:.E-12.1-To.Catch.an.Orc.dek
+RECENTDECK4:.E-13-4-The Nin.in.Eilph.dek
+RECENTDECK5:.E-13-6-The.Antlered.Crown.dek
+RECENTDECK6:.E-13-5-Celebrimbors.Secret.dek
+RECENTDECK7:.E-13-3-Trouble.in.Tharbad.dek
+RECENTDECK8:.E-13-2-The.Three.Trials.dek
+RECENTDECK9:.E-13-1-The.Dunland.Trap.dek
+RECENTDECK10:.13-1-The.Dunland.Trap.dek
+RECENTDECK11:.01-1-Passage.Through.Mirkwood.dek

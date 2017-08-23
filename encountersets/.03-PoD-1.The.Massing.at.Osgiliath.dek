@@ -1,0 +1,59 @@
+<deck version="0.8">
+	<meta>
+		<title>05.N-4-The.Long.Dark</title>
+		<author>SetYourName</author>
+		<date>04-11-12</date>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="TMAO05">Captured Watchtower</name><set>TMAO</set></card>
+		<card><name id="TMAO05">Captured Watchtower</name><set>TMAO</set></card>
+		<card><name id="TMAO05">Captured Watchtower</name><set>TMAO</set></card>
+		<card><name id="TMAO10">Cut Off</name><set>TMAO</set></card>
+		<card><name id="TMAO10">Cut Off</name><set>TMAO</set></card>
+		<card><name id="TMAO10">Cut Off</name><set>TMAO</set></card>
+		<card><name id="TMAO10">Cut Off</name><set>TMAO</set></card>
+		<card><name id="TMAO13">Dark Pursuit</name><set>TMAO</set></card>
+		<card><name id="TMAO13">Dark Pursuit</name><set>TMAO</set></card>
+		<card><name id="TMAO08">Emyn Arnen Overlook</name><set>TMAO</set></card>
+		<card><name id="TMAO15">Massing at Osgiliath</name><set>TMAO</set></card>
+		<card><name id="TMAO15">Massing at Osgiliath</name><set>TMAO</set></card>
+		<card><name id="TMAO15">Massing at Osgiliath</name><set>TMAO</set></card>
+		<card><name id="TMAO09">Morgulduin</name><set>TMAO</set></card>
+		<card><name id="TMAO09">Morgulduin</name><set>TMAO</set></card>
+		<card><name id="TMAO12">Pelennor Fields</name><set>TMAO</set></card>
+		<card><name id="TMAO12">Pelennor Fields</name><set>TMAO</set></card>
+		<card><name id="TMAO11">Ranger of Ithilien</name><set>TMAO</set></card>
+		<card><name id="TMAO11">Ranger of Ithilien</name><set>TMAO</set></card>
+		<card><name id="TMAO14">Ruins of Osgiliath</name><set>TMAO</set></card>
+		<card><name id="TMAO14">Ruins of Osgiliath</name><set>TMAO</set></card>
+		<card><name id="TMAO14">Ruins of Osgiliath</name><set>TMAO</set></card>
+		<card><name id="TMAO02">Uruk Vanguard</name><set>TMAO</set></card>
+		<card><name id="TMAO02">Uruk Vanguard</name><set>TMAO</set></card>
+		<card><name id="TMAO02">Uruk Vanguard</name><set>TMAO</set></card>
+		<card><name id="TMAO07">Wainrider Captain</name><set>TMAO</set></card>
+		<card><name id="TMAO07">Wainrider Captain</name><set>TMAO</set></card>
+		<card><name id="TMAO07">Wainrider Captain</name><set>TMAO</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="TMAO18a">Anduin Crossing</name><set>TMAO</set></card>
+		<card><name id="TMAO16a">Beyond Expectations</name><set>TMAO</set></card>
+		<card><name id="TMAO19a">Race to Minas Tirith</name><set>TMAO</set></card>
+		<card><name id="TMAO17a">Through the Ruins</name><set>TMAO</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="TMAO01">Wolves from Mordor</name><set>TMAO</set></card>
+		<card><name id="TMAO01">Wolves from Mordor</name><set>TMAO</set></card>
+		<card><name id="TMAO01">Wolves from Mordor</name><set>TMAO</set></card>
+		<card><name id="TMAO01">Wolves from Mordor</name><set>TMAO</set></card>
+		<card><name id="TMAO04">Wainriders</name><set>TMAO</set></card>
+		<card><name id="TMAO04">Wainriders</name><set>TMAO</set></card>
+		<card><name id="TMAO04">Wainriders</name><set>TMAO</set></card>
+		<card><name id="TMAO04">Wainriders</name><set>TMAO</set></card>
+		<card><name id="TMAO06">Snaga Scouts</name><set>TMAO</set></card>
+		<card><name id="TMAO06">Snaga Scouts</name><set>TMAO</set></card>
+		<card><name id="TMAO06">Snaga Scouts</name><set>TMAO</set></card>
+		<card><name id="TMAO06">Snaga Scouts</name><set>TMAO</set></card>
+		<card><name id="TMAO03">The Witch King</name><set>TMAO</set></card>
+	</superzone>
+</deck>

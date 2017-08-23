@@ -1,0 +1,40 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="KAZ18,encounter">Goblin Archer</name><set>KAZ</set></card>
+		<card><name id="KAZ18,encounter">Goblin Archer</name><set>KAZ</set></card>
+		<card><name id="KAZ21,encounter">Goblin Spearman</name><set>KAZ</set></card>
+		<card><name id="KAZ21,encounter">Goblin Spearman</name><set>KAZ</set></card>
+		<card><name id="KAZ21,encounter">Goblin Spearman</name><set>KAZ</set></card>
+		<card><name id="KAZ21,encounter">Goblin Spearman</name><set>KAZ</set></card>
+		<card><name id="KAZ21,encounter">Goblin Spearman</name><set>KAZ</set></card>
+		<card><name id="KAZ35,encounter">Plundered Armoury</name><set>KAZ</set></card>
+		<card><name id="KAZ35,encounter">Plundered Armoury</name><set>KAZ</set></card>
+		<card><name id="KAZ44,encounter">Undisturbed Bones</name><set>KAZ</set></card>
+		<card><name id="KAZ20,encounter">Goblin Scout</name><set>KAZ</set></card>
+		<card><name id="KAZ20,encounter">Goblin Scout</name><set>KAZ</set></card>
+		<card><name id="KAZ20,encounter">Goblin Scout</name><set>KAZ</set></card>
+		<card><name id="KAZ22,encounter">Goblin Swordsman</name><set>KAZ</set></card>
+		<card><name id="KAZ22,encounter">Goblin Swordsman</name><set>KAZ</set></card>
+		<card><name id="KAZ22,encounter">Goblin Swordsman</name><set>KAZ</set></card>
+		<card><name id="KAZ22,encounter">Goblin Swordsman</name><set>KAZ</set></card>
+		<card><name id="KAZ22,encounter">Goblin Swordsman</name><set>KAZ</set></card>
+		<card><name id="KAZ23,encounter">Goblin Tunnels</name><set>KAZ</set></card>
+		<card><name id="KAZ23,encounter">Goblin Tunnels</name><set>KAZ</set></card>
+		<card><name id="KAZ11,encounter">Cave Troll</name><set>KAZ</set></card>
+		<card><name id="KAZ25,encounter">Hidden Threat</name><set>KAZ</set></card>
+		<card><name id="KAZ25,encounter">Hidden Threat</name><set>KAZ</set></card>
+		<card><name id="KAZ45,encounter">Upper Hall</name><set>KAZ</set></card>
+		<card><name id="KAZ45,encounter">Upper Hall</name><set>KAZ</set></card>
+		<card><name id="KAZ45,encounter">Upper Hall</name><set>KAZ</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="KAZ69.png,KAZ70.png">Search for the Chamber</name><set>KAZ</set></card>
+		<card><name id="KAZ71.png,KAZ72.png">The Fate of Balin</name><set>KAZ</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="KAZ05,encounter">Book of Mazarbul</name><set>KAZ</set></card>
+	</superzone>
+</deck>

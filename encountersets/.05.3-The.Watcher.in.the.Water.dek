@@ -1,0 +1,58 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="TwitW071">Disturbed Waters</name><set>TWitW</set></card>
+		<card><name id="TwitW071">Disturbed Waters</name><set>TWitW</set></card>
+		<card><name id="TwitW071">Disturbed Waters</name><set>TWitW</set></card>
+		<card><name id="TwitW073">Grasping Tentacle</name><set>TWitW</set></card>
+		<card><name id="TwitW073">Grasping Tentacle</name><set>TWitW</set></card>
+		<card><name id="TwitW073">Grasping Tentacle</name><set>TWitW</set></card>
+		<card><name id="TwitW073">Grasping Tentacle</name><set>TWitW</set></card>
+		<card><name id="TwitW070">Ill Purpose</name><set>TWitW</set></card>
+		<card><name id="TwitW068">Makeshift Passage</name><set>TWitW</set></card>
+		<card><name id="TwitW068">Makeshift Passage</name><set>TWitW</set></card>
+		<card><name id="TwitW067">Perilous Swamp</name><set>TWitW</set></card>
+		<card><name id="TwitW067">Perilous Swamp</name><set>TWitW</set></card>
+		<card><name id="TwitW069">Stagnant Creek</name><set>TWitW</set></card>
+		<card><name id="TwitW069">Stagnant Creek</name><set>TWitW</set></card>
+		<card><name id="TwitW069">Stagnant Creek</name><set>TWitW</set></card>
+		<card><name id="TwitW066">Stair Falls</name><set>TWitW</set></card>
+		<card><name id="TwitW075">Striking Tentacle</name><set>TWitW</set></card>
+		<card><name id="TwitW075">Striking Tentacle</name><set>TWitW</set></card>
+		<card><name id="TwitW075">Striking Tentacle</name><set>TWitW</set></card>
+		<card><name id="TwitW075">Striking Tentacle</name><set>TWitW</set></card>
+		<card><name id="TwitW074">Trashing Tentacle</name><set>TWitW</set></card>
+		<card><name id="TwitW074">Trashing Tentacle</name><set>TWitW</set></card>
+		<card><name id="TwitW074">Trashing Tentacle</name><set>TWitW</set></card>
+		<card><name id="TwitW074">Trashing Tentacle</name><set>TWitW</set></card>
+		<card><name id="TwitW076">Wrapped!</name><set>TWitW</set></card>
+		<card><name id="TwitW076">Wrapped!</name><set>TWitW</set></card>
+		<card><name id="TwitW076">Wrapped!</name><set>TWitW</set></card>
+		<card><name id="TwitW076">Wrapped!</name><set>TWitW</set></card>
+		<card><name id="KAZ03">Bitter Wind</name><set>KAZ</set></card>
+		<card><name id="KAZ03">Bitter Wind</name><set>KAZ</set></card>
+		<card><name id="KAZ03">Bitter Wind</name><set>KAZ</set></card>
+		<card><name id="KAZ04">Black Uruks</name><set>KAZ</set></card>
+		<card><name id="KAZ04">Black Uruks</name><set>KAZ</set></card>
+		<card><name id="KAZ04">Black Uruks</name><set>KAZ</set></card>
+		<card><name id="KAZ04">Black Uruks</name><set>KAZ</set></card>
+		<card><name id="KAZ26">Knees of the Mountain</name><set>KAZ</set></card>
+		<card><name id="KAZ30">Mountain Warg</name><set>KAZ</set></card>
+		<card><name id="KAZ30">Mountain Warg</name><set>KAZ</set></card>
+		<card><name id="KAZ30">Mountain Warg</name><set>KAZ</set></card>
+		<card><name id="KAZ43">Turbulent Waters</name><set>KAZ</set></card>
+		<card><name id="KAZ43">Turbulent Waters</name><set>KAZ</set></card>
+		<card><name id="KAZ46">Warg Lair</name><set>KAZ</set></card>
+		<card><name id="KAZ46">Warg Lair</name><set>KAZ</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="TwitW064">The Seething Lake</name><set>TWitW</set></card>
+		<card><name id="TwitW063">To the West-door</name><set>TWitW</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="TwitW072">The Watcher</name><set>TWitW</set></card>
+		<card><name id="TwitW065">Doors of Durin</name><set>TWitW</set></card>
+	</superzone>
+</deck>

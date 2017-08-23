@@ -1,0 +1,71 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="KAZ03">Bitter Wind</name><set>KAZ</set></card>
+		<card><name id="KAZ03">Bitter Wind</name><set>KAZ</set></card>
+		<card><name id="KAZ03">Bitter Wind</name><set>KAZ</set></card>
+		<card><name id="KAZ04">Black Uruks</name><set>KAZ</set></card>
+		<card><name id="KAZ04">Black Uruks</name><set>KAZ</set></card>
+		<card><name id="KAZ04">Black Uruks</name><set>KAZ</set></card>
+		<card><name id="KAZ04">Black Uruks</name><set>KAZ</set></card>
+		<card><name id="KAZ26">Knees of the Mountain</name><set>KAZ</set></card>
+		<card><name id="KAZ30">Mountain Warg</name><set>KAZ</set></card>
+		<card><name id="KAZ30">Mountain Warg</name><set>KAZ</set></card>
+		<card><name id="KAZ30">Mountain Warg</name><set>KAZ</set></card>
+		<card><name id="KAZ43">Turbulent Waters</name><set>KAZ</set></card>
+		<card><name id="KAZ43">Turbulent Waters</name><set>KAZ</set></card>
+		<card><name id="KAZ46">Warg Lair</name><set>KAZ</set></card>
+		<card><name id="KAZ46">Warg Lair</name><set>KAZ</set></card>
+		<card><name id="KAZ77">Chieftain of the Pit</name><set>KAZ</set></card>
+		<card><name id="KAZ18">Goblin Archer</name><set>KAZ</set></card>
+		<card><name id="KAZ18">Goblin Archer</name><set>KAZ</set></card>
+		<card><name id="KAZ21">Goblin Spearman</name><set>KAZ</set></card>
+		<card><name id="KAZ21">Goblin Spearman</name><set>KAZ</set></card>
+		<card><name id="KAZ21">Goblin Spearman</name><set>KAZ</set></card>
+		<card><name id="KAZ21">Goblin Spearman</name><set>KAZ</set></card>
+		<card><name id="KAZ21">Goblin Spearman</name><set>KAZ</set></card>
+		<card><name id="KAZ35">Plundered Armoury</name><set>KAZ</set></card>
+		<card><name id="KAZ35">Plundered Armoury</name><set>KAZ</set></card>
+		<card><name id="KAZ44">Undisturbed Bones</name><set>KAZ</set></card>
+		<card><name id="KAZ44">Undisturbed Bones</name><set>KAZ</set></card>
+		<card><name id="KAZ44">Undisturbed Bones</name><set>KAZ</set></card>
+		<card><name id="RTR045">Barren Hills</name><set>RTR</set></card>
+		<card><name id="RTR045">Barren Hills</name><set>RTR</set></card>
+		<card><name id="RTR051">Crebain</name><set>RTR</set></card>
+		<card><name id="RTR051">Crebain</name><set>RTR</set></card>
+		<card><name id="RTR051">Crebain</name><set>RTR</set></card>
+		<card><name id="RTR047">Followed by Night</name><set>RTR</set></card>
+		<card><name id="RTR047">Followed by Night</name><set>RTR</set></card>
+		<card><name id="RTR047">Followed by Night</name><set>RTR</set></card>
+		<card><name id="RTR043">Goblin Gate</name><set>RTR</set></card>
+		<card><name id="RTR049">Goblin Taskmaster</name><set>RTR</set></card>
+		<card><name id="RTR049">Goblin Taskmaster</name><set>RTR</set></card>
+		<card><name id="RTR049">Goblin Taskmaster</name><set>RTR</set></card>
+		<card><name id="RTR049">Goblin Taskmaster</name><set>RTR</set></card>
+		<card><name id="RTR048">Orc Ambush</name><set>RTR</set></card>
+		<card><name id="RTR048">Orc Ambush</name><set>RTR</set></card>
+		<card><name id="RTR050">Orc Raiders</name><set>RTR</set></card>
+		<card><name id="RTR050">Orc Raiders</name><set>RTR</set></card>
+		<card><name id="RTR050">Orc Raiders</name><set>RTR</set></card>
+		<card><name id="RTR044">Pathless Country</name><set>RTR</set></card>
+		<card><name id="RTR044">Pathless Country</name><set>RTR</set></card>
+		<card><name id="RTR044">Pathless Country</name><set>RTR</set></card>
+		<card><name id="RTR042">Ruined Road</name><set>RTR</set></card>
+		<card><name id="RTR042">Ruined Road</name><set>RTR</set></card>
+		<card><name id="RTR046">Sleeping Sentry</name><set>RTR</set></card>
+		<card><name id="RTR046">Sleeping Sentry</name><set>RTR</set></card>
+		<card><name id="RTR052">Wild Bear</name><set>RTR</set></card>
+		<card><name id="RTR052">Wild Bear</name><set>RTR</set></card>
+		<card><name id="RTR052">Wild Bear</name><set>RTR</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="RTR038">Along the Misty Mountains</name><set>RTR</set></card>
+		<card><name id="RTR040">Approaching Rivendell</name><set>RTR</set></card>
+		<card><name id="RTR039">Orc Outpost</name><set>RTR</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="RTR041">Arwen Undomiel (RTR)</name><set>RTR</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,43 @@
+<deck version="0.8">
+	<meta>
+		<title>07.N-1-Peril.in.Delargir</title>		<author>SetYourName</author>		<date>04-11-12</date>		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="HON20,encounter">Harbor Thug</name><set>HON</set></card>
+		<card><name id="HON20,encounter">Harbor Thug</name><set>HON</set></card>
+		<card><name id="HON20,encounter">Harbor Thug</name><set>HON</set></card>
+		<card><name id="HON20,encounter">Harbor Thug</name><set>HON</set></card>
+		<card><name id="HON20,encounter">Harbor Thug</name><set>HON</set></card>
+		<card><name id="HON23,encounter">Harbor Storehouse</name><set>HON</set></card>
+		<card><name id="HON23,encounter">Harbor Storehouse</name><set>HON</set></card>
+		<card><name id="HON24,encounter">Collateral Damage</name><set>HON</set></card>
+		<card><name id="HON24,encounter">Collateral Damage</name><set>HON</set></card>
+		<card><name id="HON24,encounter">Collateral Damage</name><set>HON</set></card>
+		<card><name id="HON24,encounter">Collateral Damage</name><set>HON</set></card>
+		<card><name id="HON37,encounter">Pickpocket</name><set>HON</set></card>
+		<card><name id="HON37,encounter">Pickpocket</name><set>HON</set></card>
+		<card><name id="HON37,encounter">Pickpocket</name><set>HON</set></card>
+		<card><name id="HON38,encounter">City Street</name><set>HON</set></card>
+		<card><name id="HON38,encounter">City Street</name><set>HON</set></card>
+		<card><name id="HON38,encounter">City Street</name><set>HON</set></card>
+		<card><name id="HON39,encounter">Market Square</name><set>HON</set></card>
+		<card><name id="HON39,encounter">Market Square</name><set>HON</set></card>
+		<card><name id="HON41,encounter">Local Trouble</name><set>HON</set></card>
+		<card><name id="HON43,encounter">Lossarnach Bandit</name><set>HON</set></card>
+		<card><name id="HON43,encounter">Lossarnach Bandit</name><set>HON</set></card>
+		<card><name id="HON42,encounter">Zealous Traitor</name><set>HON</set></card>
+		<card><name id="HON42,encounter">Zealous Traitor</name><set>HON</set></card>
+		<card><name id="HON42,encounter">Zealous Traitor</name><set>HON</set></card>
+		<card><name id="HON45,encounter">Lurking in Shadows</name><set>HON</set></card>
+		<card><name id="HON45,encounter">Lurking in Shadows</name><set>HON</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="HON67a.png,HON67b.png">Escape to the Quays</name><set>HON</set></card>
+		<card><name id="HON66a.png,HON66b.png">Fighting in the Streets</name><set>HON</set></card>
+		<card><name id="HON65a.png,HON65b.png">The Leaping Fish (Quest)</name><set>HON</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="HON21,encounter">The Leaping Fish</name><set>HON</set></card>
+		<card><name id="HON19,encounter">Alcaron&apos;s Scroll</name><set>HON</set></card>
+	</superzone>
+</deck>

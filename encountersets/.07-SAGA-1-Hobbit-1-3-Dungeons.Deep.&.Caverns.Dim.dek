@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<title>000-Saga.Hobbit.1-3-Dungeons.Deep.&amp;.Caverns.Dim</title>
+		<author>SetYourName</author>
+		<date>04-11-12</date>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="OHAUH49">Goblin Axeman</name><set>OHAUH</set></card>
+		<card><name id="OHAUH49">Goblin Axeman</name><set>OHAUH</set></card>
+		<card><name id="OHAUH49">Goblin Axeman</name><set>OHAUH</set></card>
+		<card><name id="OHAUH52">Goblin Driver</name><set>OHAUH</set></card>
+		<card><name id="OHAUH52">Goblin Driver</name><set>OHAUH</set></card>
+		<card><name id="OHAUH52">Goblin Driver</name><set>OHAUH</set></card>
+		<card><name id="OHAUH50">Goblin Miners</name><set>OHAUH</set></card>
+		<card><name id="OHAUH50">Goblin Miners</name><set>OHAUH</set></card>
+		<card><name id="OHAUH50">Goblin Miners</name><set>OHAUH</set></card>
+		<card><name id="OHAUH51">Goblin Runners</name><set>OHAUH</set></card>
+		<card><name id="OHAUH51">Goblin Runners</name><set>OHAUH</set></card>
+		<card><name id="OHAUH51">Goblin Runners</name><set>OHAUH</set></card>
+		<card><name id="OHAUH56">The Goblins&apos; Caves</name><set>OHAUH</set></card>
+		<card><name id="OHAUH56">The Goblins&apos; Caves</name><set>OHAUH</set></card>
+		<card><name id="OHAUH56">The Goblins&apos; Caves</name><set>OHAUH</set></card>
+		<card><name id="OHAUH61">Grip, grap! Pinch, nab!</name><set>OHAUH</set></card>
+		<card><name id="OHAUH61">Grip, grap! Pinch, nab!</name><set>OHAUH</set></card>
+		<card><name id="OHAUH61">Grip, grap! Pinch, nab!</name><set>OHAUH</set></card>
+		<card><name id="OHAUH66">Great Gray Wolf</name><set>OHAUH</set></card>
+		<card><name id="OHAUH67">Wild Wargs</name><set>OHAUH</set></card>
+		<card><name id="OHAUH67">Wild Wargs</name><set>OHAUH</set></card>
+		<card><name id="OHAUH67">Wild Wargs</name><set>OHAUH</set></card>
+		<card><name id="OHAUH67">Wild Wargs</name><set>OHAUH</set></card>
+		<card><name id="OHAUH68">The Wargs&apos; Glade</name><set>OHAUH</set></card>
+		<card><name id="OHAUH68">The Wargs&apos; Glade</name><set>OHAUH</set></card>
+		<card><name id="OHAUH68">The Wargs&apos; Glade</name><set>OHAUH</set></card>
+		<card><name id="OHAUH71">Come down little bird</name><set>OHAUH</set></card>
+		<card><name id="OHAUH71">Come down little bird</name><set>OHAUH</set></card>
+		<card><name id="OHAUH73">Hiding in the Trees</name><set>OHAUH</set></card>
+		<card><name id="OHAUH73">Hiding in the Trees</name><set>OHAUH</set></card>
+		<card><name id="OHAUH72">It Likes Riddles</name><set>OHAUH</set></card>
+		<card><name id="OHAUH72">It Likes Riddles</name><set>OHAUH</set></card>
+		<card><name id="OHAUH72">It Likes Riddles</name><set>OHAUH</set></card>
+		<card><name id="OHAUH75">Not fair! Not fair!</name><set>OHAUH</set></card>
+		<card><name id="OHAUH74">What&apos;s In My Pocket?</name><set>OHAUH</set></card>
+		<card><name id="OHAUH74">What&apos;s In My Pocket?</name><set>OHAUH</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="OHAUH83a">Riddles in the Dark</name><set>OHAUH</set></card>
+		<card><name id="OHAUH82a">Out of the Frying Pan</name><set>OHAUH</set></card>
+		<card><name id="OHAUH84a">Into the Fire</name><set>OHAUH</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="OHAUH69">Lake in the Cavern</name><set>OHAUH</set></card>
+		<card><name id="OHAUH70">Bilbo&apos;s Magic Ring</name><set>OHAUH</set></card>
+		<card><name id="OHAUH65">Gollum (OHAUH)</name><set>OHAUH</set></card>
+		<card><name id="OHAUH01">Bilbo Baggins (OHAUH)</name><set>OHAUH</set></card>
+	</superzone>
+</deck>

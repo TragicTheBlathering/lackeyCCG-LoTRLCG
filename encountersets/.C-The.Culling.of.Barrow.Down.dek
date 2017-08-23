@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="core115,encounter">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core115,encounter">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core115,encounter">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core116,encounter">Evil Storm</name><set>Core</set></card>
+		<card><name id="core116,encounter">Evil Storm</name><set>Core</set></card>
+		<card><name id="core116,encounter">Evil Storm</name><set>Core</set></card>
+		<card><name id="core117,encounter">Pursued by Shadow</name><set>Core</set></card>
+		<card><name id="core117,encounter">Pursued by Shadow</name><set>Core</set></card>
+		<card><name id="core118,encounter">Treacherous Fog</name><set>Core</set></card>
+		<card><name id="core118,encounter">Treacherous Fog</name><set>Core</set></card>
+		<card><name id="core098,encounter">Black Forest Bats</name><set>Core</set></card>
+		<card><name id="core097,encounter">East Bight Patrol</name><set>Core</set></card>
+		<card><name id="core096,encounter">Forest Spider</name><set>Core</set></card>
+		<card><name id="core096,encounter">Forest Spider</name><set>Core</set></card>
+		<card><name id="core096,encounter">Forest Spider</name><set>Core</set></card>
+		<card><name id="core096,encounter">Forest Spider</name><set>Core</set></card>
+		<card><name id="core100,encounter">Forest Gate</name><set>Core</set></card>
+		<card><name id="core100,encounter">Forest Gate</name><set>Core</set></card>
+		<card><name id="core099,encounter">Old Forest Road</name><set>Core</set></card>
+		<card><name id="core099,encounter">Old Forest Road</name><set>Core</set></card>
+		<card><name id="TcatBD11,encounter">CUSTOM.-.The Wight&apos;s Song</name><set>CUSTOM. TcatBD</set></card>
+		<card><name id="TcatBD11,encounter">CUSTOM.-.The Wight&apos;s Song</name><set>CUSTOM. TcatBD</set></card>
+		<card><name id="TcatBD08,encounter">CUSTOM.-.Foggy Hills</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD08,encounter">CUSTOM.-.Foggy Hills</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TCatBD10,encounter">CUSTOM.-.Fog and Melancholy</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TCatBD10,encounter">CUSTOM.-.Fog and Melancholy</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD06,encounter">CUSTOM.-.Carin Stones</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD06,encounter">CUSTOM.-.Carin Stones</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD09,encounter">CUSTOM.-.Cardolan Standing Stones</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD12,encounter">CUSTOM.-.Bitter Cold</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD12,encounter">CUSTOM.-.Bitter Cold</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD12,encounter">CUSTOM.-.Bitter Cold</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD05,encounter">CUSTOM.-.Barrow-Wight</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD05,encounter">CUSTOM.-.Barrow-Wight</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD05,encounter">CUSTOM.-.Barrow-Wight</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD04,encounter">CUSTOM.-.Barrow-Spider</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD03,encounter">CUSTOM.-.Barrow-Bats</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD03,encounter">CUSTOM.-.Barrow-Bats</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD07,encounter">CUSTOM.-.Ancient Borrow</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD07,encounter">CUSTOM.-.Ancient Borrow</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD07,encounter">CUSTOM.-.Ancient Borrow</name><set>CUSTOM.TcatBD</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="TcatBD02a.png,TCatBD02b.png">CUSTOM.-.Silent, Heavy and Chill</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD13a.png,TCatBD13b.png">CUSTOM.-.Escaping the Great Barrow</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD01a.png,TCatBD01b.png">CUSTOM.-.A Dark Fog</name><set>CUSTOM.TcatBD</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="TcatBD16,encounter">CUSTOM.-.Barrow-Blade</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD16,encounter">CUSTOM.-.Barrow-Blade</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD16,encounter">CUSTOM.-.Barrow-Blade</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD16,encounter">CUSTOM.-.Barrow-Blade</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD15,encounter">CUSTOM.-.Song from the Old Forest</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD14,encounter">CUSTOM.-.Faedthandir</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD17,encounter">CUSTOM.-.Wight Lord</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD17,encounter">CUSTOM.-.Wight Lord</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD17,encounter">CUSTOM.-.Wight Lord</name><set>CUSTOM.TcatBD</set></card>
+		<card><name id="TcatBD17,encounter">CUSTOM.-.Wight Lord</name><set>CUSTOM.TcatBD</set></card>
+	</superzone>
+</deck>

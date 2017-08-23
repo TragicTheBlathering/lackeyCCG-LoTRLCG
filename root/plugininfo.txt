@@ -1,0 +1,220 @@
+<plugin>
+
+<playerstat>
+	<label>Threat Level</label>
+	<initialvalue>20</initialvalue>
+</playerstat>
+<globalstat>
+	<label>Victory Points</label>
+</globalstat>
+
+<deckzone>
+     <label>Player Deck</label>
+     <gamezonetoloadto>Deck</gamezonetoloadto>
+     <shuffle>yes</shuffle>
+</deckzone>
+<deckzone>
+     <label>Heroes</label>
+     <gamezonetoloadto>Heroes</gamezonetoloadto>
+     <shuffle>yes</shuffle>
+</deckzone>
+
+<deckzone>
+     <label>Encounter Deck</label>
+     <gamezonetoloadto>Encounter</gamezonetoloadto>
+     <shuffle>yes</shuffle>
+</deckzone>
+<deckzone>
+     <label>2nd Encounter Deck</label>
+     <gamezonetoloadto>2nd Encounter</gamezonetoloadto>
+     <shuffle>yes</shuffle>
+</deckzone>
+<deckzone>
+     <label>Quest Deck</label>
+     <gamezonetoloadto>Quest</gamezonetoloadto>
+     <shuffle>Yes</shuffle>
+</deckzone>
+<deckzone>
+     <label>Aside</label>
+     <gamezonetoloadto>Aside</gamezonetoloadto>
+     <shuffle>Yes</shuffle>
+</deckzone>
+
+<gamezone>
+     <label>Hand</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Deck</label>
+     <visibletoowner>no</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Discard</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Heroes</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Removed</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Encounter</label>
+     <visibletoowner>no</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+     <isshared>yes</isshared>
+</gamezone>
+<gamezone>
+     <label>Encounter Discard</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+     <isshared>yes</isshared>
+</gamezone>
+<gamezone>
+     <label>Quest</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+     <isshared>yes</isshared>
+</gamezone>
+<gamezone>
+     <label>2nd Encounter</label>
+     <visibletoowner>no</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+     <isshared>yes</isshared>
+</gamezone>
+<gamezone>
+     <label>2nd Encounter Discard 2</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+     <isshared>yes</isshared>
+</gamezone>
+<gamezone>
+     <label>Aside</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+     <isshared>yes</isshared>
+</gamezone>
+<gamezone>
+     <label>Victory</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+     <isshared>yes</isshared>
+</gamezone>
+
+
+<phase><label>Resource</label></phase>
+<phase><label>Planning</label></phase>
+<phase><label>Quest</label></phase>
+<phase><label>Travel</label></phase>
+<phase><label>Encounter</label></phase>
+<phase><label>Combat</label></phase>
+<phase><label>Refresh</label></phase>
+
+<generalfunction><label>Rrfresh All</label><kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Draw 1</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Next PhaseP</label><kind>NEXTPHASE</kind></generalfunction>
+<generalfunction><label>Previous Phase</label><kind>PREVIOUSPHASE</kind></generalfunction>
+<generalfunction>
+	<label>Encounter</label>
+	<kind>TRANSFERCARD</kind>
+	<sourceowner>shared</sourceowner>
+	<sourcegamezone>Encounter</sourcegamezone>
+	<sourceposition>top</sourceposition>
+	<destinationowner>table</destinationowner>
+	<destinationposition>faceup</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Shadow</label>
+	<kind>TRANSFERCARD</kind>
+	<sourceowner>shared</sourceowner>
+	<sourcegamezone>Encounter</sourcegamezone>
+	<sourceposition>top</sourceposition>
+	<destinationowner>table</destinationowner>
+	<destinationposition>facedown</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Quest</label>
+	<kind>TRANSFERCARD</kind>
+	<sourceowner>shared</sourceowner>
+	<sourcegamezone>Quest</sourcegamezone>
+	<sourceposition>top</sourceposition>
+	<destinationowner>table</destinationowner>
+	<destinationposition>faceup</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Encounter 2</label>
+	<kind>TRANSFERCARD</kind>
+	<sourceowner>shared</sourceowner>
+	<sourcegamezone>2nd Encounter</sourcegamezone>
+	<sourceposition>top</sourceposition>
+	<destinationowner>table</destinationowner>
+	<destinationposition>faceup</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Shadow 2</label>
+	<kind>TRANSFERCARD</kind>
+	<sourceowner>shared</sourceowner>
+	<sourcegamezone>2nd Encounter</sourcegamezone>
+	<sourceposition>top</sourceposition>
+	<destinationowner>table</destinationowner>
+	<destinationposition>facedown</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction><label>Next Turn</label><kind>NEXTTURN</kind></generalfunction>
+<generalfunction>
+	<label>Empty Hand</label>
+	<kind>TRANSFERCARD</kind>
+	<sourceowner>performer</sourceowner>
+	<sourcegamezone>Hand</sourcegamezone>
+	<sourceposition>top</sourceposition>
+	<destinationowner>performer</destinationowner>
+	<destinationgamezone>Deck</destinationgamezone>
+</generalfunction>
+<cardfunction><label>Take Control</label><kind>CHANGEOWNER</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<generalfunction><label>Flip Coin</label><kind>FLIPCOIN</kind></generalfunction>
+<generalfunction><label>Roll Die</label><kind>ROLLD6</kind></generalfunction>
+
+<cardfunction><label>Resource +1</label><kind>ADDCOUNTER</kind><color>white</color><textoverimagecolor>FFD500</textoverimagecolor><includeasbutton>yes</includeasbutton><PositionX>.5</PositionX><PositionY>.09</PositionY></cardfunction>
+<cardfunction><label>Resource -1</label><kind>REMOVECOUNTER</kind><color>white</color><textoverimagecolor>FFD500</textoverimagecolor><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Wound +1</label><kind>ADDCOUNTER</kind><color>red</color><textoverimagecolor>00F2FF</textoverimagecolor><includeasbutton>yes</includeasbutton><PositionX>.5</PositionX><PositionY>.45</PositionY></cardfunction>
+<cardfunction><label>Wound -1</label><kind>REMOVECOUNTER</kind><color>red</color><textoverimagecolor>00F2FF</textoverimagecolor><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Progress +1</label><kind>ADDCOUNTER</kind><color>green</color><textoverimagecolor>FFC400</textoverimagecolor><includeasbutton>yes</includeasbutton><PositionX>.5</PositionX><PositionY>.65</PositionY></cardfunction>
+<cardfunction><label>Progress-1</label><kind>REMOVECOUNTER</kind><color>green</color><textoverimagecolor>FFC400</textoverimagecolor><includeasbutton>yes</includeasbutton></cardfunction>
+
+<cardfunction><label>Orange +1</label><kind>ADDCOUNTER</kind><color>yellow</color><textoverimagecolor>000000</textoverimagecolor><includeasbutton>yes</includeasbutton><PositionX>.2</PositionX><PositionY>.55</PositionY></cardfunction>
+<cardfunction><label>Orange -1</label><kind>REMOVECOUNTER</kind><color>yellow</color><textoverimagecolor>000000</textoverimagecolor><includeasbutton>yes</includeasbutton><PositionX>.2</PositionX><PositionY>.35</PositionY></cardfunction>
+<cardfunction><label>Red +1</label><kind>ADDCOUNTER</kind><color>orange</color><textoverimagecolor>000000</textoverimagecolor><includeasbutton>yes</includeasbutton><PositionX>.2</PositionX><PositionY>.35</PositionY></cardfunction>
+<cardfunction><label>Red -1</label><kind>REMOVECOUNTER</kind><color>orange</color><textoverimagecolor>000000</textoverimagecolor><includeasbutton>yes</includeasbutton><PositionX>.2</PositionX><PositionY>.35</PositionY></cardfunction>
+<cardfunction><label>Purple +1</label><kind>ADDCOUNTER</kind><color>indigo</color><textoverimagecolor>000000</textoverimagecolor><includeasbutton>yes</includeasbutton><PositionX>.2</PositionX><PositionY>.15</PositionY></cardfunction>
+<cardfunction><label>Purple -1</label><kind>REMOVECOUNTER</kind><color>indigo</color><textoverimagecolor>000000</textoverimagecolor><includeasbutton>yes</includeasbutton><PositionX>.2</PositionX><PositionY>.35</PositionY></cardfunction>
+
+<cardfunction><label>Blue +1</label><kind>ADDCOUNTER</kind><color>violet</color><textoverimagecolor>000000</textoverimagecolor><includeasbutton>yes</includeasbutton><PositionX>.8</PositionX><PositionY>.55</PositionY></cardfunction>
+<cardfunction><label>Blue -1</label><kind>REMOVECOUNTER</kind><color>violet</color><textoverimagecolor>000000</textoverimagecolor><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Yellow +1</label><kind>ADDCOUNTER</kind><color>black</color><textoverimagecolor>000000</textoverimagecolor><includeasbutton>yes</includeasbutton><PositionX>.8</PositionX><PositionY>.35</PositionY></cardfunction>
+<cardfunction><label>Yellow -1</label><kind>REMOVECOUNTER</kind><color>black</color><textoverimagecolor>000000</textoverimagecolor><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Green +1</label><kind>ADDCOUNTER</kind><color>blue</color><textoverimagecolor>000000</textoverimagecolor><includeasbutton>yes</includeasbutton><PositionX>.8</PositionX><PositionY>.15</PositionY></cardfunction>
+<cardfunction><label>Green -1</label><kind>REMOVECOUNTER</kind><color>blue</color><textoverimagecolor>000000</textoverimagecolor><includeasbutton>yes</includeasbutton></cardfunction>
+
+<cardfunction><label>Flip Card</label><kind>TURNOVER</kind></cardfunction>
+
+<cardfunction><label>Refresh</label><kind>MAKERIGHT0DEGREES</kind><includeasbutton>no</includeasbutton></cardfunction>
+<cardfunction><label>Exhaust</label><kind>MAKERIGHT90DEGREES</kind><includeasbutton>no</includeasbutton></cardfunction>
+
+<definition><kind>ISYOURFACEDOWNVISIBLE</kind></definition>
+<definition><kind>ISALLOWINGMULTIPLECARDBACKS</kind></definition>
+<definition><kind>MULTIPLECARDBACKSNAMESVISIBLETO</kind><value>owner</value></definition>
+<definition><kind>CUSTOMTABLEBACKGROUND</kind><value>mapbak.jpg</value></definition>
+<definition><kind>SITONSAMESIDE</kind><value>yes</value></definition>
+<definition><kind>BACKVISIBILITY</kind><value>BACKVISIBILITYHIDEBACKINZONES</value></definition>
+</plugin>

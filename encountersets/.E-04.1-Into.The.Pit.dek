@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="KAZ34,encounter">Patrol Leader</name><set>KAZ</set></card>
+		<card><name id="KAZ37,encounter">Signs of Conflict</name><set>KAZ</set></card>
+		<card><name id="KAZ37,encounter">Signs of Conflict</name><set>KAZ</set></card>
+		<card><name id="KAZ38,encounter">Stairs of Nain</name><set>KAZ</set></card>
+		<card><name id="KAZ38,encounter">Stairs of Nain</name><set>KAZ</set></card>
+		<card><name id="KAZ06,encounter">Branching Paths</name><set>KAZ</set></card>
+		<card><name id="KAZ06,encounter">Branching Paths</name><set>KAZ</set></card>
+		<card><name id="KAZ06,encounter">Branching Paths</name><set>KAZ</set></card>
+		<card><name id="KAZ08,encounter">Burning Low</name><set>KAZ</set></card>
+		<card><name id="KAZ08,encounter">Burning Low</name><set>KAZ</set></card>
+		<card><name id="KAZ08,encounter">Burning Low</name><set>KAZ</set></card>
+		<card><name id="KAZ19,encounter">Goblin Follower</name><set>KAZ</set></card>
+		<card><name id="KAZ19,encounter">Goblin Follower</name><set>KAZ</set></card>
+		<card><name id="KAZ19,encounter">Goblin Follower</name><set>KAZ</set></card>
+		<card><name id="KAZ19,encounter">Goblin Follower</name><set>KAZ</set></card>
+		<card><name id="KAZ27,encounter">Lightless Passage</name><set>KAZ</set></card>
+		<card><name id="KAZ27,encounter">Lightless Passage</name><set>KAZ</set></card>
+		<card><name id="KAZ28,encounter">Many Roads</name><set>KAZ</set></card>
+		<card><name id="KAZ48,encounter">Zigil Mineshaft</name><set>KAZ</set></card>
+		<card><name id="KAZ48,encounter">Zigil Mineshaft</name><set>KAZ</set></card>
+		<card><name id="KAZ48,encounter">Zigil Mineshaft</name><set>KAZ</set></card>
+		<card><name id="KAZ22,encounter">Goblin Swordsman</name><set>KAZ</set></card>
+		<card><name id="KAZ22,encounter">Goblin Swordsman</name><set>KAZ</set></card>
+		<card><name id="KAZ22,encounter">Goblin Swordsman</name><set>KAZ</set></card>
+		<card><name id="KAZ22,encounter">Goblin Swordsman</name><set>KAZ</set></card>
+		<card><name id="KAZ22,encounter">Goblin Swordsman</name><set>KAZ</set></card>
+		<card><name id="KAZ23,encounter">Goblin Tunnels</name><set>KAZ</set></card>
+		<card><name id="KAZ23,encounter">Goblin Tunnels</name><set>KAZ</set></card>
+		<card><name id="KAZ20,encounter">Goblin Scout</name><set>KAZ</set></card>
+		<card><name id="KAZ20,encounter">Goblin Scout</name><set>KAZ</set></card>
+		<card><name id="KAZ20,encounter">Goblin Scout</name><set>KAZ</set></card>
+		<card><name id="KAZ17,encounter">Fouled Well</name><set>KAZ</set></card>
+		<card><name id="KAZ17,encounter">Fouled Well</name><set>KAZ</set></card>
+		<card><name id="KAZ17,encounter">Fouled Well</name><set>KAZ</set></card>
+		<card><name id="KAZ09,encounter">Cave In</name><set>KAZ</set></card>
+		<card><name id="KAZ09,encounter">Cave In</name><set>KAZ</set></card>
+		<card><name id="KAZ09,encounter">Cave In</name><set>KAZ</set></card>
+		<card><name id="KAZ13,encounter">Dark and Dreadful</name><set>KAZ</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="KAZ63.png,KAZ64.png">A Way Up</name><set>KAZ</set></card>
+		<card><name id="KAZ65.png,KAZ66.png">Entering the Mines</name><set>KAZ</set></card>
+		<card><name id="KAZ67.png,KAZ68.png">Goblin Patrol</name><set>KAZ</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="KAZ15,encounter">East Gate</name><set>KAZ</set></card>
+		<card><name id="KAZ16,encounter">First Hall</name><set>KAZ</set></card>
+		<card><name id="KAZ10,encounter">Cave Torch</name><set>KAZ</set></card>
+		<card><name id="KAZ07,encounter">Bridge of Khazad-dum</name><set>KAZ</set></card>
+	</superzone>
+</deck>

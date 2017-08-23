@@ -1,0 +1,70 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="KAZ01">Abandoned Tools</name><set>KAZ</set></card>
+		<card><name id="KAZ31">New Devilry</name><set>KAZ</set></card>
+		<card><name id="KAZ31">New Devilry</name><set>KAZ</set></card>
+		<card><name id="KAZ31">New Devilry</name><set>KAZ</set></card>
+		<card><name id="KAZ36">Shadow of Fear</name><set>KAZ</set></card>
+		<card><name id="KAZ36">Shadow of Fear</name><set>KAZ</set></card>
+		<card><name id="KAZ36">Shadow of Fear</name><set>KAZ</set></card>
+		<card><name id="KAZ77">Chieftain of the Pit</name><set>KAZ</set></card>
+		<card><name id="KAZ18">Goblin Archer</name><set>KAZ</set></card>
+		<card><name id="KAZ18">Goblin Archer</name><set>KAZ</set></card>
+		<card><name id="KAZ21">Goblin Spearman</name><set>KAZ</set></card>
+		<card><name id="KAZ21">Goblin Spearman</name><set>KAZ</set></card>
+		<card><name id="KAZ21">Goblin Spearman</name><set>KAZ</set></card>
+		<card><name id="KAZ21">Goblin Spearman</name><set>KAZ</set></card>
+		<card><name id="KAZ21">Goblin Spearman</name><set>KAZ</set></card>
+		<card><name id="KAZ35">Plundered Armoury</name><set>KAZ</set></card>
+		<card><name id="KAZ35">Plundered Armoury</name><set>KAZ</set></card>
+		<card><name id="KAZ44">Undisturbed Bones</name><set>KAZ</set></card>
+		<card><name id="KAZ44">Undisturbed Bones</name><set>KAZ</set></card>
+		<card><name id="KAZ44">Undisturbed Bones</name><set>KAZ</set></card>
+		<card><name id="KAZ09">Cave In</name><set>KAZ</set></card>
+		<card><name id="KAZ09">Cave In</name><set>KAZ</set></card>
+		<card><name id="KAZ09">Cave In</name><set>KAZ</set></card>
+		<card><name id="KAZ12">Crumbling Ruin</name><set>KAZ</set></card>
+		<card><name id="KAZ12">Crumbling Ruin</name><set>KAZ</set></card>
+		<card><name id="KAZ13">Dark and Dreadful</name><set>KAZ</set></card>
+		<card><name id="KAZ13">Dark and Dreadful</name><set>KAZ</set></card>
+		<card><name id="KAZ14">Dreadful Gap</name><set>KAZ</set></card>
+		<card><name id="KAZ17">Fouled Well</name><set>KAZ</set></card>
+		<card><name id="KAZ17">Fouled Well</name><set>KAZ</set></card>
+		<card><name id="KAZ17">Fouled Well</name><set>KAZ</set></card>
+		<card><name id="KAZ40">Sudden Pitfall</name><set>KAZ</set></card>
+		<card><name id="KAZ76">Chance Encounter</name><set>KAZ</set></card>
+		<card><name id="KAZ76">Chance Encounter</name><set>KAZ</set></card>
+		<card><name id="KAZ76">Chance Encounter</name><set>KAZ</set></card>
+		<card><name id="KAZ24">Great Cave Troll</name><set>KAZ</set></card>
+		<card><name id="KAZ24">Great Cave Troll</name><set>KAZ</set></card>
+		<card><name id="KAZ29">Massing in the Deep</name><set>KAZ</set></card>
+		<card><name id="KAZ29">Massing in the Deep</name><set>KAZ</set></card>
+		<card><name id="KAZ32">Orc Drummer</name><set>KAZ</set></card>
+		<card><name id="KAZ39">Stray Goblin</name><set>KAZ</set></card>
+		<card><name id="KAZ39">Stray Goblin</name><set>KAZ</set></card>
+		<card><name id="KAZ39">Stray Goblin</name><set>KAZ</set></card>
+		<card><name id="KAZ41">The Mountains&apos; Roots</name><set>KAZ</set></card>
+		<card><name id="KAZ41">The Mountains&apos; Roots</name><set>KAZ</set></card>
+		<card><name id="KAZ41">The Mountains&apos; Roots</name><set>KAZ</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="KAZ49">A Presence in the Dark</name><set>KAZ</set></card>
+		<card><name id="KAZ51">Search for an Exit - A Wrong Turn</name><set>KAZ</set></card>
+		<card><name id="KAZ51">Search for an Exit - Blocked by Shadow</name><set>KAZ</set></card>
+		<card><name id="KAZ51">Search for an Exit - Escape from Darkness</name><set>KAZ</set></card>
+		<card><name id="KAZ51">Search for an Exit - Hasty Council</name><set>KAZ</set></card>
+		<card><name id="KAZ51">Search for an Exit - Heading Down</name><set>KAZ</set></card>
+		<card><name id="KAZ51">Search for an Exit - Heading Up</name><set>KAZ</set></card>
+		<card><name id="KAZ51">Search for an Exit - Narrow Paths</name><set>KAZ</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="KAZ42">The Nameless Fear</name><set>KAZ</set></card>
+		<card><name id="KAZ02">A Foe Beyond</name><set>KAZ</set></card>
+		<card><name id="KAZ02">A Foe Beyond</name><set>KAZ</set></card>
+		<card><name id="KAZ02">A Foe Beyond</name><set>KAZ</set></card>
+		<card><name id="KAZ02">A Foe Beyond</name><set>KAZ</set></card>
+	</superzone>
+</deck>

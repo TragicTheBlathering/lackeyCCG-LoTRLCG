@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="Fx4-15,encounter">CUSTOM.-.Besieged Soldiers</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-15,encounter">CUSTOM.-.Besieged Soldiers</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-15,encounter">CUSTOM.-.Besieged Soldiers</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-15,encounter">CUSTOM.-.Besieged Soldiers</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-04,encounter">CUSTOM.-.Country Path</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-10,encounter">CUSTOM.-.Dale</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-03,encounter">CUSTOM.-.Forest Path</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-03,encounter">CUSTOM.-.Forest Path</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-07,encounter">CUSTOM.-.Lake Town</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-08,encounter">CUSTOM.-.Lonely Mountain Path</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-05,encounter">CUSTOM.-.Nowhere to Run</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-05,encounter">CUSTOM.-.Nowhere to Run</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-18,encounter">CUSTOM.-.Riverside Dominion</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-18,encounter">CUSTOM.-.Riverside Dominion</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-09,encounter">CUSTOM.-.Road to Dale</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-11,encounter">CUSTOM.-.Road to Lake-Town</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-13,encounter">CUSTOM.-.Scouting Party</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-13,encounter">CUSTOM.-.Scouting Party</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-13,encounter">CUSTOM.-.Scouting Party</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-06,encounter">CUSTOM.-.The Lonely Mountain</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-14,encounter">CUSTOM.-.Wainrider Seeker</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-14,encounter">CUSTOM.-.Wainrider Seeker</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-12,encounter">CUSTOM.-.War Approaches</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-22,encounter">CUSTOM.-.Battle-Hardened</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-22,encounter">CUSTOM.-.Battle-Hardened</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-22,encounter">CUSTOM.-.Battle-Hardened</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-17,encounter">CUSTOM.-.Capitan of Rhun</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-17,encounter">CUSTOM.-.Capitan of Rhun</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-19,encounter">CUSTOM.-.Graves of Men</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-19,encounter">CUSTOM.-.Graves of Men</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-21,encounter">CUSTOM.-.Lancer of Rhun</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-21,encounter">CUSTOM.-.Lancer of Rhun</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-16,encounter">CUSTOM.-.Rhun Heavy-Infantry</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-16,encounter">CUSTOM.-.Rhun Heavy-Infantry</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-20,encounter">CUSTOM.-.Shadow from the East</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-20,encounter">CUSTOM.-.Shadow from the East</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-23,encounter">CUSTOM.-.Soldier of Rhun</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-23,encounter">CUSTOM.-.Soldier of Rhun</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="Fx4-23,encounter">CUSTOM.-.Soldier of Rhun</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="fx3-RonRC14,encounter">CUSTOM.-.A Storm in the South</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC14,encounter">CUSTOM.-.A Storm in the South</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC14,encounter">CUSTOM.-.A Storm in the South</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC04,encounter">CUSTOM.-.Mirkwood Edge</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC04,encounter">CUSTOM.-.Mirkwood Edge</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC15,encounter">CUSTOM.-.Wilderland Hills</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC15,encounter">CUSTOM.-.Wilderland Hills</name><set>CUSTOM.fx3RonRC</set></card>
+		<card><name id="fx3-RonRC13,encounter">CUSTOM.-.Wilds of Rohovanion</name><set>CUSTOM.fx3RonRC</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="fx4-Qst-2a.png,fx4-Qst-2a.png">CUSTOM.-.An Uphill Battle</name><set>CUSTOM.fx4tFoD</set></card>
+		<card><name id="fx4-Qst-1a.png,fx4-Qst-1b.png">CUSTOM.-.Mustering Defences</name><set>CUSTOM.fx4tFoD</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="f43-instruct.jpg">CUSTOM.-.The Fall of Dale (Instruction)</name><set>Instructions</set></card>
+		<card><name id="Fx4-04,encounter">CUSTOM.-.Country Path</name><set>CUSTOM.fx4tFoD</set></card>
+	</superzone>
+</deck>

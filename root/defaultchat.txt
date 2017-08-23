@@ -1,0 +1,20 @@
+!-Threat!/player stat1 -1
+!+Threat!/player stat1 +1
+!Refresh!/function 1;/player stat1 +1;/draw 1
+!SAVE!/save LOAD ME
+!LOAD!/Load Load me
+!Draw 6!/shuffle 2;/draw 6;/say draws a starting hand of 6 cards!
+!Mulligan!/f11;/f11;/f11;/f11;/f11;/f11;/f11;/f11;/shuffle 2;/draw 6;/say takes a MULLIGAN!
+!Choose!/playerchoose
+!Peak 5!/vp1at5
+!Peak 3!/vp1at3
+!Peak 1!/vp1at1
+!Scryu 1!/vs0at1
+!Scryu 2!/vs0at2
+!Scryu 3!/vs0at3
+!Save 2!/save 2
+!Load 2!/load 2
+!Save 3!/save 3
+!Load 3!/load 3
+!Save 4!/save 4
+!Load 4!/load 4

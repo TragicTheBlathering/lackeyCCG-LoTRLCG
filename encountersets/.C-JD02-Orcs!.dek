@@ -1,0 +1,93 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="core086,encounter">Despair</name><set>Core</set></card>
+		<card><name id="core086,encounter">Despair</name><set>Core</set></card>
+		<card><name id="core083,encounter">Goblin Sniper</name><set>Core</set></card>
+		<card><name id="core083,encounter">Goblin Sniper</name><set>Core</set></card>
+		<card><name id="core087,encounter">The Brown Lands</name><set>Core</set></card>
+		<card><name id="core087,encounter">The Brown Lands</name><set>Core</set></card>
+		<card><name id="core088,encounter">The East Bight</name><set>Core</set></card>
+		<card><name id="core088,encounter">The East Bight</name><set>Core</set></card>
+		<card><name id="core085,encounter">Wargs</name><set>Core</set></card>
+		<card><name id="core085,encounter">Wargs</name><set>Core</set></card>
+		<card><name id="core081,encounter">Wolf Rider</name><set>Core</set></card>
+		<card><name id="core091,encounter">Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name id="core091,encounter">Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name id="core089,encounter">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core089,encounter">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core089,encounter">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core092,encounter">Driven by Shadow</name><set>Core</set></card>
+		<card><name id="core095,encounter">Enchanted Stream</name><set>Core</set></card>
+		<card><name id="core095,encounter">Enchanted Stream</name><set>Core</set></card>
+		<card><name id="core094,encounter">Necromancer&apos;s Pass</name><set>Core</set></card>
+		<card><name id="core094,encounter">Necromancer&apos;s Pass</name><set>Core</set></card>
+		<card><name id="core093,encounter">The Necromancer&apos;s Reach</name><set>Core</set></card>
+		<card><name id="core093,encounter">The Necromancer&apos;s Reach</name><set>Core</set></card>
+		<card><name id="core093,encounter">The Necromancer&apos;s Reach</name><set>Core</set></card>
+	</superzone>
+	<superzone name="2nd Encounter Deck">
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs06">CUSTOM.-.Tribal Orc</name><set>CUSTOM.JRDCQ</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="Orcs02a.png,Orcs02b.png">CUSTOM.-.Defend the Camp!</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs03a.png,Orcs03b.png">CUSTOM.-.The Orc Chieftain!</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs01a.png,Orcs01b.png">CUSTOM.-.Warn the Camp!</name><set>CUSTOM.JRDCQ</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="Orcs04">CUSTOM.-.Drakk Orc Chieftain</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs05">CUSTOM.-.Orc Bodyguard</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Orcs00.png,encounter">CUSTOM.-.Quest Preparation</name><set>CUSTOM.JRDCQ</set></card>
+	</superzone>
+</deck>

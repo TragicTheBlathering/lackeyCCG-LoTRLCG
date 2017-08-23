@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<title>05.N-4-The.Long.Dark</title>		<author>SetYourName</author>		<date>04-11-12</date>		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="SAF15,encounter">Counter-Spell</name><set>SaF</set></card>
+		<card><name id="SAF22,encounter">Fiery Sword</name><set>SaF</set></card>
+		<card><name id="SAF22,encounter">Fiery Sword</name><set>SaF</set></card>
+		<card><name id="SAF16,encounter">Inner Flame</name><set>SaF</set></card>
+		<card><name id="SAF16,encounter">Inner Flame</name><set>SaF</set></card>
+		<card><name id="SAF16,encounter">Inner Flame</name><set>SaF</set></card>
+		<card><name id="SAF17,encounter">Inner Shadow</name><set>SaF</set></card>
+		<card><name id="SAF17,encounter">Inner Shadow</name><set>SaF</set></card>
+		<card><name id="SAF17,encounter">Inner Shadow</name><set>SaF</set></card>
+		<card><name id="SAF19,encounter">Leaping Flame</name><set>SaF</set></card>
+		<card><name id="SAF23,encounter">Many Thonged Whip</name><set>SaF</set></card>
+		<card><name id="SAF23,encounter">Many Thonged Whip</name><set>SaF</set></card>
+		<card><name id="SAF21,encounter">Ranging Goblin</name><set>SaF</set></card>
+		<card><name id="SAF21,encounter">Ranging Goblin</name><set>SaF</set></card>
+		<card><name id="SAF21,encounter">Ranging Goblin</name><set>SaF</set></card>
+		<card><name id="SAF13,encounter">Second Deep</name><set>SaF</set></card>
+		<card><name id="SAF13,encounter">Second Deep</name><set>SaF</set></card>
+		<card><name id="SAF13,encounter">Second Deep</name><set>SaF</set></card>
+		<card><name id="SAF12,encounter">Second Hall</name><set>SaF</set></card>
+		<card><name id="SAF18,encounter">Whip Lash</name><set>SaF</set></card>
+		<card><name id="SAF18,encounter">Whip Lash</name><set>SaF</set></card>
+		<card><name id="KAZ20,encounter">Goblin Scout</name><set>KAZ</set></card>
+		<card><name id="KAZ20,encounter">Goblin Scout</name><set>KAZ</set></card>
+		<card><name id="KAZ20,encounter">Goblin Scout</name><set>KAZ</set></card>
+		<card><name id="KAZ22,encounter">Goblin Swordsman</name><set>KAZ</set></card>
+		<card><name id="KAZ22,encounter">Goblin Swordsman</name><set>KAZ</set></card>
+		<card><name id="KAZ22,encounter">Goblin Swordsman</name><set>KAZ</set></card>
+		<card><name id="KAZ22,encounter">Goblin Swordsman</name><set>KAZ</set></card>
+		<card><name id="KAZ22,encounter">Goblin Swordsman</name><set>KAZ</set></card>
+		<card><name id="KAZ23,encounter">Goblin Tunnels</name><set>KAZ</set></card>
+		<card><name id="KAZ23,encounter">Goblin Tunnels</name><set>KAZ</set></card>
+		<card><name id="KAZ76,encounter">Chance Encounter</name><set>KAZ</set></card>
+		<card><name id="KAZ76,encounter">Chance Encounter</name><set>KAZ</set></card>
+		<card><name id="KAZ76,encounter">Chance Encounter</name><set>KAZ</set></card>
+		<card><name id="KAZ39,encounter">Stray Goblin</name><set>KAZ</set></card>
+		<card><name id="KAZ39,encounter">Stray Goblin</name><set>KAZ</set></card>
+		<card><name id="KAZ39,encounter">Stray Goblin</name><set>KAZ</set></card>
+		<card><name id="KAZ41,encounter">The Mountains&apos; Roots</name><set>KAZ</set></card>
+		<card><name id="KAZ41,encounter">The Mountains&apos; Roots</name><set>KAZ</set></card>
+		<card><name id="KAZ41,encounter">The Mountains&apos; Roots</name><set>KAZ</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="SAF26a.png,SAF26b.png">Last Lord of Moria</name><set>SaF</set></card>
+		<card><name id="SAF24a.png,SAF24b.png">Nearing the Gate</name><set>SaF</set></card>
+		<card><name id="SAF25a.png,SAF25b.png">The Rear Guard</name><set>SaF</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="SAF11,encounter">Dark Pit</name><set>SaF</set></card>
+		<card><name id="SAF20,encounter">Durin&apos;s Bane</name><set>SaF</set></card>
+	</superzone>
+</deck>

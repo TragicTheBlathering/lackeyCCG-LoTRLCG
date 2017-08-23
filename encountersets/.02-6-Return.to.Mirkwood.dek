@@ -1,0 +1,69 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="RTM12">Attercop, Attercop</name><set>RTM</set></card>
+		<card><name id="RTM12">Attercop, Attercop</name><set>RTM</set></card>
+		<card><name id="RTM12">Attercop, Attercop</name><set>RTM</set></card>
+		<card><name id="RTM14">Dry Watercourse</name><set>RTM</set></card>
+		<card><name id="RTM14">Dry Watercourse</name><set>RTM</set></card>
+		<card><name id="RTM14">Dry Watercourse</name><set>RTM</set></card>
+		<card><name id="RTM18">Gollum&apos;s Anguish</name><set>RTM</set></card>
+		<card><name id="RTM18">Gollum&apos;s Anguish</name><set>RTM</set></card>
+		<card><name id="RTM19">Gollum&apos;s Bite</name><set>RTM</set></card>
+		<card><name id="RTM19">Gollum&apos;s Bite</name><set>RTM</set></card>
+		<card><name id="RTM13">Mirkwood Bats</name><set>RTM</set></card>
+		<card><name id="RTM13">Mirkwood Bats</name><set>RTM</set></card>
+		<card><name id="RTM13">Mirkwood Bats</name><set>RTM</set></card>
+		<card><name id="RTM13">Mirkwood Bats</name><set>RTM</set></card>
+		<card><name id="RTM15">The Spider&apos;s Ring</name><set>RTM</set></card>
+		<card><name id="RTM15">The Spider&apos;s Ring</name><set>RTM</set></card>
+		<card><name id="RTM15">The Spider&apos;s Ring</name><set>RTM</set></card>
+		<card><name id="RTM15">The Spider&apos;s Ring</name><set>RTM</set></card>
+		<card><name id="RTM20">Wasted Provisions</name><set>RTM</set></card>
+		<card><name id="RTM20">Wasted Provisions</name><set>RTM</set></card>
+		<card><name id="RTM20">Wasted Provisions</name><set>RTM</set></card>
+		<card><name id="RTM16">Wood Elf Path</name><set>RTM</set></card>
+		<card><name id="RTM16">Wood Elf Path</name><set>RTM</set></card>
+		<card><name id="RTM16">Wood Elf Path</name><set>RTM</set></card>
+		<card><name id="RTM17">Woodman&apos;s Glade</name><set>RTM</set></card>
+		<card><name id="RTM17">Woodman&apos;s Glade</name><set>RTM</set></card>
+		<card><name id="RTM17">Woodman&apos;s Glade</name><set>RTM</set></card>
+		<card><name id="core086">Despair</name><set>Core</set></card>
+		<card><name id="core086">Despair</name><set>Core</set></card>
+		<card><name id="core083">Goblin Sniper</name><set>Core</set></card>
+		<card><name id="core083">Goblin Sniper</name><set>Core</set></card>
+		<card><name id="core082">Hill Troll</name><set>Core</set></card>
+		<card><name id="core082">Hill Troll</name><set>Core</set></card>
+		<card><name id="core084">Marsh Adder</name><set>Core</set></card>
+		<card><name id="core087">The Brown Lands</name><set>Core</set></card>
+		<card><name id="core087">The Brown Lands</name><set>Core</set></card>
+		<card><name id="core088">The East Bight</name><set>Core</set></card>
+		<card><name id="core088">The East Bight</name><set>Core</set></card>
+		<card><name id="core085">Wargs</name><set>Core</set></card>
+		<card><name id="core085">Wargs</name><set>Core</set></card>
+		<card><name id="core081">Wolf Rider</name><set>Core</set></card>
+		<card><name id="core080">Caught in a Web</name><set>Core</set></card>
+		<card><name id="core080">Caught in a Web</name><set>Core</set></card>
+		<card><name id="core079">Eyes of the Forest</name><set>Core</set></card>
+		<card><name id="core077">Great Forest Web</name><set>Core</set></card>
+		<card><name id="core077">Great Forest Web</name><set>Core</set></card>
+		<card><name id="core075">Hummerhorns</name><set>Core</set></card>
+		<card><name id="core074">King Spider</name><set>Core</set></card>
+		<card><name id="core074">King Spider</name><set>Core</set></card>
+		<card><name id="core078">Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name id="core078">Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name id="core078">Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name id="core076">Ungoliant&apos;s Spawn</name><set>Core</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="RTM24a">Ambush</name><set>RTM</set></card>
+		<card><name id="RTM22a">Escape Attempt</name><set>RTM</set></card>
+		<card><name id="RTM21a">Through the Forest</name><set>RTM</set></card>
+		<card><name id="RTM23a">To the Elvin King&apos;s Halls</name><set>RTM</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="RTM11">Gollum (RTM)</name><set>RTM</set></card>
+	</superzone>
+</deck>

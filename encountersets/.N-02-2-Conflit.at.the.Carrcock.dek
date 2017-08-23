@@ -1,0 +1,58 @@
+<deck version="0.8">
+	<meta>
+		<title>02.N-2-Conflit.at.the.Carrcock</title>		<author>SetYourName</author>		<date>04-11-12</date>		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="CATC15,encounter">Muck Adder</name><set>CATC</set></card>
+		<card><name id="CATC15,encounter">Muck Adder</name><set>CATC</set></card>
+		<card><name id="CATC15,encounter">Muck Adder</name><set>CATC</set></card>
+		<card><name id="CATC15,encounter">Muck Adder</name><set>CATC</set></card>
+		<card><name id="CATC17,encounter">River Langflood</name><set>CATC</set></card>
+		<card><name id="CATC17,encounter">River Langflood</name><set>CATC</set></card>
+		<card><name id="CATC17,encounter">River Langflood</name><set>CATC</set></card>
+		<card><name id="CATC17,encounter">River Langflood</name><set>CATC</set></card>
+		<card><name id="CATC16,encounter">The Carrock</name><set>CATC</set></card>
+		<card><name id="CATC20,encounter">A Frightened Beast</name><set>CATC</set></card>
+		<card><name id="CATC20,encounter">A Frightened Beast</name><set>CATC</set></card>
+		<card><name id="CATC20,encounter">A Frightened Beast</name><set>CATC</set></card>
+		<card><name id="CATC22,encounter">Roasted Slowly</name><set>CATC</set></card>
+		<card><name id="core082,encounter">Hill Troll</name><set>Core</set></card>
+		<card><name id="core082,encounter">Hill Troll</name><set>Core</set></card>
+		<card><name id="core084,encounter">Marsh Adder</name><set>Core</set></card>
+		<card><name id="core114,encounter">Gladden Fields</name><set>Core</set></card>
+		<card><name id="core114,encounter">Gladden Fields</name><set>Core</set></card>
+		<card><name id="core114,encounter">Gladden Fields</name><set>Core</set></card>
+		<card><name id="core112,encounter">Massing at Night</name><set>Core</set></card>
+		<card><name id="N-CATC10">Savage Hill Troll (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-CATC10">Savage Hill Troll (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-CATC10">Savage Hill Troll (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-CATC10">Savage Hill Troll (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-CATC05">Hives and Hives (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-CATC05">Hives and Hives (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-CATC05">Hives and Hives (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-CATC13">Troll Lair (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-CATC13">Troll Lair (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-CATC13">Troll Lair (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-CATC12">Time for Supper (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-CATC12">Time for Supper (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-CATC12">Time for Supper (Nightmare)</name><set>Nightmare</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="CATC25a.png,CATC25b.png">Against the Trolls</name><set>CATC</set></card>
+		<card><name id="CATC24a.png,CATC24b.png">Grimbeorn&apos;s Quest</name><set>CATC</set></card>
+		<card><name id="N-CATC03,N-CATC04">Grimbeorn&apos;s Folly (Nightmare)</name><set>Nightmare</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="CATC21,encounter">Sacked!</name><set>CATC</set></card>
+		<card><name id="CATC21,encounter">Sacked!</name><set>CATC</set></card>
+		<card><name id="CATC21,encounter">Sacked!</name><set>CATC</set></card>
+		<card><name id="CATC21,encounter">Sacked!</name><set>CATC</set></card>
+		<card><name id="CATC21,encounter">Sacked!</name><set>CATC</set></card>
+		<card><name id="N-CATC06">Louis (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-CATC07">Morris (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-CATC09">Rupert (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-CATC08">Rob &amp; Bob (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-CATC11">Stuart (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-CATC01,N-CATC02">A Conflict at the Carrock (Nightmare)</name><set>Nightmare</set></card>
+	</superzone>
+</deck>

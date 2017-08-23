@@ -1,0 +1,45 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="VoI45,encounter">Methedras Orcs</name><set>VoI</set></card>
+		<card><name id="VoI45,encounter">Methedras Orcs</name><set>VoI</set></card>
+		<card><name id="VoI45,encounter">Methedras Orcs</name><set>VoI</set></card>
+		<card><name id="VoI46,encounter">Methedras</name><set>VoI</set></card>
+		<card><name id="VoI46,encounter">Methedras</name><set>VoI</set></card>
+		<card><name id="VoI46,encounter">Methedras</name><set>VoI</set></card>
+		<card><name id="VoI46,encounter">Methedras</name><set>VoI</set></card>
+		<card><name id="VoI49,encounter">Mugash&apos;s Lair</name><set>VoI</set></card>
+		<card><name id="VoI49,encounter">Mugash&apos;s Lair</name><set>VoI</set></card>
+		<card><name id="VoI53,encounter">Orc Cave</name><set>VoI</set></card>
+		<card><name id="VoI53,encounter">Orc Cave</name><set>VoI</set></card>
+		<card><name id="VoI53,encounter">Orc Cave</name><set>VoI</set></card>
+		<card><name id="VoI61,encounter">Prowling Wolf</name><set>VoI</set></card>
+		<card><name id="VoI61,encounter">Prowling Wolf</name><set>VoI</set></card>
+		<card><name id="VoI61,encounter">Prowling Wolf</name><set>VoI</set></card>
+		<card><name id="VoI21,encounter">Broken Lands</name><set>VoI</set></card>
+		<card><name id="VoI21,encounter">Broken Lands</name><set>VoI</set></card>
+		<card><name id="VoI21,encounter">Broken Lands</name><set>VoI</set></card>
+		<card><name id="VoI66,encounter">Take Cover</name><set>VoI</set></card>
+		<card><name id="VoI66,encounter">Take Cover</name><set>VoI</set></card>
+		<card><name id="VoI54,encounter">Orc Hound</name><set>VoI</set></card>
+		<card><name id="VoI55,encounter">Orc Hunter</name><set>VoI</set></card>
+		<card><name id="VoI57,encounter">Orc Skirmisher</name><set>VoI</set></card>
+		<card><name id="VoI57,encounter">Orc Skirmisher</name><set>VoI</set></card>
+		<card><name id="VoI57,encounter">Orc Skirmisher</name><set>VoI</set></card>
+		<card><name id="VoI56,encounter">Orc Hunting Party</name><set>VoI</set></card>
+		<card><name id="VoI56,encounter">Orc Hunting Party</name><set>VoI</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="VoI13.png,VoI14.png">Orders from Orthanc</name><set>VoI</set></card>
+		<card><name id="VoI15.png,VoI16.png">Searching for Mugash</name><set>VoI</set></card>
+		<card><name id="VoI17.png,VoI18.png">The Wizards Prize</name><set>VoI</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="VoI50,encounter">Mugash</name><set>VoI</set></card>
+		<card><name id="VoI48">Mugash&apos;s Guard</name><set>VoI</set></card>
+		<card><name id="VoI48">Mugash&apos;s Guard</name><set>VoI</set></card>
+		<card><name id="VoI48">Mugash&apos;s Guard</name><set>VoI</set></card>
+	</superzone>
+</deck>

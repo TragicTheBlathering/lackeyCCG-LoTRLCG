@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<title>01.N-1-Passage.Through.Mirkwood</title>		<author>SetYourName</author>		<date>04-11-12</date>		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="core114,encounter">Gladden Fields</name><set>Core</set></card>
+		<card><name id="core114,encounter">Gladden Fields</name><set>Core</set></card>
+		<card><name id="core114,encounter">Gladden Fields</name><set>Core</set></card>
+		<card><name id="core112,encounter">Massing at Night</name><set>Core</set></card>
+		<card><name id="core115,encounter">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core115,encounter">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core115,encounter">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core117,encounter">Pursued by Shadow</name><set>Core</set></card>
+		<card><name id="core117,encounter">Pursued by Shadow</name><set>Core</set></card>
+		<card><name id="core090,encounter">Chieftan Ufthak</name><set>Core</set></card>
+		<card><name id="core091,encounter">Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name id="core091,encounter">Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name id="core092,encounter">Driven by Shadow</name><set>Core</set></card>
+		<card><name id="core093,encounter">The Necromancer&apos;s Reach</name><set>Core</set></card>
+		<card><name id="core093,encounter">The Necromancer&apos;s Reach</name><set>Core</set></card>
+		<card><name id="core093,encounter">The Necromancer&apos;s Reach</name><set>Core</set></card>
+		<card><name id="core083,encounter">Goblin Sniper</name><set>Core</set></card>
+		<card><name id="core083,encounter">Goblin Sniper</name><set>Core</set></card>
+		<card><name id="core082,encounter">Hill Troll</name><set>Core</set></card>
+		<card><name id="core082,encounter">Hill Troll</name><set>Core</set></card>
+		<card><name id="core084,encounter">Marsh Adder</name><set>Core</set></card>
+		<card><name id="core085,encounter">Wargs</name><set>Core</set></card>
+		<card><name id="core085,encounter">Wargs</name><set>Core</set></card>
+		<card><name id="core081,encounter">Wolf Rider</name><set>Core</set></card>
+		<card><name id="core087,encounter">The Brown Lands</name><set>Core</set></card>
+		<card><name id="core087,encounter">The Brown Lands</name><set>Core</set></card>
+		<card><name id="core088,encounter">The East Bight</name><set>Core</set></card>
+		<card><name id="core088,encounter">The East Bight</name><set>Core</set></card>
+		<card><name id="N-JDA-03-3,encounter">Anduin Troll Spawn (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-JDA-03-3,encounter">Anduin Troll Spawn (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-JDA-03-3,encounter">Anduin Troll Spawn (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-JDA-04-3,encounter">Brown Water Rats (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-JDA-04-3,encounter">Brown Water Rats (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-JDA-04-3,encounter">Brown Water Rats (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-JDA-02-2,encounter">Marshland Outlaws (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-JDA-02-2,encounter">Marshland Outlaws (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-JDA-05-2,encounter">A Flooded Ford (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-JDA-05-2,encounter">A Flooded Ford (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-JDA-06-3,encounter">Gladden Marshlands (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-JDA-06-3,encounter">Gladden Marshlands (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-JDA-06-3,encounter">Gladden Marshlands (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-JDA-07-2,encounter">Pursuit on the Shore (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-JDA-07-2,encounter">Pursuit on the Shore (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-JDA-09-2,encounter">Smoking Blood (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-JDA-09-2,encounter">Smoking Blood (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-JDA-08-2,encounter">Troll Attack (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-JDA-08-2,encounter">Troll Attack (Nightmare)</name><set>Nightmare</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="core128a.png,core128b.png">Ambush on the Shore</name><set>Core</set></card>
+		<card><name id="core127a.png,core127b.png">Anduin Passage</name><set>Core</set></card>
+		<card><name id="core126a.png,core126b.png">To the River...</name><set>Core</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="N-JDA-01a,N-JDA-01b">Journey Down the Anduin (Nightmare)</name><set>Nightmare</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,42 @@
+<deck version="0.8">
+	<meta>
+		<title>000-1.Hobbit.1.E-2-Over.The,Misty.Mountians.Grim</title>		<author>SetYourName</author>		<date>04-11-12</date>		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="OTD-26,encounter">Caught in Webs</name><set>OTD</set></card>
+		<card><name id="OTD-26,encounter">Caught in Webs</name><set>OTD</set></card>
+		<card><name id="OTD-27,encounter">Crazy Cob</name><set>OTD</set></card>
+		<card><name id="OTD-27,encounter">Crazy Cob</name><set>OTD</set></card>
+		<card><name id="OTD-35,encounter">Fat Spider</name><set>OTD</set></card>
+		<card><name id="OTD-35,encounter">Fat Spider</name><set>OTD</set></card>
+		<card><name id="OTD-35,encounter">Fat Spider</name><set>OTD</set></card>
+		<card><name id="OTD-37,encounter">Forest Stream</name><set>OTD</set></card>
+		<card><name id="OTD-37,encounter">Forest Stream</name><set>OTD</set></card>
+		<card><name id="OTD-38,encounter">Giant Web</name><set>OTD</set></card>
+		<card><name id="OTD-38,encounter">Giant Web</name><set>OTD</set></card>
+		<card><name id="OTD-38,encounter">Giant Web</name><set>OTD</set></card>
+		<card><name id="OTD-51,encounter">Lazy Lob</name><set>OTD</set></card>
+		<card><name id="OTD-56,encounter">Old Tomnoddy</name><set>OTD</set></card>
+		<card><name id="OTD-80,encounter">Wicked Spider</name><set>OTD</set></card>
+		<card><name id="OTD-80,encounter">Wicked Spider</name><set>OTD</set></card>
+		<card><name id="OTD-80,encounter">Wicked Spider</name><set>OTD</set></card>
+		<card><name id="OTD-80,encounter">Wicked Spider</name><set>OTD</set></card>
+		<card><name id="OTD-80,encounter">Wicked Spider</name><set>OTD</set></card>
+		<card><name id="OTD-29,encounter">Dark Bats</name><set>OTD</set></card>
+		<card><name id="OTD-29,encounter">Dark Bats</name><set>OTD</set></card>
+		<card><name id="OTD-29,encounter">Dark Bats</name><set>OTD</set></card>
+		<card><name id="OTD-48,encounter">Hidden Path</name><set>OTD</set></card>
+		<card><name id="OTD-48,encounter">Hidden Path</name><set>OTD</set></card>
+		<card><name id="OTD-48,encounter">Hidden Path</name><set>OTD</set></card>
+		<card><name id="OTD-78,encounter">Weighed Down</name><set>OTD</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="OTD-05.png,OTD-06.png">Battle with the Spiders</name><set>OTD</set></card>
+		<card><name id="OTD-07.png,OTD-08.png">Captured by Spiders</name><set>OTD</set></card>
+		<card><name id="OTD-11.png,OTD-12.png">Into Mirkwood</name><set>OTD</set></card>
+		<card><name id="OTD-13.png,OTD-14.png">Lost in the Dark</name><set>OTD</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="OTD-20">Bilbo Baggins (OtD)</name><set>OTD</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,64 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="WEB209-2,encounter">Misty Mountains</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB209-2,encounter">Misty Mountains</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB208-2,encounter">Old South Road</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB210-2,encounter">River Isen</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB210-2,encounter">River Isen</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB213-2,encounter">Ill Prophecy</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB213-2,encounter">Ill Prophecy</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB211-3,encounter">Cawing Crows</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB211-3,encounter">Cawing Crows</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB211-3,encounter">Cawing Crows</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB212-3,encounter">Suspicious Hireling</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB212-3,encounter">Suspicious Hireling</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB212-3,encounter">Suspicious Hireling</name><set>CUSTOM.WEB</set></card>
+	</superzone>
+	<superzone name="2nd Encounter Deck">
+		<card><name id="WEB223-1,encounter">Uruk Capitan</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB221-1,encounter">River Snowborne</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB219-1,encounter">Rohir Hamlet</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB220-1,encounter">The Hornburg</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB222-1,encounter">Aud, Daughter of Erkenbrand</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB227-1,encounter">Lies of Curunir</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB216-2,encounter">Great West Road</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB216-2,encounter">Great West Road</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB218-2,encounter">West Emnet</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB218-2,encounter">West Emnet</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB217-2,encounter">Westfold</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB217-2,encounter">Westfold</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB229-2,encounter">Bleak Nightmares</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB229-2,encounter">Bleak Nightmares</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB231-2,encounter">Faces in the Dark</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB231-2,encounter">Faces in the Dark</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB228-2,encounter">The Fighting Uruk Hai</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB228-2,encounter">The Fighting Uruk Hai</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB230-2,encounter">Unnatural Storms</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB230-2,encounter">Unnatural Storms</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB226-3,encounter">Orcs of the White Hand</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB226-3,encounter">Orcs of the White Hand</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB226-3,encounter">Orcs of the White Hand</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB225-4,encounter">Great Wolves</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB225-4,encounter">Great Wolves</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB225-4,encounter">Great Wolves</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB225-4,encounter">Great Wolves</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB224-4,encounter">Uruk of the White Hand</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB224-4,encounter">Uruk of the White Hand</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB224-4,encounter">Uruk of the White Hand</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB224-4,encounter">Uruk of the White Hand</name><set>CUSTOM.WEB</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="WEB205.png,WEB206.png">The Golden Hall of Meduseld</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB201.png,WEB202.png">Through the Gap of Rohan</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB203.png,WEB204.png">Treacheries of a Friend</name><set>CUSTOM.WEB</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="WEB207-1,encounter">Grim, Son of Galmod</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB208-2,encounter">Old South Road</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB214-1,encounter">Orthanc</name><set>CUSTOM.WEB</set></card>
+		<card><name id="WEB215-1,encounter">Fords of Isen</name><set>CUSTOM.WEB</set></card>
+	</superzone>
+</deck>

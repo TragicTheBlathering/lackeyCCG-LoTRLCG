@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="THOEM12,encounter">Impassable Chasm</name><set>THOEM</set></card>
+		<card><name id="THOEM12,encounter">Impassable Chasm</name><set>THOEM</set></card>
+		<card><name id="THOEM16,encounter">Orc Horse Thieves</name><set>THOEM</set></card>
+		<card><name id="THOEM16,encounter">Orc Horse Thieves</name><set>THOEM</set></card>
+		<card><name id="THOEM16,encounter">Orc Horse Thieves</name><set>THOEM</set></card>
+		<card><name id="THOEM13,encounter">Rauros Falls</name><set>THOEM</set></card>
+		<card><name id="THOEM13,encounter">Rauros Falls</name><set>THOEM</set></card>
+		<card><name id="THOEM15,encounter">Rockslide</name><set>THOEM</set></card>
+		<card><name id="THOEM15,encounter">Rockslide</name><set>THOEM</set></card>
+		<card><name id="THOEM15,encounter">Rockslide</name><set>THOEM</set></card>
+		<card><name id="THOEM17,encounter">Slick Footing</name><set>THOEM</set></card>
+		<card><name id="THOEM18,encounter">The East Wall of Rohan</name><set>THOEM</set></card>
+		<card><name id="THOEM20,encounter">The North Stair</name><set>THOEM</set></card>
+		<card><name id="THOEM21,encounter">The Outer Ridge</name><set>THOEM</set></card>
+		<card><name id="THOEM21,encounter">The Outer Ridge</name><set>THOEM</set></card>
+		<card><name id="THOEM21,encounter">The Outer Ridge</name><set>THOEM</set></card>
+		<card><name id="THOEM22,encounter">The Shores of Nen Hithoel</name><set>THOEM</set></card>
+		<card><name id="core090,encounter">Chieftan Ufthak</name><set>Core</set></card>
+		<card><name id="core091,encounter">Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name id="core091,encounter">Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name id="core089,encounter">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core092,encounter">Driven by Shadow</name><set>Core</set></card>
+		<card><name id="core093,encounter">The Necromancer&apos;s Reach</name><set>Core</set></card>
+		<card><name id="core115,encounter">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core115,encounter">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core115,encounter">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core118,encounter">Treacherous Fog</name><set>Core</set></card>
+		<card><name id="core118,encounter">Treacherous Fog</name><set>Core</set></card>
+		<card><name id="N-HOEM5,encounter">Orc Interceptor (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HOEM5,encounter">Orc Interceptor (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HOEM10,encounter">Tunnelling Nameless Thing (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HOEM10,encounter">Tunnelling Nameless Thing (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HOEM10,encounter">Tunnelling Nameless Thing (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HOEM3,encounter">Brambles and Thorns (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HOEM3,encounter">Brambles and Thorns (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HOEM3,encounter">Brambles and Thorns (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HOEM6,encounter">Sarn Gebir Rapids (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HOEM6,encounter">Sarn Gebir Rapids (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HOEM1,encounter">A Hurrying Darkness (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HOEM1,encounter">A Hurrying Darkness (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HOEM2,encounter">Blast of Savage Wind (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HOEM2,encounter">Blast of Savage Wind (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HOEM2,encounter">Blast of Savage Wind (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HOEM4,encounter">Hazardous Terrain (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HOEM4,encounter">Hazardous Terrain (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HOEM5,encounter">Retraced Steps (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HOEM5,encounter">Retraced Steps (Nightmare)</name><set>Nightmare</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="THOEM23a.png,THOEM23b.png">The Hills of Emyn Muil</name><set>THOEM</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="THOEM11,encounter">Amon Hen</name><set>THOEM</set></card>
+		<card><name id="THOEM24,encounter">Amon Lhaw</name><set>THOEM</set></card>
+		<card><name id="N-HOEM9,N-HOEM8">The Hills of Emyn Muil (Nightmare)</name><set>Nightmare</set></card>
+	</superzone>
+</deck>

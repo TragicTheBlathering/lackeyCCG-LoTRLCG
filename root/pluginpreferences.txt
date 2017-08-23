@@ -1,0 +1,108 @@
+<pluginpreferences>
+
+<lastversionupdate>140526</lastversionupdate>
+<counterstyleimagesizetextoverimage>25</counterstyleimagesizetextoverimage>
+<counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
+<recentskins>LoTRLCG</recentskins>
+<recentskins>default</recentskins>
+<recenttablebackgrounds>LoTR-LCG_mapbak.jpg</recenttablebackgrounds>
+<recentzonebackgrounds>LoTR-LCG_ZoneBack.jpg</recentzonebackgrounds>
+<canned>! Threat -                                                                                                                                                           !/player stat1 -1</canned>
+<canned>! Threat +                                                                                                                                                           !/player stat1 +1</canned>
+<canned>! Refresh                                                                                                                                                            !/function 1;/player stat1 +1;/draw 1</canned>
+<canned>! Save 1                                                                                                                                                           !/save LOAD ME</canned>
+<canned>! Load 1                                                                                                                                                            !/Load Load me</canned>
+<canned>! Draw 6                                                                                                                                                           !/shuffle 2;/draw 6;/say draws a starting hand of 6 cards!</canned>
+<canned>! Muligan                                                                                                                                                            !/f11;/f11;/f11;/f11;/f11;/f11;/f11;/f11;/shuffle 2;/draw 6;/say takes a MULLIGAN!</canned>
+<canned>! Choose                                                                                                                                                           !/playerchoose</canned>
+<canned>! Peak 5                                                                                                                                                           !/vp1at5</canned>
+<canned>! Peak 3                                                                                                                                                           !/vp1at3</canned>
+<canned>! Peak 1                                                                                                                                                           !/vp1at1</canned>
+<canned>! Scry 1                                                                                                                                                           !/vs0at1</canned>
+<canned>! Scry 3                                                                                                                                                           !/vs0at3</canned>
+<canned>! Scry 5                                                                                                                                                           !/vs0at5</canned>
+<canned>! Save 2                                                                                                                                                           !/save 2</canned>
+<canned>! Load 2                                                                                                                                                           !/load 2</canned>
+<canned>! Save 3                                                                                                                                                           !/save 3</canned>
+<canned>! Load 3                                                                                                                                                           !/load 3</canned>
+<canned>! Save 4                                                                                                                                                           !/save 4</canned>
+<canned>! Load 4                                                                                                                                                            !/load 4</canned>
+<tokens>Helper Card</tokens>
+<tokens>Eagle Token</tokens>
+<tokens>First Player</tokens>
+<fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
+<fontkind0pos1>times.ttf</fontkind0pos1>
+<fontkind1pos0>Lato-Reg.ttf</fontkind1pos0>
+<fontkind1pos1>times.ttf</fontkind1pos1>
+<fontkind2pos0>Lato-Reg.ttf</fontkind2pos0>
+<fontkind2pos1>times.ttf</fontkind2pos1>
+<fontkind3pos0>Lato-Reg.ttf</fontkind3pos0>
+<fontkind3pos1>times.ttf</fontkind3pos1>
+<fontsize0>12</fontsize0>
+<fontsize1>11</fontsize1>
+<fontsize2>11</fontsize2>
+<fontsize3>20</fontsize3>
+<bindingmain0>CTRL+ALT+h</bindingmain0>
+<bindingmain1>CTRL+ALT+i</bindingmain1>
+<bindingmain4>CTRL+ALT+n</bindingmain4>
+<bindingmain5>CTRL+ALT+s</bindingmain5>
+<bindingmain6>CTRL+ALT+l</bindingmain6>
+<bindingmain9>CTRL+ALT+f</bindingmain9>
+<bindingmain11>CTRL+ALT+c</bindingmain11>
+<bindingmain15>SHIFT+META+s</bindingmain15>
+<bindinggeneral1>F3</bindinggeneral1>
+<bindinggeneral2>RIGHTBRACKET</bindinggeneral2>
+<bindinggeneral3>LEFTBRACKET</bindinggeneral3>
+<bindinggeneral4>F5</bindinggeneral4>
+<bindinggeneral5>F6</bindinggeneral5>
+<bindinggeneral6>F4</bindinggeneral6>
+<bindinggeneral7>F7</bindinggeneral7>
+<bindinggeneral8>F8</bindinggeneral8>
+<bindinggeneral9>F2</bindinggeneral9>
+<bindinggeneral10>F11</bindinggeneral10>
+<bindinggeneral11>F9</bindinggeneral11>
+<bindinggeneral12>F10</bindinggeneral12>
+<bindinggeneral13>CTRL+ALT+1</bindinggeneral13>
+<bindinggeneral14>CTRL+ALT+2</bindinggeneral14>
+<bindingcard0>CTRL+t</bindingcard0>
+<bindingcard1>CTRL+r</bindingcard1>
+<bindingcard2>CTRL+SHIFT+r</bindingcard2>
+<bindingcard3>CTRL+w</bindingcard3>
+<bindingcard4>CTRL+SHIFT+w</bindingcard4>
+<bindingcard5>CTRL+q</bindingcard5>
+<bindingcard6>CTRL+SHIFT+q</bindingcard6>
+<bindingcard7>CTRL+a</bindingcard7>
+<bindingcard8>CTRL+SHIFT+a</bindingcard8>
+<bindingcard9>CTRL+s</bindingcard9>
+<bindingcard10>CTRL+SHIFT+s</bindingcard10>
+<bindingcard11>CTRL+d</bindingcard11>
+<bindingcard12>CTRL+SHIFT+d</bindingcard12>
+<bindingcard13>CTRL+z</bindingcard13>
+<bindingcard14>CTRL+SHIFT+z</bindingcard14>
+<bindingcard15>CTRL+x</bindingcard15>
+<bindingcard16>CTRL+SHIFT+x</bindingcard16>
+<bindingcard17>CTRL+c</bindingcard17>
+<bindingcard18>CTRL+SHIFT+c</bindingcard18>
+<bindingcanned0>MINUS</bindingcanned0>
+<bindingcanned1>EQUALS</bindingcanned1>
+<bindingcanned2>F1</bindingcanned2>
+<bindingcanned3>META+4</bindingcanned3>
+<bindingcanned4>META+5</bindingcanned4>
+<bindingcanned5>META+6</bindingcanned5>
+<bindingcanned6>META+7</bindingcanned6>
+<bindingcanned7>META+8</bindingcanned7>
+<bindingcanned8>CTRL+5</bindingcanned8>
+<bindingcanned9>CTRL+3</bindingcanned9>
+<bindingcanned10>CTRL+1</bindingcanned10>
+<bindingcanned11>CTRL+SHIFT+1</bindingcanned11>
+<bindingcanned12>CTRL+SHIFT+3</bindingcanned12>
+<bindingcanned13>CTRL+SHIFT+5</bindingcanned13>
+<filterkeystroke>1</filterkeystroke>
+<deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
+<scalefactor>1.250000</scalefactor>
+<zoomfactor>1.000000</zoomfactor>
+<quickzoom>4.000000</quickzoom>
+<prevtilt>35.000000</prevtilt>
+<isdownloadallmissing>1</isdownloadallmissing>
+
+</pluginpreferences>

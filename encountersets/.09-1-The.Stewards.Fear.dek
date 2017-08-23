@@ -1,0 +1,64 @@
+<deck version="0.8">
+	<meta>
+		<title>08.N-1-The.Stewards.Fear</title>		<author>SetYourName</author>		<date>04-11-12</date>		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="TSF28,encounter">Underworld Dissident</name><set>TSF</set></card>
+		<card><name id="TSF28,encounter">Underworld Dissident</name><set>TSF</set></card>
+		<card><name id="TSF28,encounter">Underworld Dissident</name><set>TSF</set></card>
+		<card><name id="TSF28,encounter">Underworld Dissident</name><set>TSF</set></card>
+		<card><name id="TSF28,encounter">Underworld Dissident</name><set>TSF</set></card>
+		<card><name id="TSF17,encounter">House of the Dead</name><set>TSF</set></card>
+		<card><name id="TSF24,encounter">Sewers</name><set>TSF</set></card>
+		<card><name id="TSF24,encounter">Sewers</name><set>TSF</set></card>
+		<card><name id="TSF24,encounter">Sewers</name><set>TSF</set></card>
+		<card><name id="TSF25,encounter">Storehouse</name><set>TSF</set></card>
+		<card><name id="TSF25,encounter">Storehouse</name><set>TSF</set></card>
+		<card><name id="TSF08,encounter">A Knife in the Back</name><set>TSF</set></card>
+		<card><name id="TSF08,encounter">A Knife in the Back</name><set>TSF</set></card>
+		<card><name id="TSF08,encounter">A Knife in the Back</name><set>TSF</set></card>
+		<card><name id="TSF13,encounter">False Lead</name><set>TSF</set></card>
+		<card><name id="TSF13,encounter">False Lead</name><set>TSF</set></card>
+		<card><name id="TSF30,encounter">Unwelcome Discovery</name><set>TSF</set></card>
+		<card><name id="TSF30,encounter">Unwelcome Discovery</name><set>TSF</set></card>
+		<card><name id="HON39,encounter">Market Square</name><set>HON</set></card>
+		<card><name id="HON39,encounter">Market Square</name><set>HON</set></card>
+		<card><name id="HON40,encounter">Lost in the City</name><set>HON</set></card>
+		<card><name id="HON41,encounter">Local Trouble</name><set>HON</set></card>
+		<card><name id="HON41,encounter">Local Trouble</name><set>HON</set></card>
+		<card><name id="HON38,encounter">City Street</name><set>HON</set></card>
+		<card><name id="HON38,encounter">City Street</name><set>HON</set></card>
+		<card><name id="HON38,encounter">City Street</name><set>HON</set></card>
+		<card><name id="HON45,encounter">Lurking in Shadows</name><set>HON</set></card>
+		<card><name id="HON45,encounter">Lurking in Shadows</name><set>HON</set></card>
+	</superzone>
+	<superzone name="2nd Encounter Deck">
+		<card><name id="TSF34,encounter">Daughter of Beruthiel</name><set>TSF</set></card>
+		<card><name id="TSF33,encounter">Telemnar&apos;s Bane</name><set>TSF</set></card>
+		<card><name id="TSF27,encounter">The Hand of Castamir</name><set>TSF</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="TSF01.png,TSF02.png">Conspiracy</name><set>TSF</set></card>
+		<card><name id="TSF05.png,TSF06.png">The Confrontation</name><set>TSF</set></card>
+		<card><name id="TSF03.png,TSF04.png">The Grand Design</name><set>TSF</set></card>
+		<card><name id="TSF22,encounter">Roots of Mindolluin</name><set>TSF</set></card>
+		<card><name id="TSF26,encounter">The Fourth Star</name><set>TSF</set></card>
+		<card><name id="TSF31,encounter">Up in Flames</name><set>TSF</set></card>
+		<card><name id="TSF20,encounter">Poisoned Counsels</name><set>TSF</set></card>
+		<card><name id="TSF29,encounter">Unholy Alliance</name><set>TSF</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="HON43,encounter">Lossarnach Bandit</name><set>HON</set></card>
+		<card><name id="HON43,encounter">Lossarnach Bandit</name><set>HON</set></card>
+		<card><name id="HON44,encounter">Umbar Assassin</name><set>HON</set></card>
+		<card><name id="HON42,encounter">Zealous Traitor</name><set>HON</set></card>
+		<card><name id="HON42,encounter">Zealous Traitor</name><set>HON</set></card>
+		<card><name id="HON42,encounter">Zealous Traitor</name><set>HON</set></card>
+		<card><name id="HON37,encounter">Pickpocket</name><set>HON</set></card>
+		<card><name id="HON37,encounter">Pickpocket</name><set>HON</set></card>
+		<card><name id="HON37,encounter">Pickpocket</name><set>HON</set></card>
+		<card><name id="TSF10,encounter">A Prisoner</name><set>TSF</set></card>
+		<card><name id="TSF11,encounter">A Scrap of History</name><set>TSF</set></card>
+		<card><name id="TSF23,encounter">Secret Map</name><set>TSF</set></card>
+	</superzone>
+</deck>

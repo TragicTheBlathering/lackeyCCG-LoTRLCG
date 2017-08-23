@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<title>000-Saga.Hobbit.1-1-We.must.Away.Ere.Break.of.Day</title>		<author>SetYourName</author>		<date>04-11-12</date>		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="OHAUH43,encounter">A Nice Pickle</name><set>OHAUH</set></card>
+		<card><name id="OHAUH43,encounter">A Nice Pickle</name><set>OHAUH</set></card>
+		<card><name id="OHAUH22">Glamdring</name><set>OHAUH</set></card>
+		<card><name id="OHAUH29,encounter">Hobbit-lands</name><set>OHAUH</set></card>
+		<card><name id="OHAUH29,encounter">Hobbit-lands</name><set>OHAUH</set></card>
+		<card><name id="OHAUH42,encounter">Lots or None at All</name><set>OHAUH</set></card>
+		<card><name id="OHAUH21">Orcrist</name><set>OHAUH</set></card>
+		<card><name id="OHAUH44,encounter">Roast &apos;Em or Boil &apos;Em?</name><set>OHAUH</set></card>
+		<card><name id="OHAUH44,encounter">Roast &apos;Em or Boil &apos;Em?</name><set>OHAUH</set></card>
+		<card><name id="OHAUH20">Sting</name><set>OHAUH</set></card>
+		<card><name id="OHAUH27,encounter">Troll Camp</name><set>OHAUH</set></card>
+		<card><name id="OHAUH34,encounter">Troll Key</name><set>OHAUH</set></card>
+		<card><name id="OHAUH33,encounter">Troll Purse</name><set>OHAUH</set></card>
+		<card><name id="OHAUH26,encounter">A Suspicious Crow</name><set>OHAUH</set></card>
+		<card><name id="OHAUH26,encounter">A Suspicious Crow</name><set>OHAUH</set></card>
+		<card><name id="OHAUH26,encounter">A Suspicious Crow</name><set>OHAUH</set></card>
+		<card><name id="OHAUH32,encounter">Cave Entrance</name><set>OHAUH</set></card>
+		<card><name id="OHAUH32,encounter">Cave Entrance</name><set>OHAUH</set></card>
+		<card><name id="OHAUH30,encounter">Dreary Hills</name><set>OHAUH</set></card>
+		<card><name id="OHAUH31,encounter">Lone-lands</name><set>OHAUH</set></card>
+		<card><name id="OHAUH31,encounter">Lone-lands</name><set>OHAUH</set></card>
+		<card><name id="OHAUH48,encounter">More Like a Grocer</name><set>OHAUH</set></card>
+		<card><name id="OHAUH47,encounter">Wind-whipped Rain</name><set>OHAUH</set></card>
+	</superzone>
+	<superzone name="2nd Encounter Deck">
+		<card><name id="OHAUH39,encounter">A Deep Sack</name><set>OHAUH</set></card>
+		<card><name id="OHAUH40,encounter">A Foul Sack</name><set>OHAUH</set></card>
+		<card><name id="OHAUH38,encounter">A Large Sack</name><set>OHAUH</set></card>
+		<card><name id="OHAUH35,encounter">A Smelly Sack</name><set>OHAUH</set></card>
+		<card><name id="OHAUH36,encounter">A Strong Sack</name><set>OHAUH</set></card>
+		<card><name id="OHAUH37,encounter">A Tough Sack</name><set>OHAUH</set></card>
+		<card><name id="OHAUH41,encounter">A Worn Sack</name><set>OHAUH</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="OHAUH77a.png,OHAUH77b.png">Roast Mutton</name><set>OHAUH</set></card>
+		<card><name id="OHAUH76a.png,OHAUH76b.png">An Unexpected Party</name><set>OHAUH</set></card>
+		<card><name id="OHAUH78a.png,OHAUH78b.png">Dawn Take You All (OHAUH)</name><set>OHAUH</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="OHAUH28,encounter">Troll Cave</name><set>OHAUH</set></card>
+		<card><name id="OHAUH24,encounter">Bert</name><set>OHAUH</set></card>
+		<card><name id="OHAUH25,encounter">Tom</name><set>OHAUH</set></card>
+		<card><name id="OHAUH23,encounter">William</name><set>OHAUH</set></card>
+		<card><name id="OHAUH01">Bilbo Baggins (OHAUH)</name><set>OHAUH</set></card>
+	</superzone>
+</deck>

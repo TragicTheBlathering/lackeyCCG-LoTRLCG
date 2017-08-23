@@ -1,0 +1,70 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="core090,encounter">Chieftan Ufthak</name><set>Core</set></card>
+		<card><name id="core091,encounter">Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name id="core091,encounter">Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name id="core089,encounter">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core089,encounter">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core089,encounter">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core095,encounter">Enchanted Stream</name><set>Core</set></card>
+		<card><name id="core095,encounter">Enchanted Stream</name><set>Core</set></card>
+		<card><name id="core094,encounter">Necromancer&apos;s Pass</name><set>Core</set></card>
+		<card><name id="core094,encounter">Necromancer&apos;s Pass</name><set>Core</set></card>
+		<card><name id="core092,encounter">Driven by Shadow</name><set>Core</set></card>
+		<card><name id="core093,encounter">The Necromancer&apos;s Reach</name><set>Core</set></card>
+		<card><name id="core093,encounter">The Necromancer&apos;s Reach</name><set>Core</set></card>
+		<card><name id="core093,encounter">The Necromancer&apos;s Reach</name><set>Core</set></card>
+		<card><name id="core115,encounter">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core115,encounter">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core115,encounter">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core116,encounter">Evil Storm</name><set>Core</set></card>
+		<card><name id="core116,encounter">Evil Storm</name><set>Core</set></card>
+		<card><name id="core116,encounter">Evil Storm</name><set>Core</set></card>
+		<card><name id="core117,encounter">Pursued by Shadow</name><set>Core</set></card>
+		<card><name id="core117,encounter">Pursued by Shadow</name><set>Core</set></card>
+		<card><name id="core118,encounter">Treacherous Fog</name><set>Core</set></card>
+		<card><name id="core118,encounter">Treacherous Fog</name><set>Core</set></card>
+		<card><name id="LBR64-3">Pathless Country</name><set>TBR</set></card>
+		<card><name id="LBR64-3">Pathless Country</name><set>TBR</set></card>
+		<card><name id="LBR64-3">Pathless Country</name><set>TBR</set></card>
+		<card><name id="LBR65-3">Piercing Cry</name><set>TBR</set></card>
+		<card><name id="LBR65-3">Piercing Cry</name><set>TBR</set></card>
+		<card><name id="LBR65-3">Piercing Cry</name><set>TBR</set></card>
+		<card><name id="core103,encounter">Cavern Guardian</name><set>Core</set></card>
+		<card><name id="core103,encounter">Cavern Guardian</name><set>Core</set></card>
+		<card><name id="core101,encounter">Dungeon Jailor</name><set>Core</set></card>
+		<card><name id="core101,encounter">Dungeon Jailor</name><set>Core</set></card>
+		<card><name id="core102,encounter">Nazgvl of Dol Guldur</name><set>Core</set></card>
+		<card><name id="core106,encounter">Endless Caverns</name><set>Core</set></card>
+		<card><name id="core106,encounter">Endless Caverns</name><set>Core</set></card>
+		<card><name id="core107,encounter">Tower Gate</name><set>Core</set></card>
+		<card><name id="core107,encounter">Tower Gate</name><set>Core</set></card>
+		<card><name id="core109,encounter">Dungeon Torch - Escape from Dol Guldur</name><set>Core</set></card>
+		<card><name id="core108,encounter">Gandalf&apos;s Map - Escape from Dol Guldur</name><set>Core</set></card>
+		<card><name id="core110,encounter">Shadow Key - Escape from Dol Guldur</name><set>Core</set></card>
+		<card><name id="core105,encounter">Iron Shackles</name><set>Core</set></card>
+		<card><name id="core104,encounter">Under the Shadow</name><set>Core</set></card>
+		<card><name id="core104,encounter">Under the Shadow</name><set>Core</set></card>
+		<card><name id="core111,encounter">Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name id="core111,encounter">Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name id="core111,encounter">Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name id="core113,encounter">Banks of the Anduin</name><set>Core</set></card>
+		<card><name id="core113,encounter">Banks of the Anduin</name><set>Core</set></card>
+		<card><name id="core114,encounter">Gladden Fields</name><set>Core</set></card>
+		<card><name id="core114,encounter">Gladden Fields</name><set>Core</set></card>
+		<card><name id="core114,encounter">Gladden Fields</name><set>Core</set></card>
+		<card><name id="core112,encounter">Massing at Night</name><set>Core</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="NinjaDorg4_3a.png,NinjaDorg4_3b.png">CUSTOM.-.The Veil of the Lonely Mountain</name><set>CUSTOM.NinjaDorg</set></card>
+		<card><name id="NinjaDorg4_4a.png,encounter2.png">CUSTOM.-.Sunset Elfmeet</name><set>CUSTOM.NinjaDorg</set></card>
+		<card><name id="NinjaDorg4_1a.png,NinjaDorg4_1b.png">CUSTOM.-.Goblin Gate (ND)</name><set>CUSTOM.NinjaDorg</set></card>
+		<card><name id="NinjaDorg4_2a.png,NinjaDorg4_2b.png">CUSTOM.-.Elf Path</name><set>CUSTOM.NinjaDorg</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="NinjaDorg4_0a.png,encounter2.png">CUSTOM.-.Gateway Approach</name><set>CUSTOM.NinjaDorg</set></card>
+	</superzone>
+</deck>

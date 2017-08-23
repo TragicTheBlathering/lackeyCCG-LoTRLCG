@@ -1,0 +1,54 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="core080,encounter">Caught in a Web</name><set>Core</set></card>
+		<card><name id="core080,encounter">Caught in a Web</name><set>Core</set></card>
+		<card><name id="core079,encounter">Eyes of the Forest</name><set>Core</set></card>
+		<card><name id="core077,encounter">Great Forest Web</name><set>Core</set></card>
+		<card><name id="core077,encounter">Great Forest Web</name><set>Core</set></card>
+		<card><name id="core075,encounter">Hummerhorns</name><set>Core</set></card>
+		<card><name id="core074,encounter">King Spider</name><set>Core</set></card>
+		<card><name id="core074,encounter">King Spider</name><set>Core</set></card>
+		<card><name id="core078,encounter">Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name id="core078,encounter">Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name id="core078,encounter">Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name id="core098,encounter">Black Forest Bats</name><set>Core</set></card>
+		<card><name id="core097,encounter">East Bight Patrol</name><set>Core</set></card>
+		<card><name id="core100,encounter">Forest Gate</name><set>Core</set></card>
+		<card><name id="core100,encounter">Forest Gate</name><set>Core</set></card>
+		<card><name id="core096,encounter">Forest Spider</name><set>Core</set></card>
+		<card><name id="core096,encounter">Forest Spider</name><set>Core</set></card>
+		<card><name id="core096,encounter">Forest Spider</name><set>Core</set></card>
+		<card><name id="core096,encounter">Forest Spider</name><set>Core</set></card>
+		<card><name id="core099,encounter">Old Forest Road</name><set>Core</set></card>
+		<card><name id="core099,encounter">Old Forest Road</name><set>Core</set></card>
+	</superzone>
+	<superzone name="2nd Encounter Deck">
+		<card><name id="core115,encounter">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core115,encounter">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core115,encounter">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core116,encounter">Evil Storm</name><set>Core</set></card>
+		<card><name id="core116,encounter">Evil Storm</name><set>Core</set></card>
+		<card><name id="core116,encounter">Evil Storm</name><set>Core</set></card>
+		<card><name id="core117,encounter">Pursued by Shadow</name><set>Core</set></card>
+		<card><name id="core117,encounter">Pursued by Shadow</name><set>Core</set></card>
+		<card><name id="core118,encounter">Treacherous Fog</name><set>Core</set></card>
+		<card><name id="core118,encounter">Treacherous Fog</name><set>Core</set></card>
+		<card><name id="core081,encounter">Wolf Rider</name><set>Core</set></card>
+		<card><name id="core085,encounter">Wargs</name><set>Core</set></card>
+		<card><name id="core085,encounter">Wargs</name><set>Core</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="CtT1a.png,CtT1b.png">CUSTOM.-.At the Elven King&apos;s Hall</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="CtT2a.png,CtT2b.png">CUSTOM.-.Confronting the Thief</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="CtT3a.png,CtT3b.png">CUSTOM.-.Pursued by the Necromancer!</name><set>CUSTOM.JRDCQ</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="core076,encounter">Ungoliant&apos;s Spawn</name><set>Core</set></card>
+		<card><name id="core084,encounter">Marsh Adder</name><set>Core</set></card>
+		<card><name id="CtT5">CUSTOM.-.Iron Sceptre</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="CtT4">CUSTOM.-.Mithrellas</name><set>CUSTOM.JRDCQ</set></card>
+	</superzone>
+</deck>

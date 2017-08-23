@@ -1,0 +1,72 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="HFG19,encounter">False Lead</name><set>HFG</set></card>
+		<card><name id="HFG19,encounter">False Lead</name><set>HFG</set></card>
+		<card><name id="HFG20,encounter">Flooding</name><set>HFG</set></card>
+		<card><name id="HFG20,encounter">Flooding</name><set>HFG</set></card>
+		<card><name id="HFG17,encounter">Goblintown Scavengers</name><set>HFG</set></card>
+		<card><name id="HFG17,encounter">Goblintown Scavengers</name><set>HFG</set></card>
+		<card><name id="HFG18,encounter">Hunters From Mordor</name><set>HFG</set></card>
+		<card><name id="HFG18,encounter">Hunters From Mordor</name><set>HFG</set></card>
+		<card><name id="HFG18,encounter">Hunters From Mordor</name><set>HFG</set></card>
+		<card><name id="HFG18,encounter">Hunters From Mordor</name><set>HFG</set></card>
+		<card><name id="HFG18,encounter">Hunters From Mordor</name><set>HFG</set></card>
+		<card><name id="HFG21,encounter">Old Wives&apos; Tales</name><set>HFG</set></card>
+		<card><name id="HFG21,encounter">Old Wives&apos; Tales</name><set>HFG</set></card>
+		<card><name id="HFG21,encounter">Old Wives&apos; Tales</name><set>HFG</set></card>
+		<card><name id="HFG11,encounter">Signs of Gollum</name><set>HFG</set></card>
+		<card><name id="HFG11,encounter">Signs of Gollum</name><set>HFG</set></card>
+		<card><name id="HFG11,encounter">Signs of Gollum</name><set>HFG</set></card>
+		<card><name id="HFG11,encounter">Signs of Gollum</name><set>HFG</set></card>
+		<card><name id="HFG13,encounter">The Eaves of Mirkwood</name><set>HFG</set></card>
+		<card><name id="HFG13,encounter">The Eaves of Mirkwood</name><set>HFG</set></card>
+		<card><name id="HFG13,encounter">The Eaves of Mirkwood</name><set>HFG</set></card>
+		<card><name id="core090,encounter">Chieftan Ufthak</name><set>Core</set></card>
+		<card><name id="core091,encounter">Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name id="core091,encounter">Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name id="core089,encounter">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core089,encounter">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core089,encounter">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core092,encounter">Driven by Shadow</name><set>Core</set></card>
+		<card><name id="core095,encounter">Enchanted Stream</name><set>Core</set></card>
+		<card><name id="core095,encounter">Enchanted Stream</name><set>Core</set></card>
+		<card><name id="core094,encounter">Necromancer&apos;s Pass</name><set>Core</set></card>
+		<card><name id="core094,encounter">Necromancer&apos;s Pass</name><set>Core</set></card>
+		<card><name id="core093,encounter">The Necromancer&apos;s Reach</name><set>Core</set></card>
+		<card><name id="core093,encounter">The Necromancer&apos;s Reach</name><set>Core</set></card>
+		<card><name id="core093,encounter">The Necromancer&apos;s Reach</name><set>Core</set></card>
+		<card><name id="core115,encounter">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core115,encounter">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core115,encounter">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core116,encounter">Evil Storm</name><set>Core</set></card>
+		<card><name id="core116,encounter">Evil Storm</name><set>Core</set></card>
+		<card><name id="core116,encounter">Evil Storm</name><set>Core</set></card>
+		<card><name id="core117,encounter">Pursued by Shadow</name><set>Core</set></card>
+		<card><name id="core117,encounter">Pursued by Shadow</name><set>Core</set></card>
+		<card><name id="core118,encounter">Treacherous Fog</name><set>Core</set></card>
+		<card><name id="core118,encounter">Treacherous Fog</name><set>Core</set></card>
+		<card><name id="core080,encounter">Caught in a Web</name><set>Core</set></card>
+		<card><name id="core080,encounter">Caught in a Web</name><set>Core</set></card>
+		<card><name id="core079,encounter">Eyes of the Forest</name><set>Core</set></card>
+		<card><name id="core077,encounter">Great Forest Web</name><set>Core</set></card>
+		<card><name id="core077,encounter">Great Forest Web</name><set>Core</set></card>
+		<card><name id="core075,encounter">Hummerhorns</name><set>Core</set></card>
+		<card><name id="core074,encounter">King Spider</name><set>Core</set></card>
+		<card><name id="core074,encounter">King Spider</name><set>Core</set></card>
+		<card><name id="core078,encounter">Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name id="core078,encounter">Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name id="core078,encounter">Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name id="core076,encounter">Ungoliant&apos;s Spawn</name><set>Core</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="HFG23a.png,HFG23b.png">A New Terror Abroad</name><set>HFG</set></card>
+		<card><name id="HFG24a.png,HFG24b.png">On The Trail</name><set>HFG</set></card>
+		<card><name id="HFG22a.png,HFG22b.png">The Hunt Begins</name><set>HFG</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="AltHfG.png,encounter.png">CUSTOM.-.Alt Gollum Hunt</name><set>CUSTOM.JRDCQ</set></card>
+	</superzone>
+</deck>

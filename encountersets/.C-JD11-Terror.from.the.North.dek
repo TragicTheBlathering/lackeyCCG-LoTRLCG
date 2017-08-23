@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="OHAUH30,encounter">Dreary Hills</name><set>OHAUH</set></card>
+		<card><name id="OHAUH30,encounter">Dreary Hills</name><set>OHAUH</set></card>
+		<card><name id="OHAUH31,encounter">Lone-lands</name><set>OHAUH</set></card>
+		<card><name id="OHAUH31,encounter">Lone-lands</name><set>OHAUH</set></card>
+		<card><name id="OHAUH48,encounter">More Like a Grocer</name><set>OHAUH</set></card>
+		<card><name id="OHAUH46,encounter">No Campfire</name><set>OHAUH</set></card>
+		<card><name id="OHAUH46,encounter">No Campfire</name><set>OHAUH</set></card>
+		<card><name id="OHAUH47,encounter">Wind-whipped Rain</name><set>OHAUH</set></card>
+		<card><name id="OHAUH47,encounter">Wind-whipped Rain</name><set>OHAUH</set></card>
+		<card><name id="KAZ03,encounter">Bitter Wind</name><set>KAZ</set></card>
+		<card><name id="KAZ03,encounter">Bitter Wind</name><set>KAZ</set></card>
+		<card><name id="KAZ03,encounter">Bitter Wind</name><set>KAZ</set></card>
+		<card><name id="KAZ30,encounter">Mountain Warg</name><set>KAZ</set></card>
+		<card><name id="KAZ30,encounter">Mountain Warg</name><set>KAZ</set></card>
+		<card><name id="KAZ30,encounter">Mountain Warg</name><set>KAZ</set></card>
+		<card><name id="KAZ43,encounter">Turbulent Waters</name><set>KAZ</set></card>
+		<card><name id="KAZ43,encounter">Turbulent Waters</name><set>KAZ</set></card>
+		<card><name id="KAZ46,encounter">Warg Lair</name><set>KAZ</set></card>
+		<card><name id="KAZ46,encounter">Warg Lair</name><set>KAZ</set></card>
+		<card><name id="OHAUH67,encounter">Wild Wargs</name><set>OHAUH</set></card>
+		<card><name id="OHAUH67,encounter">Wild Wargs</name><set>OHAUH</set></card>
+		<card><name id="OHAUH67,encounter">Wild Wargs</name><set>OHAUH</set></card>
+		<card><name id="OHAUH67,encounter">Wild Wargs</name><set>OHAUH</set></card>
+		<card><name id="OHAUH71,encounter">Come down little bird</name><set>OHAUH</set></card>
+		<card><name id="OHAUH71,encounter">Come down little bird</name><set>OHAUH</set></card>
+		<card><name id="OHAUH73,encounter">Hiding in the Trees</name><set>OHAUH</set></card>
+		<card><name id="OHAUH73,encounter">Hiding in the Trees</name><set>OHAUH</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="TftN02a.png,TftN02b.png">CUSTOM.-.The Warg Pack</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="TftN01a.png,TftN01b.png">CUSTOM.-.Wargs in the Night</name><set>CUSTOM.JRDCQ</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="KAZ04,encounter">Black Uruks</name><set>KAZ</set></card>
+		<card><name id="KAZ04,encounter">Black Uruks</name><set>KAZ</set></card>
+		<card><name id="KAZ04,encounter">Black Uruks</name><set>KAZ</set></card>
+		<card><name id="KAZ04,encounter">Black Uruks</name><set>KAZ</set></card>
+		<card><name id="KAZ26,encounter">Knees of the Mountain</name><set>KAZ</set></card>
+		<card><name id="OHAUH32,encounter">Cave Entrance</name><set>OHAUH</set></card>
+		<card><name id="OHAUH32,encounter">Cave Entrance</name><set>OHAUH</set></card>
+		<card><name id="OHAUH26,encounter">A Suspicious Crow</name><set>OHAUH</set></card>
+		<card><name id="OHAUH26,encounter">A Suspicious Crow</name><set>OHAUH</set></card>
+		<card><name id="OHAUH26,encounter">A Suspicious Crow</name><set>OHAUH</set></card>
+		<card><name id="OHAUH66,encounter">Great Gray Wolf</name><set>OHAUH</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,42 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="BoG03-3">Brutal Uruk</name><set>TBOG</set></card>
+		<card><name id="BoG07-1">Eastern Road</name><set>TBOG</set></card>
+		<card><name id="BoG09-2">Evil Crow</name><set>TBOG</set></card>
+		<card><name id="BoG09-2">Evil Crow</name><set>TBOG</set></card>
+		<card><name id="BoG13-4">Lying in Wait</name><set>TBOG</set></card>
+		<card><name id="BoG13-4">Lying in Wait</name><set>TBOG</set></card>
+		<card><name id="BoG13-4">Lying in Wait</name><set>TBOG</set></card>
+		<card><name id="BoG13-4">Lying in Wait</name><set>TBOG</set></card>
+		<card><name id="BoG14-3">Mordor Looms</name><set>TBOG</set></card>
+		<card><name id="BoG14-3">Mordor Looms</name><set>TBOG</set></card>
+		<card><name id="BoG14-3">Mordor Looms</name><set>TBOG</set></card>
+		<card><name id="BoG15-1">Northern Road</name><set>TBOG</set></card>
+		<card><name id="BoG16-4">Orc Ambusher</name><set>TBOG</set></card>
+		<card><name id="BoG16-4">Orc Ambusher</name><set>TBOG</set></card>
+		<card><name id="BoG18-1">Southern Road</name><set>TBOG</set></card>
+		<card><name id="BoG21-4">The Dark Woods</name><set>TBOG</set></card>
+		<card><name id="BoG21-4">The Dark Woods</name><set>TBOG</set></card>
+		<card><name id="BoG21-4">The Dark Woods</name><set>TBOG</set></card>
+		<card><name id="BoG21-4">The Dark Woods</name><set>TBOG</set></card>
+		<card><name id="BoG25-1">Western Road</name><set>TBOG</set></card>
+		<card><name id="HON63,encounter">Orc Arsonist</name><set>HON</set></card>
+		<card><name id="HON63,encounter">Orc Arsonist</name><set>HON</set></card>
+		<card><name id="HON63,encounter">Orc Arsonist</name><set>HON</set></card>
+		<card><name id="HON64,encounter">Scourge of Mordor</name><set>HON</set></card>
+		<card><name id="HON64,encounter">Scourge of Mordor</name><set>HON</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="BoG2a.png,BoG2b.png">Captured!</name><set>TBOG</set></card>
+		<card><name id="BoG1a.png,BoG1b.png">The Ambush</name><set>TBOG</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="BoG02-1">Black Numenorean</name><set>TBOG</set></card>
+		<card><name id="BoG20-1">The Cross-Roads</name><set>TBOG</set></card>
+		<card><name id="BoG10-1">Faramir (TBOG)</name><set>TBOG</set></card>
+		<card><name id="BoG12-1">Lord Alcaron (TBOG)</name><set>TBOG</set></card>
+	</superzone>
+</deck>

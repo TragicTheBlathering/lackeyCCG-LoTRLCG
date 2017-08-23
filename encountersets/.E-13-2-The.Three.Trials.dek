@@ -1,0 +1,44 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="TTT18">Spirit of the Wild</name><set>TTT</set></card>
+		<card><name id="TTT18">Spirit of the Wild</name><set>TTT</set></card>
+		<card><name id="TTT18">Spirit of the Wild</name><set>TTT</set></card>
+		<card><name id="TTT18">Spirit of the Wild</name><set>TTT</set></card>
+		<card><name id="TTT22">Cursed Forest</name><set>TTT</set></card>
+		<card><name id="TTT22">Cursed Forest</name><set>TTT</set></card>
+		<card><name id="TTT23">Grim Foothills</name><set>TTT</set></card>
+		<card><name id="TTT23">Grim Foothills</name><set>TTT</set></card>
+		<card><name id="TTT24">Curse of the Wild Men</name><set>TTT</set></card>
+		<card><name id="TTT26">Wild Tenacity</name><set>TTT</set></card>
+		<card><name id="TTT26">Wild Tenacity</name><set>TTT</set></card>
+		<card><name id="VoI19,encounter">Ancient Forest</name><set>VoI</set></card>
+		<card><name id="VoI67,encounter">Tangled Woods</name><set>VoI</set></card>
+		<card><name id="VoI67,encounter">Tangled Woods</name><set>VoI</set></card>
+		<card><name id="VoI67,encounter">Tangled Woods</name><set>VoI</set></card>
+		<card><name id="VoI73,encounter">Turned Around</name><set>VoI</set></card>
+		<card><name id="VoI73,encounter">Turned Around</name><set>VoI</set></card>
+		<card><name id="VoI73,encounter">Turned Around</name><set>VoI</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="TTT35.png,TTT36.png">The Antlered Crown</name><set>TTT</set></card>
+		<card><name id="TTT27.png,TTT28.png">The Trial Begins</name><set>TTT</set></card>
+		<card><name id="TTT33.png,TTT34.png">The Trial of Intuition</name><set>TTT</set></card>
+		<card><name id="TTT31.png,TTT32.png">The Trial of Perseverance</name><set>TTT</set></card>
+		<card><name id="TTT29.png,TTT30.png">The Trial of Strength</name><set>TTT</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="TTT06">Key of the Boar</name><set>TTT</set></card>
+		<card><name id="TTT08">Key of the Raven</name><set>TTT</set></card>
+		<card><name id="TTT07">Key of the Wolf</name><set>TTT</set></card>
+		<card><name id="TTT11">Boar&apos;s Guardian</name><set>TTT</set></card>
+		<card><name id="TTT13">Raven&apos;s Guardian</name><set>TTT</set></card>
+		<card><name id="TTT12">Wolf&apos;s Guardian</name><set>TTT</set></card>
+		<card><name id="TTT20">Cave Barrow</name><set>TTT</set></card>
+		<card><name id="TTT19">Hill Barrow</name><set>TTT</set></card>
+		<card><name id="TTT21">Stone Barrow</name><set>TTT</set></card>
+		<card><name id="TTT17">Hallowed Circle</name><set>TTT</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,39 @@
+<deck version="0.8">
+	<meta>
+		<title>07.N-1-Peril.in.Delargir</title>		<author>SetYourName</author>		<date>04-11-12</date>		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="HON28,encounter">Ithilien Road</name><set>HON</set></card>
+		<card><name id="HON26,encounter">Ithilien Guardian</name><set>HON</set></card>
+		<card><name id="HON26,encounter">Ithilien Guardian</name><set>HON</set></card>
+		<card><name id="HON29,encounter">Blocking Wargs</name><set>HON</set></card>
+		<card><name id="HON29,encounter">Blocking Wargs</name><set>HON</set></card>
+		<card><name id="HON46,encounter">Overgrown Trail</name><set>HON</set></card>
+		<card><name id="HON47,encounter">Secluded Glade</name><set>HON</set></card>
+		<card><name id="HON47,encounter">Secluded Glade</name><set>HON</set></card>
+		<card><name id="HON47,encounter">Secluded Glade</name><set>HON</set></card>
+		<card><name id="HON50,encounter">Forest Bat</name><set>HON</set></card>
+		<card><name id="HON50,encounter">Forest Bat</name><set>HON</set></card>
+		<card><name id="HON50,encounter">Forest Bat</name><set>HON</set></card>
+		<card><name id="HON49,encounter">Morgul Spider</name><set>HON</set></card>
+		<card><name id="HON53,encounter">Haradrim Elite</name><set>HON</set></card>
+		<card><name id="HON53,encounter">Haradrim Elite</name><set>HON</set></card>
+		<card><name id="HON52,encounter">Southron Mercenaries</name><set>HON</set></card>
+		<card><name id="HON52,encounter">Southron Mercenaries</name><set>HON</set></card>
+		<card><name id="HON52,encounter">Southron Mercenaries</name><set>HON</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="HON68a.png,HON68b.png">Ambush in Ithilien</name><set>HON</set></card>
+		<card><name id="HON71a.png,HON71b.png">Approaching Cair Andros</name><set>HON</set></card>
+		<card><name id="HON69a.png,HON69b.png">Southron Conter-attack</name><set>HON</set></card>
+		<card><name id="HON70a.png,HON70b.png">The Hidden Way</name><set>HON</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="HON25,encounter">Celador</name><set>HON</set></card>
+		<card><name id="HON28,encounter">Ithilien Road</name><set>HON</set></card>
+		<card><name id="HON27,encounter">Southron Company</name><set>HON</set></card>
+		<card><name id="HON27,encounter">Southron Company</name><set>HON</set></card>
+		<card><name id="HON27,encounter">Southron Company</name><set>HON</set></card>
+		<card><name id="HON27,encounter">Southron Company</name><set>HON</set></card>
+	</superzone>
+</deck>

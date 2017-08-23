@@ -1,0 +1,52 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="LBR87-1">The Ring Draws Them</name><set>TBR</set></card>
+		<card><name id="LBR28-5">Black Rider</name><set>TBR</set></card>
+		<card><name id="LBR28-5">Black Rider</name><set>TBR</set></card>
+		<card><name id="LBR37-3">Evil Crow</name><set>TBR</set></card>
+		<card><name id="LBR37-3">Evil Crow</name><set>TBR</set></card>
+		<card><name id="LBR37-3">Evil Crow</name><set>TBR</set></card>
+		<card><name id="LBR23-1">Bamfurlong</name><set>TBR</set></card>
+		<card><name id="LBR49-3">Green Hills Country</name><set>TBR</set></card>
+		<card><name id="LBR49-3">Green Hills Country</name><set>TBR</set></card>
+		<card><name id="LBR49-3">Green Hills Country</name><set>TBR</set></card>
+		<card><name id="LBR76-1">Stock Brook</name><set>TBR</set></card>
+		<card><name id="LBR77-3">Stock Road</name><set>TBR</set></card>
+		<card><name id="LBR82-2">The Marish</name><set>TBR</set></card>
+		<card><name id="LBR96-1">Woody End</name><set>TBR</set></card>
+		<card><name id="LBR32-3">Crawling Towards Him</name><set>TBR</set></card>
+		<card><name id="LBR32-3">Crawling Towards Him</name><set>TBR</set></card>
+		<card><name id="LBR54-3">Hunting for the Ring</name><set>TBR</set></card>
+		<card><name id="LBR54-3">Hunting for the Ring</name><set>TBR</set></card>
+		<card><name id="LBR54-3">Hunting for the Ring</name><set>TBR</set></card>
+		<card><name id="LBR64-3">Pathless Country</name><set>TBR</set></card>
+		<card><name id="LBR64-3">Pathless Country</name><set>TBR</set></card>
+		<card><name id="LBR64-3">Pathless Country</name><set>TBR</set></card>
+		<card><name id="LBR65-3">Piercing Cry</name><set>TBR</set></card>
+		<card><name id="LBR55-3">Lure of the Ring</name><set>TBR</set></card>
+		<card><name id="LBR55-3">Lure of the Ring</name><set>TBR</set></card>
+		<card><name id="LBR55-3">Lure of the Ring</name><set>TBR</set></card>
+		<card><name id="LBR29-3">Black Steed</name><set>TBR</set></card>
+		<card><name id="LBR70-2">Rode Like a Gale</name><set>TBR</set></card>
+		<card><name id="LBR70-2">Rode Like a Gale</name><set>TBR</set></card>
+		<card><name id="LBR48-1">Gildor Inglorian (TBR)</name><set>TBR</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="LBR13.png,LBR16.png">A Shortcut to Mushrooms</name><set>TBR</set></card>
+		<card><name id="LBR14.png,LBR15.png">Escape to Buckland</name><set>TBR</set></card>
+		<card><name id="LBR11.png,LBR12.png">Three is Company</name><set>TBR</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="LBR58-1">Mr Underhill</name><set>TBR</set></card>
+		<card><name id="LBR47-1">Gandalf&apos;s Delay</name><set>TBR</set></card>
+		<card><name id="LBR20,LBR21">A Shadow of the Past</name><set>TBR</set></card>
+		<card><name id="LBR30-1">Bucklebury Ferry</name><set>TBR</set></card>
+		<card><name id="LBR22-1">Bag End</name><set>TBR</set></card>
+		<card><name id="LBR28-5">Black Rider</name><set>TBR</set></card>
+		<card><name id="LBR85-1">The One Ring</name><set>TBR</set></card>
+		<card><name id="LBR45">Frodo Baggins (TBR)</name><set>TBR</set></card>
+	</superzone>
+</deck>

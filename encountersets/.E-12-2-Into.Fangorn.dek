@@ -1,0 +1,39 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="VoI20,encounter">Angry Huorn</name><set>VoI</set></card>
+		<card><name id="VoI20,encounter">Angry Huorn</name><set>VoI</set></card>
+		<card><name id="VoI22,encounter">Dark-Hearted Huorn</name><set>VoI</set></card>
+		<card><name id="VoI22,encounter">Dark-Hearted Huorn</name><set>VoI</set></card>
+		<card><name id="VoI22,encounter">Dark-Hearted Huorn</name><set>VoI</set></card>
+		<card><name id="VoI23,encounter">Deadly Huorn</name><set>VoI</set></card>
+		<card><name id="VoI23,encounter">Deadly Huorn</name><set>VoI</set></card>
+		<card><name id="VoI38,encounter">Heart of Fangorn</name><set>VoI</set></card>
+		<card><name id="VoI38,encounter">Heart of Fangorn</name><set>VoI</set></card>
+		<card><name id="VoI38,encounter">Heart of Fangorn</name><set>VoI</set></card>
+		<card><name id="VoI68,encounter">The Forest&apos;s Malice</name><set>VoI</set></card>
+		<card><name id="VoI40,encounter">In Need of Rest</name><set>VoI</set></card>
+		<card><name id="VoI44,encounter">Low on Provisions</name><set>VoI</set></card>
+		<card><name id="VoI44,encounter">Low on Provisions</name><set>VoI</set></card>
+		<card><name id="VoI51,encounter">Off Track</name><set>VoI</set></card>
+		<card><name id="VoI51,encounter">Off Track</name><set>VoI</set></card>
+		<card><name id="VoI19,encounter">Ancient Forest</name><set>VoI</set></card>
+		<card><name id="VoI67,encounter">Tangled Woods</name><set>VoI</set></card>
+		<card><name id="VoI67,encounter">Tangled Woods</name><set>VoI</set></card>
+		<card><name id="VoI67,encounter">Tangled Woods</name><set>VoI</set></card>
+		<card><name id="VoI73,encounter">Turned Around</name><set>VoI</set></card>
+		<card><name id="VoI73,encounter">Turned Around</name><set>VoI</set></card>
+		<card><name id="VoI73,encounter">Turned Around</name><set>VoI</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="VoI09.png,VoI10.png">Escape from Fangorn</name><set>VoI</set></card>
+		<card><name id="VoI07.png,VoI08.png">Into the Woods</name><set>VoI</set></card>
+		<card><name id="VoI11.png,VoI12.png">The Angry Forest</name><set>VoI</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="VoI47">Mugash (obj)</name><set>VoI</set></card>
+		<card><name id="VoI32,encounter">Edge of Fangorn</name><set>VoI</set></card>
+	</superzone>
+</deck>

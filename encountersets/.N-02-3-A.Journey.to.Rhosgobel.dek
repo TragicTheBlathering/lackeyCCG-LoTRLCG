@@ -1,0 +1,69 @@
+<deck version="0.8">
+	<meta>
+		<title>02.N-3-A.Journey.to.Rhosgobel</title>		<author>SetYourName</author>		<date>04-11-12</date>		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="core089,encounter">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core089,encounter">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core089,encounter">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core093,encounter">The Necromancer&apos;s Reach</name><set>Core</set></card>
+		<card><name id="core093,encounter">The Necromancer&apos;s Reach</name><set>Core</set></card>
+		<card><name id="core075,encounter">Hummerhorns</name><set>Core</set></card>
+		<card><name id="core074,encounter">King Spider</name><set>Core</set></card>
+		<card><name id="core074,encounter">King Spider</name><set>Core</set></card>
+		<card><name id="core076,encounter">Ungoliant&apos;s Spawn</name><set>Core</set></card>
+		<card><name id="core077,encounter">Great Forest Web</name><set>Core</set></card>
+		<card><name id="core077,encounter">Great Forest Web</name><set>Core</set></card>
+		<card><name id="core080,encounter">Caught in a Web</name><set>Core</set></card>
+		<card><name id="core080,encounter">Caught in a Web</name><set>Core</set></card>
+		<card><name id="core079,encounter">Eyes of the Forest</name><set>Core</set></card>
+		<card><name id="AJTR18,encounter">Mirkwood Flock</name><set>AJTR</set></card>
+		<card><name id="AJTR18,encounter">Mirkwood Flock</name><set>AJTR</set></card>
+		<card><name id="AJTR18,encounter">Mirkwood Flock</name><set>AJTR</set></card>
+		<card><name id="AJTR18,encounter">Mirkwood Flock</name><set>AJTR</set></card>
+		<card><name id="AJTR11,encounter">Athelas</name><set>AJTR</set></card>
+		<card><name id="AJTR11,encounter">Athelas</name><set>AJTR</set></card>
+		<card><name id="AJTR11,encounter">Athelas</name><set>AJTR</set></card>
+		<card><name id="AJTR11,encounter">Athelas</name><set>AJTR</set></card>
+		<card><name id="AJTR15,encounter">Exhaustion</name><set>AJTR</set></card>
+		<card><name id="AJTR15,encounter">Exhaustion</name><set>AJTR</set></card>
+		<card><name id="AJTR15,encounter">Exhaustion</name><set>AJTR</set></card>
+		<card><name id="AJTR17,encounter">Festering Wounds</name><set>AJTR</set></card>
+		<card><name id="AJTR16,encounter">Swarming Insects</name><set>AJTR</set></card>
+		<card><name id="AJTR16,encounter">Swarming Insects</name><set>AJTR</set></card>
+		<card><name id="AJTR19,encounter">Black Forest Bats (AJTR)</name><set>AJTR</set></card>
+		<card><name id="AJTR19,encounter">Black Forest Bats (AJTR)</name><set>AJTR</set></card>
+		<card><name id="AJTR19,encounter">Black Forest Bats (AJTR)</name><set>AJTR</set></card>
+		<card><name id="AJTR19,encounter">Black Forest Bats (AJTR)</name><set>AJTR</set></card>
+		<card><name id="AJTR19,encounter">Black Forest Bats (AJTR)</name><set>AJTR</set></card>
+		<card><name id="N-J2R4,encounter">Goblin Eagle-Hunter (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-J2R4,encounter">Goblin Eagle-Hunter (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-J2R4,encounter">Goblin Eagle-Hunter (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-J2R9,encounter">Treetop Bird-Spider (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-J2R9,encounter">Treetop Bird-Spider (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-J2R3,encounter">Dark-Wood Grove (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-J2R3,encounter">Dark-Wood Grove (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-J2R3,encounter">Dark-Wood Grove (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-J2R5,encounter">Labyrinthine Woods (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-J2R5,encounter">Labyrinthine Woods (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-J2R5,encounter">Labyrinthine Woods (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-J2R7,encounter">Pitch-Dark Thicket (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-J2R7,encounter">Pitch-Dark Thicket (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-J2R6,encounter">Noxious Supplies (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-J2R6,encounter">Noxious Supplies (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-J2R6,encounter">Noxious Supplies (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-J2R8,encounter">Shot from the Sky (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-J2R8,encounter">Shot from the Sky (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-J2R8,encounter">Shot from the Sky (Nightmare)</name><set>Nightmare</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="AJTR21a.png,AJTR21b.png">Radagast&apos;s Request</name><set>AJTR</set></card>
+		<card><name id="AJTR22a.png,AJTR22b.png">Return to Rhosgobel</name><set>AJTR</set></card>
+		<card><name id="AJTR20a.png,AJTR20b.png">The Wounded Eagle</name><set>AJTR</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="AJTR12,encounter">Wilyador</name><set>AJTR</set></card>
+		<card><name id="AJTR13,encounter">Rhosgobel</name><set>AJTR</set></card>
+		<card><name id="N-J2R2,N-J2R1">Journey to Rhosgobel (Nightmare)</name><set>Nightmare</set></card>
+	</superzone>
+</deck>

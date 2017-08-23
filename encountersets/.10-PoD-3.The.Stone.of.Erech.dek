@@ -1,0 +1,59 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="TSoE18-3">Regretful Shade</name><set>TSOE</set></card>
+		<card><name id="TSoE18-3">Regretful Shade</name><set>TSOE</set></card>
+		<card><name id="TSoE18-3">Regretful Shade</name><set>TSOE</set></card>
+		<card><name id="TSoE20-4">Restless Dead</name><set>TSOE</set></card>
+		<card><name id="TSoE20-4">Restless Dead</name><set>TSOE</set></card>
+		<card><name id="TSoE20-4">Restless Dead</name><set>TSOE</set></card>
+		<card><name id="TSoE20-4">Restless Dead</name><set>TSOE</set></card>
+		<card><name id="TSoE21-2">Shadow Host Captain</name><set>TSOE</set></card>
+		<card><name id="TSoE21-2">Shadow Host Captain</name><set>TSOE</set></card>
+		<card><name id="TSoE22-2">Shadow Man</name><set>TSOE</set></card>
+		<card><name id="TSoE22-2">Shadow Man</name><set>TSOE</set></card>
+		<card><name id="TSoE30-3">Whisperer</name><set>TSOE</set></card>
+		<card><name id="TSoE30-3">Whisperer</name><set>TSOE</set></card>
+		<card><name id="TSoE30-3">Whisperer</name><set>TSOE</set></card>
+		<card><name id="TSoE07-2">Banks of the Morthond</name><set>TSOE</set></card>
+		<card><name id="TSoE07-2">Banks of the Morthond</name><set>TSOE</set></card>
+		<card><name id="TSoE08-3">Blackroot Graves</name><set>TSOE</set></card>
+		<card><name id="TSoE08-3">Blackroot Graves</name><set>TSOE</set></card>
+		<card><name id="TSoE08-3">Blackroot Graves</name><set>TSOE</set></card>
+		<card><name id="TSoE14-2">Haunted Valley</name><set>TSOE</set></card>
+		<card><name id="TSoE14-2">Haunted Valley</name><set>TSOE</set></card>
+		<card><name id="TSoE23-2">Shadow of Dwimorberg</name><set>TSOE</set></card>
+		<card><name id="TSoE23-2">Shadow of Dwimorberg</name><set>TSOE</set></card>
+		<card><name id="TSoE29-2">Vale of Shadows</name><set>TSOE</set></card>
+		<card><name id="TSoE29-2">Vale of Shadows</name><set>TSOE</set></card>
+		<card><name id="TSoE19-1">Relic from the Dark Years</name><set>TSOE</set></card>
+		<card><name id="TSoE10-2">Driven by Fear</name><set>TSOE</set></card>
+		<card><name id="TSoE10-2">Driven by Fear</name><set>TSOE</set></card>
+		<card><name id="TSoE13-2">Groping Horror</name><set>TSOE</set></card>
+		<card><name id="TSoE13-2">Groping Horror</name><set>TSOE</set></card>
+		<card><name id="TSoE15-2">Midnight Throng</name><set>TSOE</set></card>
+		<card><name id="TSoE15-2">Midnight Throng</name><set>TSOE</set></card>
+		<card><name id="TSoE17-2">Murmurs of Dread</name><set>TSOE</set></card>
+		<card><name id="TSoE17-2">Murmurs of Dread</name><set>TSOE</set></card>
+		<card><name id="TSoE25-2">The Dead Ride Behind</name><set>TSOE</set></card>
+		<card><name id="TSoE25-2">The Dead Ride Behind</name><set>TSOE</set></card>
+		<card><name id="TSoE26-2">The Gloaming</name><set>TSOE</set></card>
+		<card><name id="TSoE26-2">The Gloaming</name><set>TSOE</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="TSoE03.png,TSoE04.png">Terror of the Dead</name><set>TSOE</set></card>
+		<card><name id="TSoE01.png,TSoE02.png">The Disappearance</name><set>TSOE</set></card>
+		<card><name id="TSoE05.png,TSoE06.png">The Shadow Host</name><set>TSOE</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="TSoE24-1">Tarlang&apos;s Neck</name><set>TSOE</set></card>
+		<card><name id="TSoE09-1">Derufin</name><set>TSOE</set></card>
+		<card><name id="TSoE27-1">The Lord of the Dead</name><set>TSOE</set></card>
+		<card><name id="TSoE28-1">The Son of Erech</name><set>TSOE</set></card>
+		<card><name id="TSoE12-1">Eventide</name><set>TSOE</set></card>
+		<card><name id="TSoE11-1">Dusk</name><set>TSOE</set></card>
+		<card><name id="TSoE16-1">Midnight</name><set>TSOE</set></card>
+	</superzone>
+</deck>

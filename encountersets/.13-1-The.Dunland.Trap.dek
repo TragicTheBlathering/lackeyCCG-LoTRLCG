@@ -1,0 +1,59 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="TDT14,encounter">Boar Clan Stalker</name><set>TDT</set></card>
+		<card><name id="TDT14,encounter">Boar Clan Stalker</name><set>TDT</set></card>
+		<card><name id="TDT14,encounter">Boar Clan Stalker</name><set>TDT</set></card>
+		<card><name id="TDT17,encounter">Hills of Dunland</name><set>TDT</set></card>
+		<card><name id="TDT17,encounter">Hills of Dunland</name><set>TDT</set></card>
+		<card><name id="TDT17,encounter">Hills of Dunland</name><set>TDT</set></card>
+		<card><name id="TDT17,encounter">Hills of Dunland</name><set>TDT</set></card>
+		<card><name id="TDT16,encounter">Hithaeglir Foothills</name><set>TDT</set></card>
+		<card><name id="TDT16,encounter">Hithaeglir Foothills</name><set>TDT</set></card>
+		<card><name id="TDT19,encounter">Hithaeglir Stream</name><set>TDT</set></card>
+		<card><name id="TDT19,encounter">Hithaeglir Stream</name><set>TDT</set></card>
+		<card><name id="TDT19,encounter">Hithaeglir Stream</name><set>TDT</set></card>
+		<card><name id="TDT19,encounter">Hithaeglir Stream</name><set>TDT</set></card>
+		<card><name id="TDT18,encounter">Plains of Enedwaith</name><set>TDT</set></card>
+		<card><name id="TDT18,encounter">Plains of Enedwaith</name><set>TDT</set></card>
+		<card><name id="TDT18,encounter">Plains of Enedwaith</name><set>TDT</set></card>
+		<card><name id="TDT21,encounter">Dunlending Ambush</name><set>TDT</set></card>
+		<card><name id="TDT21,encounter">Dunlending Ambush</name><set>TDT</set></card>
+		<card><name id="TDT21,encounter">Dunlending Ambush</name><set>TDT</set></card>
+		<card><name id="TDT20,encounter">Frenzied Attack</name><set>TDT</set></card>
+		<card><name id="TDT20,encounter">Frenzied Attack</name><set>TDT</set></card>
+		<card><name id="TDT20,encounter">Frenzied Attack</name><set>TDT</set></card>
+		<card><name id="VoI26,encounter">Dunland Beserker</name><set>VoI</set></card>
+		<card><name id="VoI26,encounter">Dunland Beserker</name><set>VoI</set></card>
+		<card><name id="VoI26,encounter">Dunland Beserker</name><set>VoI</set></card>
+		<card><name id="VoI27,encounter">Dunland Chieftain</name><set>VoI</set></card>
+		<card><name id="VoI27,encounter">Dunland Chieftain</name><set>VoI</set></card>
+		<card><name id="VoI30,encounter">Dunland Tribesman</name><set>VoI</set></card>
+		<card><name id="VoI30,encounter">Dunland Tribesman</name><set>VoI</set></card>
+		<card><name id="VoI74,encounter">Wild Men of Dunland</name><set>VoI</set></card>
+		<card><name id="VoI74,encounter">Wild Men of Dunland</name><set>VoI</set></card>
+		<card><name id="VoI40,encounter">In Need of Rest</name><set>VoI</set></card>
+		<card><name id="VoI40,encounter">In Need of Rest</name><set>VoI</set></card>
+		<card><name id="VoI44,encounter">Low on Provisions</name><set>VoI</set></card>
+		<card><name id="VoI44,encounter">Low on Provisions</name><set>VoI</set></card>
+		<card><name id="VoI44,encounter">Low on Provisions</name><set>VoI</set></card>
+		<card><name id="VoI51,encounter">Off Track</name><set>VoI</set></card>
+		<card><name id="VoI51,encounter">Off Track</name><set>VoI</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="TDT24.png,TDT25.png">A Well Laid Trap</name><set>TDT</set></card>
+		<card><name id="TDT26.png,TDT27.png">No Way Out</name><set>TDT</set></card>
+		<card><name id="TDT22.png,TDT23.png">The Road to Tharbad</name><set>TDT</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="TDT07,encounter">Chief Turch</name><set>TDT</set></card>
+		<card><name id="TDT12,encounter">Munuv D?v Ravine</name><set>TDT</set></card>
+		<card><name id="TDT13,encounter">Old South Road (TDT)</name><set>TDT</set></card>
+		<card><name id="TDT15,encounter">Boar Clan Warrior</name><set>TDT</set></card>
+		<card><name id="TDT15,encounter">Boar Clan Warrior</name><set>TDT</set></card>
+		<card><name id="TDT15,encounter">Boar Clan Warrior</name><set>TDT</set></card>
+		<card><name id="TDT15,encounter">Boar Clan Warrior</name><set>TDT</set></card>
+	</superzone>
+</deck>

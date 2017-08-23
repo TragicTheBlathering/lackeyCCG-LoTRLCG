@@ -1,0 +1,68 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="KAZ11,encounter">Cave Troll</name><set>KAZ</set></card>
+		<card><name id="KAZ11,encounter">Cave Troll</name><set>KAZ</set></card>
+		<card><name id="KAZ25,encounter">Hidden Threat</name><set>KAZ</set></card>
+		<card><name id="KAZ25,encounter">Hidden Threat</name><set>KAZ</set></card>
+		<card><name id="KAZ33,encounter">Orc Horn Blower</name><set>KAZ</set></card>
+		<card><name id="KAZ45,encounter">Upper Hall</name><set>KAZ</set></card>
+		<card><name id="KAZ45,encounter">Upper Hall</name><set>KAZ</set></card>
+		<card><name id="KAZ45,encounter">Upper Hall</name><set>KAZ</set></card>
+		<card><name id="core086,encounter">Despair</name><set>Core</set></card>
+		<card><name id="core086,encounter">Despair</name><set>Core</set></card>
+		<card><name id="core083,encounter">Goblin Sniper</name><set>Core</set></card>
+		<card><name id="core083,encounter">Goblin Sniper</name><set>Core</set></card>
+		<card><name id="core082,encounter">Hill Troll</name><set>Core</set></card>
+		<card><name id="core082,encounter">Hill Troll</name><set>Core</set></card>
+		<card><name id="core084,encounter">Marsh Adder</name><set>Core</set></card>
+		<card><name id="core087,encounter">The Brown Lands</name><set>Core</set></card>
+		<card><name id="core087,encounter">The Brown Lands</name><set>Core</set></card>
+		<card><name id="core088,encounter">The East Bight</name><set>Core</set></card>
+		<card><name id="core088,encounter">The East Bight</name><set>Core</set></card>
+		<card><name id="core085,encounter">Wargs</name><set>Core</set></card>
+		<card><name id="core085,encounter">Wargs</name><set>Core</set></card>
+		<card><name id="core081,encounter">Wolf Rider</name><set>Core</set></card>
+		<card><name id="RTR045,encounter">Barren Hills</name><set>RTR</set></card>
+		<card><name id="RTR045,encounter">Barren Hills</name><set>RTR</set></card>
+		<card><name id="RTR051,encounter">Crebain</name><set>RTR</set></card>
+		<card><name id="RTR051,encounter">Crebain</name><set>RTR</set></card>
+		<card><name id="RTR051,encounter">Crebain</name><set>RTR</set></card>
+		<card><name id="RTR047,encounter">Followed by Night</name><set>RTR</set></card>
+		<card><name id="RTR047,encounter">Followed by Night</name><set>RTR</set></card>
+		<card><name id="RTR047,encounter">Followed by Night</name><set>RTR</set></card>
+		<card><name id="RTR043,encounter">Goblin Gate</name><set>RTR</set></card>
+		<card><name id="RTR049,encounter">Goblin Taskmaster</name><set>RTR</set></card>
+		<card><name id="RTR049,encounter">Goblin Taskmaster</name><set>RTR</set></card>
+		<card><name id="RTR049,encounter">Goblin Taskmaster</name><set>RTR</set></card>
+		<card><name id="RTR049,encounter">Goblin Taskmaster</name><set>RTR</set></card>
+		<card><name id="RTR048,encounter">Orc Ambush</name><set>RTR</set></card>
+		<card><name id="RTR048,encounter">Orc Ambush</name><set>RTR</set></card>
+		<card><name id="RTR050,encounter">Orc Raiders</name><set>RTR</set></card>
+		<card><name id="RTR050,encounter">Orc Raiders</name><set>RTR</set></card>
+		<card><name id="RTR050,encounter">Orc Raiders</name><set>RTR</set></card>
+		<card><name id="RTR044,encounter">Pathless Country</name><set>RTR</set></card>
+		<card><name id="RTR044,encounter">Pathless Country</name><set>RTR</set></card>
+		<card><name id="RTR044,encounter">Pathless Country</name><set>RTR</set></card>
+		<card><name id="RTR042,encounter">Ruined Road</name><set>RTR</set></card>
+		<card><name id="RTR042,encounter">Ruined Road</name><set>RTR</set></card>
+		<card><name id="RTR046,encounter">Sleeping Sentry</name><set>RTR</set></card>
+		<card><name id="RTR046,encounter">Sleeping Sentry</name><set>RTR</set></card>
+		<card><name id="RTR052,encounter">Wild Bear</name><set>RTR</set></card>
+		<card><name id="RTR052,encounter">Wild Bear</name><set>RTR</set></card>
+		<card><name id="RTR052,encounter">Wild Bear</name><set>RTR</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="Angmar1a.png,Angmar1b.png">CUSTOM.-.Into Angmar</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Angmar2a.png,Angmar2b.png">CUSTOM.-.Land of the Witch King</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Angmar3a.png,Angmar3b.png">CUSTOM.-.Return to Rivendell</name><set>CUSTOM.JRDCQ</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="Angmar5">CUSTOM.-.Carn Dum</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="Angmar4">CUSTOM.-.Carn Mor</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="RTR041,encounter">Arwen Undomiel (RTR)</name><set>RTR</set></card>
+		<card><name id="KAZ05,encounter">Book of Mazarbul</name><set>KAZ</set></card>
+	</superzone>
+</deck>

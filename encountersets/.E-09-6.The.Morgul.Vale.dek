@@ -1,0 +1,49 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="TMV-07-4">Morgul Bodygaurd</name><set>TMV</set></card>
+		<card><name id="TMV-07-4">Morgul Bodygaurd</name><set>TMV</set></card>
+		<card><name id="TMV-07-4">Morgul Bodygaurd</name><set>TMV</set></card>
+		<card><name id="TMV-07-4">Morgul Bodygaurd</name><set>TMV</set></card>
+		<card><name id="TMV-08-3">Morgul Road</name><set>TMV</set></card>
+		<card><name id="TMV-08-3">Morgul Road</name><set>TMV</set></card>
+		<card><name id="TMV-08-3">Morgul Road</name><set>TMV</set></card>
+		<card><name id="TMV-09-2">Morgul Sorcerer</name><set>TMV</set></card>
+		<card><name id="TMV-09-2">Morgul Sorcerer</name><set>TMV</set></card>
+		<card><name id="TMV-10-3">Morgul Tracker</name><set>TMV</set></card>
+		<card><name id="TMV-10-3">Morgul Tracker</name><set>TMV</set></card>
+		<card><name id="TMV-10-3">Morgul Tracker</name><set>TMV</set></card>
+		<card><name id="TMV-11-3">Morgul Vale</name><set>TMV</set></card>
+		<card><name id="TMV-11-3">Morgul Vale</name><set>TMV</set></card>
+		<card><name id="TMV-16-2">Sleepless Malice</name><set>TMV</set></card>
+		<card><name id="TMV-16-2">Sleepless Malice</name><set>TMV</set></card>
+		<card><name id="TMV-19-3">Terror Drives Them</name><set>TMV</set></card>
+		<card><name id="TMV-19-3">Terror Drives Them</name><set>TMV</set></card>
+		<card><name id="TMV-19-3">Terror Drives Them</name><set>TMV</set></card>
+		<card><name id="TMV-20-2">The Dead City Looms</name><set>TMV</set></card>
+		<card><name id="HON56,encounter">Lieutenant of Mordor</name><set>HON</set></card>
+		<card><name id="HON57,encounter">Orc Arbalesters</name><set>HON</set></card>
+		<card><name id="HON57,encounter">Orc Arbalesters</name><set>HON</set></card>
+		<card><name id="HON57,encounter">Orc Arbalesters</name><set>HON</set></card>
+		<card><name id="HON61,encounter">The Power of Mordor</name><set>HON</set></card>
+		<card><name id="HON50,encounter">Forest Bat</name><set>HON</set></card>
+		<card><name id="HON50,encounter">Forest Bat</name><set>HON</set></card>
+		<card><name id="HON50,encounter">Forest Bat</name><set>HON</set></card>
+		<card><name id="HON49,encounter">Morgul Spider</name><set>HON</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="TMV-27.png,TMV-28.png">The Betrayal</name><set>TMV</set></card>
+		<card><name id="TMV-29.png,TMV-30.png">The Morgul Rider</name><set>TMV</set></card>
+		<card><name id="TMV-25.png,TMV-26.png">The Reargaurd</name><set>TMV</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="TMV-06-1">Lord Alcaron (TMV)</name><set>TMV</set></card>
+		<card><name id="TMV-13-1">Nazgul of Minas Morgul</name><set>TMV</set></card>
+		<card><name id="TMV-22-1">The White Bridge</name><set>TMV</set></card>
+		<card><name id="TMV-12-1">Murzag</name><set>TMV</set></card>
+		<card><name id="TMV-23-1">To The Tower</name><set>TMV</set></card>
+		<card><name id="TMV-11-3">Morgul Vale</name><set>TMV</set></card>
+	</superzone>
+</deck>

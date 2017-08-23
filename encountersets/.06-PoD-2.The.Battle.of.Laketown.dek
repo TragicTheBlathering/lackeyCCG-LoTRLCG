@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<title>000-1.Hobbit.1.E-2-Over.The,Misty.Mountians.Grim</title>
+		<author>SetYourName</author>
+		<date>04-11-12</date>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="TBOLT20">East Pier</name><set>TBOLT</set></card>
+		<card><name id="TBOLT24">Esgaroth Wharf</name><set>TBOLT</set></card>
+		<card><name id="TBOLT24">Esgaroth Wharf</name><set>TBOLT</set></card>
+		<card><name id="TBOLT24">Esgaroth Wharf</name><set>TBOLT</set></card>
+		<card><name id="TBOLT24">Esgaroth Wharf</name><set>TBOLT</set></card>
+		<card><name id="TBOLT23">Fisherman&apos;s Dock</name><set>TBOLT</set></card>
+		<card><name id="TBOLT23">Fisherman&apos;s Dock</name><set>TBOLT</set></card>
+		<card><name id="TBOLT23">Fisherman&apos;s Dock</name><set>TBOLT</set></card>
+		<card><name id="TBOLT23">Fisherman&apos;s Dock</name><set>TBOLT</set></card>
+		<card><name id="TBOLT22">Great Bridge</name><set>TBOLT</set></card>
+		<card><name id="TBOLT21">Great House</name><set>TBOLT</set></card>
+		<card><name id="TBOLT19">Merchant&apos;s District</name><set>TBOLT</set></card>
+		<card><name id="TBOLT19">Merchant&apos;s District</name><set>TBOLT</set></card>
+		<card><name id="TBOLT19">Merchant&apos;s District</name><set>TBOLT</set></card>
+		<card><name id="TBOLT19">Merchant&apos;s District</name><set>TBOLT</set></card>
+		<card><name id="TBOLT18">North Pier</name><set>TBOLT</set></card>
+		<card><name id="TBOLT17">South Pier</name><set>TBOLT</set></card>
+		<card><name id="TBOLT16">The Master&apos;s Manor</name><set>TBOLT</set></card>
+		<card><name id="TBOLT15">West Pier</name><set>TBOLT</set></card>
+		<card><name id="TBOLT08">The Old Thrush</name><set>TBOLT</set></card>
+		<card><name id="TBOLT13">Catching Fire</name><set>TBOLT</set></card>
+		<card><name id="TBOLT13">Catching Fire</name><set>TBOLT</set></card>
+		<card><name id="TBOLT09">Close to the Flame</name><set>TBOLT</set></card>
+		<card><name id="TBOLT09">Close to the Flame</name><set>TBOLT</set></card>
+		<card><name id="TBOLT09">Close to the Flame</name><set>TBOLT</set></card>
+		<card><name id="TBOLT12">Dire Magnificence</name><set>TBOLT</set></card>
+		<card><name id="TBOLT12">Dire Magnificence</name><set>TBOLT</set></card>
+		<card><name id="TBOLT12">Dire Magnificence</name><set>TBOLT</set></card>
+		<card><name id="TBOLT14">Reckless in His Rage</name><set>TBOLT</set></card>
+		<card><name id="TBOLT14">Reckless in His Rage</name><set>TBOLT</set></card>
+		<card><name id="TBOLT10">Scorching Blast</name><set>TBOLT</set></card>
+		<card><name id="TBOLT10">Scorching Blast</name><set>TBOLT</set></card>
+		<card><name id="TBOLT10">Scorching Blast</name><set>TBOLT</set></card>
+		<card><name id="TBOLT11">Town-Baiting</name><set>TBOLT</set></card>
+		<card><name id="TBOLT11">Town-Baiting</name><set>TBOLT</set></card>
+		<card><name id="TBOLT11">Town-Baiting</name><set>TBOLT</set></card>
+	</superzone>
+	<superzone name="2nd Encounter Deck">
+		<card><name id="TBOLT06">Smaug the Magnificent</name><set>TBOLT</set></card>
+		<card><name id="TBOLT06">Smaug the Magnificent</name><set>TBOLT</set></card>
+		<card><name id="TBOLT06">Smaug the Magnificent</name><set>TBOLT</set></card>
+		<card><name id="TBOLT04">Smaug the Mighty</name><set>TBOLT</set></card>
+		<card><name id="TBOLT04">Smaug the Mighty</name><set>TBOLT</set></card>
+		<card><name id="TBOLT04">Smaug the Mighty</name><set>TBOLT</set></card>
+		<card><name id="TBOLT05">Smaug the Terrible</name><set>TBOLT</set></card>
+		<card><name id="TBOLT05">Smaug the Terrible</name><set>TBOLT</set></card>
+		<card><name id="TBOLT05">Smaug the Terrible</name><set>TBOLT</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="TBOLT02a">Fire and Water</name><set>TBOLT</set></card>
+		<card><name id="TBOLT01a">Terror from the Mountain</name><set>TBOLT</set></card>
+		<card><name id="TBOLT03a">The Dragon&apos;s Wrath</name><set>TBOLT</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="TBOLT07">Lake-town</name><set>TBOLT</set></card>
+	</superzone>
+</deck>

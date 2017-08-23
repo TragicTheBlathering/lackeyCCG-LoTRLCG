@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<title>000-1.Hobbit.1.E-2-Over.The,Misty.Mountians.Grim</title>
+		<author>SetYourName</author>
+		<date>04-11-12</date>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="OTD-26">Caught in Webs</name><set>OTD</set></card>
+		<card><name id="OTD-26">Caught in Webs</name><set>OTD</set></card>
+		<card><name id="OTD-27">Crazy Cob</name><set>OTD</set></card>
+		<card><name id="OTD-27">Crazy Cob</name><set>OTD</set></card>
+		<card><name id="OTD-27">Crazy Cob</name><set>OTD</set></card>
+		<card><name id="OTD-35">Fat Spider</name><set>OTD</set></card>
+		<card><name id="OTD-35">Fat Spider</name><set>OTD</set></card>
+		<card><name id="OTD-35">Fat Spider</name><set>OTD</set></card>
+		<card><name id="OTD-35">Fat Spider</name><set>OTD</set></card>
+		<card><name id="OTD-37">Forest Stream</name><set>OTD</set></card>
+		<card><name id="OTD-37">Forest Stream</name><set>OTD</set></card>
+		<card><name id="OTD-38">Giant Web</name><set>OTD</set></card>
+		<card><name id="OTD-38">Giant Web</name><set>OTD</set></card>
+		<card><name id="OTD-38">Giant Web</name><set>OTD</set></card>
+		<card><name id="OTD-38">Giant Web</name><set>OTD</set></card>
+		<card><name id="OTD-51">Lazy Lob</name><set>OTD</set></card>
+		<card><name id="OTD-51">Lazy Lob</name><set>OTD</set></card>
+		<card><name id="OTD-51">Lazy Lob</name><set>OTD</set></card>
+		<card><name id="OTD-56">Old Tomnoddy</name><set>OTD</set></card>
+		<card><name id="OTD-56">Old Tomnoddy</name><set>OTD</set></card>
+		<card><name id="OTD-56">Old Tomnoddy</name><set>OTD</set></card>
+		<card><name id="OTD-57">Poisoned by Spiders</name><set>OTD</set></card>
+		<card><name id="OTD-57">Poisoned by Spiders</name><set>OTD</set></card>
+		<card><name id="OTD-80">Wicked Spider</name><set>OTD</set></card>
+		<card><name id="OTD-80">Wicked Spider</name><set>OTD</set></card>
+		<card><name id="OTD-80">Wicked Spider</name><set>OTD</set></card>
+		<card><name id="OTD-80">Wicked Spider</name><set>OTD</set></card>
+		<card><name id="OTD-80">Wicked Spider</name><set>OTD</set></card>
+		<card><name id="OTD-29">Dark Bats</name><set>OTD</set></card>
+		<card><name id="OTD-29">Dark Bats</name><set>OTD</set></card>
+		<card><name id="OTD-29">Dark Bats</name><set>OTD</set></card>
+		<card><name id="OTD-36">Fighting Among Friends</name><set>OTD</set></card>
+		<card><name id="OTD-36">Fighting Among Friends</name><set>OTD</set></card>
+		<card><name id="OTD-48">Hidden Path</name><set>OTD</set></card>
+		<card><name id="OTD-48">Hidden Path</name><set>OTD</set></card>
+		<card><name id="OTD-48">Hidden Path</name><set>OTD</set></card>
+		<card><name id="OTD-78">Weighed Down</name><set>OTD</set></card>
+		<card><name id="OTD-78">Weighed Down</name><set>OTD</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="OTD-05">Battle with the Spiders</name><set>OTD</set></card>
+		<card><name id="OTD-07">Captured by Spiders</name><set>OTD</set></card>
+		<card><name id="OTD-11">Into Mirkwood</name><set>OTD</set></card>
+		<card><name id="OTD-13">Lost in the Dark</name><set>OTD</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="OTD-20">Bilbo Baggins (OtD)</name><set>OTD</set></card>
+		<card><name id="OTD-21">Bilbo’s Magic Ring</name><set>OTD</set></card>
+		<card><name id="OTD-21">Bilbo’s Magic Ring</name><set>OTD</set></card>
+		<card><name id="OTD-21">Bilbo’s Magic Ring</name><set>OTD</set></card>
+		<card><name id="OTD-21">Bilbo’s Magic Ring</name><set>OTD</set></card>
+		<card><name id="OTD-71">The Spider’s Glade</name><set>OTD</set></card>
+	</superzone>
+</deck>

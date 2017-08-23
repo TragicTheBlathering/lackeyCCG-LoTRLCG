@@ -1,0 +1,58 @@
+<deck version="0.8">
+	<meta>
+		<title>01.N-3-Escape.from.Dol.Guldur</title>		<author>SetYourName</author>		<date>04-11-12</date>		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="HFG17,encounter">Goblintown Scavengers</name><set>HFG</set></card>
+		<card><name id="HFG17,encounter">Goblintown Scavengers</name><set>HFG</set></card>
+		<card><name id="HFG18,encounter">Hunters From Mordor</name><set>HFG</set></card>
+		<card><name id="HFG18,encounter">Hunters From Mordor</name><set>HFG</set></card>
+		<card><name id="HFG18,encounter">Hunters From Mordor</name><set>HFG</set></card>
+		<card><name id="HFG18,encounter">Hunters From Mordor</name><set>HFG</set></card>
+		<card><name id="HFG18,encounter">Hunters From Mordor</name><set>HFG</set></card>
+		<card><name id="HFG15,encounter">The East Bank</name><set>HFG</set></card>
+		<card><name id="HFG15,encounter">The East Bank</name><set>HFG</set></card>
+		<card><name id="HFG13,encounter">The Eaves of Mirkwood</name><set>HFG</set></card>
+		<card><name id="HFG13,encounter">The Eaves of Mirkwood</name><set>HFG</set></card>
+		<card><name id="HFG12,encounter">The Old Ford</name><set>HFG</set></card>
+		<card><name id="HFG12,encounter">The Old Ford</name><set>HFG</set></card>
+		<card><name id="HFG16,encounter">The West Bank</name><set>HFG</set></card>
+		<card><name id="HFG16,encounter">The West Bank</name><set>HFG</set></card>
+		<card><name id="HFG11,encounter">Signs of Gollum</name><set>HFG</set></card>
+		<card><name id="HFG11,encounter">Signs of Gollum</name><set>HFG</set></card>
+		<card><name id="HFG11,encounter">Signs of Gollum</name><set>HFG</set></card>
+		<card><name id="HFG11,encounter">Signs of Gollum</name><set>HFG</set></card>
+		<card><name id="HFG20,encounter">Flooding</name><set>HFG</set></card>
+		<card><name id="HFG20,encounter">Flooding</name><set>HFG</set></card>
+		<card><name id="HFG21,encounter">Old Wives&apos; Tales</name><set>HFG</set></card>
+		<card><name id="HFG21,encounter">Old Wives&apos; Tales</name><set>HFG</set></card>
+		<card><name id="HFG21,encounter">Old Wives&apos; Tales</name><set>HFG</set></card>
+		<card><name id="core117,encounter">Pursued by Shadow</name><set>Core</set></card>
+		<card><name id="core117,encounter">Pursued by Shadow</name><set>Core</set></card>
+		<card><name id="core111,encounter">Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name id="core112,encounter">Massing at Night</name><set>Core</set></card>
+		<card><name id="N-HFG03,encounter">Hunting Warg (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HFG03,encounter">Hunting Warg (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HFG04,encounter">Ravenous Hawk (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HFG04,encounter">Ravenous Hawk (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HFG04,encounter">Ravenous Hawk (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HFG05,encounter">Restless Hunters (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HFG05,encounter">Restless Hunters (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HFG05,encounter">Restless Hunters (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HFG01,encounter">Dark Pools (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HFG01,encounter">Dark Pools (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HFG01,encounter">Dark Pools (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HFG02,encounter">Hunter&apos;s Lookout (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HFG02,encounter">Hunter&apos;s Lookout (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HFG10,encounter">Watched Path (Nightmare)</name><set>Nightmare</set></card>
+		<card><name id="N-HFG10,encounter">Watched Path (Nightmare)</name><set>Nightmare</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="HFG23a.png,HFG23b.png">A New Terror Abroad</name><set>HFG</set></card>
+		<card><name id="HFG24a.png,HFG24b.png">On The Trail</name><set>HFG</set></card>
+		<card><name id="HFG22a.png,HFG22b.png">The Hunt Begins</name><set>HFG</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="N-HFG07,N-HFG08">The Hunt for Gollum (Nightmare)</name><set>Nightmare</set></card>
+	</superzone>
+</deck>

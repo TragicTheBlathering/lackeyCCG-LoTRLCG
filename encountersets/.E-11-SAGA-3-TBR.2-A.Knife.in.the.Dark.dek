@@ -1,0 +1,47 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="LBR72-4">Shady Bree-Lander</name><set>TBR</set></card>
+		<card><name id="LBR72-4">Shady Bree-Lander</name><set>TBR</set></card>
+		<card><name id="LBR72-4">Shady Bree-Lander</name><set>TBR</set></card>
+		<card><name id="LBR72-4">Shady Bree-Lander</name><set>TBR</set></card>
+		<card><name id="LBR75-3">Squint Eyed Southerner</name><set>TBR</set></card>
+		<card><name id="LBR75-3">Squint Eyed Southerner</name><set>TBR</set></card>
+		<card><name id="LBR31-3">Chetwood</name><set>TBR</set></card>
+		<card><name id="LBR31-3">Chetwood</name><set>TBR</set></card>
+		<card><name id="LBR31-3">Chetwood</name><set>TBR</set></card>
+		<card><name id="LBR93-3">Weather Hills</name><set>TBR</set></card>
+		<card><name id="LBR93-3">Weather Hills</name><set>TBR</set></card>
+		<card><name id="LBR93-3">Weather Hills</name><set>TBR</set></card>
+		<card><name id="LBR91-3">Unwanted Attention</name><set>TBR</set></card>
+		<card><name id="LBR91-3">Unwanted Attention</name><set>TBR</set></card>
+		<card><name id="LBR91-3">Unwanted Attention</name><set>TBR</set></card>
+		<card><name id="LBR64-3">Pathless Country</name><set>TBR</set></card>
+		<card><name id="LBR64-3">Pathless Country</name><set>TBR</set></card>
+		<card><name id="LBR64-3">Pathless Country</name><set>TBR</set></card>
+		<card><name id="LBR65-3">Piercing Cry</name><set>TBR</set></card>
+		<card><name id="LBR55-3">Lure of the Ring</name><set>TBR</set></card>
+		<card><name id="LBR55-3">Lure of the Ring</name><set>TBR</set></card>
+		<card><name id="LBR55-3">Lure of the Ring</name><set>TBR</set></card>
+		<card><name id="LBR62-3">Pale Blade</name><set>TBR</set></card>
+		<card><name id="LBR67-3">Power in their Terror</name><set>TBR</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="LBR07.png,LBR08.png">Into the Wild</name><set>TBR</set></card>
+		<card><name id="LBR09.png,LBR10.png">The Ringwraiths Attack</name><set>TBR</set></card>
+		<card><name id="LBR05.png,LBR06.png">Trouble in Bree</name><set>TBR</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="LBR17,LBR18">A Knife in the Dark</name><set>TBR</set></card>
+		<card><name id="LBR20,LBR21">A Shadow of the Past</name><set>TBR</set></card>
+		<card><name id="LBR89-1">The Witch King</name><set>TBR</set></card>
+		<card><name id="LBR69-4">Ringwraith</name><set>TBR</set></card>
+		<card><name id="LBR69-4">Ringwraith</name><set>TBR</set></card>
+		<card><name id="LBR57-1">Midewater</name><set>TBR</set></card>
+		<card><name id="LBR94-1">Weathertop</name><set>TBR</set></card>
+		<card><name id="LBR86-1">The Prancing Pony</name><set>TBR</set></card>
+		<card><name id="LBR25-1">Bill Ferny</name><set>TBR</set></card>
+	</superzone>
+</deck>

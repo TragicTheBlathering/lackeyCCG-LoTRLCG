@@ -1,0 +1,63 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="TAC15">Raven Skirmisher</name><set>TAC</set></card>
+		<card><name id="TAC15">Raven Skirmisher</name><set>TAC</set></card>
+		<card><name id="TAC15">Raven Skirmisher</name><set>TAC</set></card>
+		<card><name id="TAC14">Raven Warrior</name><set>TAC</set></card>
+		<card><name id="TAC14">Raven Warrior</name><set>TAC</set></card>
+		<card><name id="TAC14">Raven Warrior</name><set>TAC</set></card>
+		<card><name id="TAC14">Raven Warrior</name><set>TAC</set></card>
+		<card><name id="TAC18">Dunland Battlefield</name><set>TAC</set></card>
+		<card><name id="TAC18">Dunland Battlefield</name><set>TAC</set></card>
+		<card><name id="TAC18">Dunland Battlefield</name><set>TAC</set></card>
+		<card><name id="TAC19">Raven Country</name><set>TAC</set></card>
+		<card><name id="TAC19">Raven Country</name><set>TAC</set></card>
+		<card><name id="TAC17">Raven Villiage</name><set>TAC</set></card>
+		<card><name id="TAC17">Raven Villiage</name><set>TAC</set></card>
+		<card><name id="TAC17">Raven Villiage</name><set>TAC</set></card>
+		<card><name id="TAC16">Raven War-camp</name><set>TAC</set></card>
+		<card><name id="TAC16">Raven War-camp</name><set>TAC</set></card>
+		<card><name id="TAC16">Raven War-camp</name><set>TAC</set></card>
+		<card><name id="TAC22">Driven Back</name><set>TAC</set></card>
+		<card><name id="TAC22">Driven Back</name><set>TAC</set></card>
+		<card><name id="TAC21">Fierce Folk</name><set>TAC</set></card>
+		<card><name id="TAC21">Fierce Folk</name><set>TAC</set></card>
+		<card><name id="TAC20">Raising the Cry</name><set>TAC</set></card>
+		<card><name id="TAC20">Raising the Cry</name><set>TAC</set></card>
+		<card><name id="TAC20">Raising the Cry</name><set>TAC</set></card>
+		<card><name id="VoI52,encounter">Old Hatreds</name><set>VoI</set></card>
+		<card><name id="VoI52,encounter">Old Hatreds</name><set>VoI</set></card>
+		<card><name id="VoI74,encounter">Wild Men of Dunland</name><set>VoI</set></card>
+		<card><name id="VoI74,encounter">Wild Men of Dunland</name><set>VoI</set></card>
+	</superzone>
+	<superzone name="2nd Encounter Deck">
+		<card><name id="VoI28,encounter">Dunland Prowler</name><set>VoI</set></card>
+		<card><name id="VoI28,encounter">Dunland Prowler</name><set>VoI</set></card>
+		<card><name id="VoI28,encounter">Dunland Prowler</name><set>VoI</set></card>
+		<card><name id="VoI29,encounter">Dunland Raider</name><set>VoI</set></card>
+		<card><name id="VoI29,encounter">Dunland Raider</name><set>VoI</set></card>
+		<card><name id="VoI31,encounter">Dunlending Bandit</name><set>VoI</set></card>
+		<card><name id="VoI31,encounter">Dunlending Bandit</name><set>VoI</set></card>
+		<card><name id="VoI26,encounter">Dunland Beserker</name><set>VoI</set></card>
+		<card><name id="VoI26,encounter">Dunland Beserker</name><set>VoI</set></card>
+		<card><name id="VoI26,encounter">Dunland Beserker</name><set>VoI</set></card>
+		<card><name id="VoI27,encounter">Dunland Chieftain</name><set>VoI</set></card>
+		<card><name id="VoI27,encounter">Dunland Chieftain</name><set>VoI</set></card>
+		<card><name id="VoI30,encounter">Dunland Tribesman</name><set>VoI</set></card>
+		<card><name id="VoI30,encounter">Dunland Tribesman</name><set>VoI</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="TAC23.png,TAC24.png">Battle for Dunland</name><set>TAC</set></card>
+		<card><name id="TAC27.png,TAC28.png">The Last Stage</name><set>TAC</set></card>
+		<card><name id="TAC25.png,TAC26.png">The Raven Clan</name><set>TAC</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="TAC03">Chief Turch (TAC)</name><set>TAC</set></card>
+		<card><name id="TAC08">Raven Chief</name><set>TAC</set></card>
+		<card><name id="TAC13">Raven Chief&apos;s Camp</name><set>TAC</set></card>
+		<card><name id="TAC16">Raven War-camp</name><set>TAC</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,58 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="RHG02">Avalanche!</name><set>RHG</set></card>
+		<card><name id="RHG05">Celebdil</name><set>RHG</set></card>
+		<card><name id="RHG07">Fallen Stones</name><set>RHG</set></card>
+		<card><name id="RHG07">Fallen Stones</name><set>RHG</set></card>
+		<card><name id="RHG08">Fanuidhol</name><set>RHG</set></card>
+		<card><name id="RHG09">Fell Voices</name><set>RHG</set></card>
+		<card><name id="RHG09">Fell Voices</name><set>RHG</set></card>
+		<card><name id="RHG10">Freezing Cold</name><set>RHG</set></card>
+		<card><name id="RHG10">Freezing Cold</name><set>RHG</set></card>
+		<card><name id="RHG10">Freezing Cold</name><set>RHG</set></card>
+		<card><name id="RHG13">Mountain Goblin</name><set>RHG</set></card>
+		<card><name id="RHG13">Mountain Goblin</name><set>RHG</set></card>
+		<card><name id="RHG13">Mountain Goblin</name><set>RHG</set></card>
+		<card><name id="RHG14">Mountain Troll</name><set>RHG</set></card>
+		<card><name id="RHG14">Mountain Troll</name><set>RHG</set></card>
+		<card><name id="RHG18">Rocky Crags</name><set>RHG</set></card>
+		<card><name id="RHG18">Rocky Crags</name><set>RHG</set></card>
+		<card><name id="RHG18">Rocky Crags</name><set>RHG</set></card>
+		<card><name id="RHG20">Snow Warg</name><set>RHG</set></card>
+		<card><name id="RHG20">Snow Warg</name><set>RHG</set></card>
+		<card><name id="RHG20">Snow Warg</name><set>RHG</set></card>
+		<card><name id="RHG22">The Dimrill Stair</name><set>RHG</set></card>
+		<card><name id="KAZ03">Bitter Wind</name><set>KAZ</set></card>
+		<card><name id="KAZ03">Bitter Wind</name><set>KAZ</set></card>
+		<card><name id="KAZ03">Bitter Wind</name><set>KAZ</set></card>
+		<card><name id="KAZ04">Black Uruks</name><set>KAZ</set></card>
+		<card><name id="KAZ04">Black Uruks</name><set>KAZ</set></card>
+		<card><name id="KAZ04">Black Uruks</name><set>KAZ</set></card>
+		<card><name id="KAZ04">Black Uruks</name><set>KAZ</set></card>
+		<card><name id="KAZ26">Knees of the Mountain</name><set>KAZ</set></card>
+		<card><name id="KAZ30">Mountain Warg</name><set>KAZ</set></card>
+		<card><name id="KAZ30">Mountain Warg</name><set>KAZ</set></card>
+		<card><name id="KAZ30">Mountain Warg</name><set>KAZ</set></card>
+		<card><name id="KAZ43">Turbulent Waters</name><set>KAZ</set></card>
+		<card><name id="KAZ43">Turbulent Waters</name><set>KAZ</set></card>
+		<card><name id="KAZ46">Warg Lair</name><set>KAZ</set></card>
+		<card><name id="KAZ46">Warg Lair</name><set>KAZ</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="RHG27">Snowdrifts</name><set>RHG</set></card>
+		<card><name id="RHG29">The Mountains Peak</name><set>RHG</set></card>
+		<card><name id="RHG25">Up the Pass</name><set>RHG</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="RHG04">Caradhras</name><set>RHG</set></card>
+		<card><name id="RHG01">Arwen Undomiel (RHG)</name><set>RHG</set></card>
+		<card><name id="RHG19">Snowstorm</name><set>RHG</set></card>
+		<card><name id="RHG19">Snowstorm</name><set>RHG</set></card>
+		<card><name id="RHG19">Snowstorm</name><set>RHG</set></card>
+		<card><name id="RHG19">Snowstorm</name><set>RHG</set></card>
+		<card><name id="RHG19">Snowstorm</name><set>RHG</set></card>
+	</superzone>
+</deck>

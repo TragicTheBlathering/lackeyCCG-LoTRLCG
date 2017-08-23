@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="THOEM12">Impassable Chasm</name><set>THOEM</set></card>
+		<card><name id="THOEM12">Impassable Chasm</name><set>THOEM</set></card>
+		<card><name id="THOEM12">Impassable Chasm</name><set>THOEM</set></card>
+		<card><name id="THOEM12">Impassable Chasm</name><set>THOEM</set></card>
+		<card><name id="THOEM16">Orc Horse Thieves</name><set>THOEM</set></card>
+		<card><name id="THOEM16">Orc Horse Thieves</name><set>THOEM</set></card>
+		<card><name id="THOEM16">Orc Horse Thieves</name><set>THOEM</set></card>
+		<card><name id="THOEM13">Rauros Falls</name><set>THOEM</set></card>
+		<card><name id="THOEM13">Rauros Falls</name><set>THOEM</set></card>
+		<card><name id="THOEM15">Rockslide</name><set>THOEM</set></card>
+		<card><name id="THOEM15">Rockslide</name><set>THOEM</set></card>
+		<card><name id="THOEM15">Rockslide</name><set>THOEM</set></card>
+		<card><name id="THOEM17">Slick Footing</name><set>THOEM</set></card>
+		<card><name id="THOEM17">Slick Footing</name><set>THOEM</set></card>
+		<card><name id="THOEM17">Slick Footing</name><set>THOEM</set></card>
+		<card><name id="THOEM18">The East Wall of Rohan</name><set>THOEM</set></card>
+		<card><name id="THOEM18">The East Wall of Rohan</name><set>THOEM</set></card>
+		<card><name id="THOEM19">The Highlands</name><set>THOEM</set></card>
+		<card><name id="THOEM19">The Highlands</name><set>THOEM</set></card>
+		<card><name id="THOEM19">The Highlands</name><set>THOEM</set></card>
+		<card><name id="THOEM19">The Highlands</name><set>THOEM</set></card>
+		<card><name id="THOEM20">The North Stair</name><set>THOEM</set></card>
+		<card><name id="THOEM20">The North Stair</name><set>THOEM</set></card>
+		<card><name id="THOEM21">The Outer Ridge</name><set>THOEM</set></card>
+		<card><name id="THOEM21">The Outer Ridge</name><set>THOEM</set></card>
+		<card><name id="THOEM21">The Outer Ridge</name><set>THOEM</set></card>
+		<card><name id="THOEM22">The Shores of Nen Hithoel</name><set>THOEM</set></card>
+		<card><name id="THOEM22">The Shores of Nen Hithoel</name><set>THOEM</set></card>
+		<card><name id="THOEM22">The Shores of Nen Hithoel</name><set>THOEM</set></card>
+		<card><name id="core090">Chieftan Ufthak</name><set>Core</set></card>
+		<card><name id="core091">Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name id="core091">Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name id="core089">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core089">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core089">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core092">Driven by Shadow</name><set>Core</set></card>
+		<card><name id="core095">Enchanted Stream</name><set>Core</set></card>
+		<card><name id="core095">Enchanted Stream</name><set>Core</set></card>
+		<card><name id="core094">Necromancer&apos;s Pass</name><set>Core</set></card>
+		<card><name id="core094">Necromancer&apos;s Pass</name><set>Core</set></card>
+		<card><name id="core093">The Necromancer&apos;s Reach</name><set>Core</set></card>
+		<card><name id="core093">The Necromancer&apos;s Reach</name><set>Core</set></card>
+		<card><name id="core093">The Necromancer&apos;s Reach</name><set>Core</set></card>
+		<card><name id="core115">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core115">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core115">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core116">Evil Storm</name><set>Core</set></card>
+		<card><name id="core116">Evil Storm</name><set>Core</set></card>
+		<card><name id="core116">Evil Storm</name><set>Core</set></card>
+		<card><name id="core117">Pursued by Shadow</name><set>Core</set></card>
+		<card><name id="core117">Pursued by Shadow</name><set>Core</set></card>
+		<card><name id="core118">Treacherous Fog</name><set>Core</set></card>
+		<card><name id="core118">Treacherous Fog</name><set>Core</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="THOEM23a">The Hills of Emyn Muil</name><set>THOEM</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="THOEM11">Amon Hen</name><set>THOEM</set></card>
+		<card><name id="THOEM24">Amon Lhaw</name><set>THOEM</set></card>
+	</superzone>
+</deck>

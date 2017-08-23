@@ -1,0 +1,53 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="TiT15">Bellach&apos;s Marauder</name><set>TiT</set></card>
+		<card><name id="TiT15">Bellach&apos;s Marauder</name><set>TiT</set></card>
+		<card><name id="TiT22">Decrepit Rooftops</name><set>TiT</set></card>
+		<card><name id="TiT22">Decrepit Rooftops</name><set>TiT</set></card>
+		<card><name id="TiT21">Hidden Alleyway</name><set>TiT</set></card>
+		<card><name id="TiT21">Hidden Alleyway</name><set>TiT</set></card>
+		<card><name id="TiT19">Ruins of the Second Age</name><set>TiT</set></card>
+		<card><name id="TiT19">Ruins of the Second Age</name><set>TiT</set></card>
+		<card><name id="TiT20">Seedy Inn</name><set>TiT</set></card>
+		<card><name id="TiT20">Seedy Inn</name><set>TiT</set></card>
+		<card><name id="TiT17">Streets of Tharbad</name><set>TiT</set></card>
+		<card><name id="TiT17">Streets of Tharbad</name><set>TiT</set></card>
+		<card><name id="TiT18">Tharbad Hideout</name><set>TiT</set></card>
+		<card><name id="TiT18">Tharbad Hideout</name><set>TiT</set></card>
+		<card><name id="TiT24">Conspicuous Lot</name><set>TiT</set></card>
+		<card><name id="TiT24">Conspicuous Lot</name><set>TiT</set></card>
+		<card><name id="TiT23">Constant Tail</name><set>TiT</set></card>
+		<card><name id="TiT23">Constant Tail</name><set>TiT</set></card>
+		<card><name id="TiT25">Cornered</name><set>TiT</set></card>
+		<card><name id="TiT25">Cornered</name><set>TiT</set></card>
+		<card><name id="TiT26">Get That Dwarf!</name><set>TiT</set></card>
+		<card><name id="TiT26">Get That Dwarf!</name><set>TiT</set></card>
+		<card><name id="VoI54,encounter">Orc Hound</name><set>VoI</set></card>
+		<card><name id="VoI54,encounter">Orc Hound</name><set>VoI</set></card>
+		<card><name id="VoI55,encounter">Orc Hunter</name><set>VoI</set></card>
+		<card><name id="VoI55,encounter">Orc Hunter</name><set>VoI</set></card>
+		<card><name id="VoI55,encounter">Orc Hunter</name><set>VoI</set></card>
+		<card><name id="VoI57,encounter">Orc Skirmisher</name><set>VoI</set></card>
+		<card><name id="VoI57,encounter">Orc Skirmisher</name><set>VoI</set></card>
+		<card><name id="VoI57,encounter">Orc Skirmisher</name><set>VoI</set></card>
+		<card><name id="VoI56,encounter">Orc Hunting Party</name><set>VoI</set></card>
+		<card><name id="VoI56,encounter">Orc Hunting Party</name><set>VoI</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="TiT27.png,TiT28.png">Double Dealings</name><set>TiT</set></card>
+		<card><name id="TiT29.png,TiT30.png">Escape from Tharbad</name><set>TiT</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="TiT09">Bellach</name><set>TiT</set></card>
+		<card><name id="TiT16">The Crossing at Tharbad</name><set>TiT</set></card>
+		<card><name id="TiT13">The Empty Mug</name><set>TiT</set></card>
+		<card><name id="TiT14">Spy from Mordor</name><set>TiT</set></card>
+		<card><name id="TiT14">Spy from Mordor</name><set>TiT</set></card>
+		<card><name id="TiT14">Spy from Mordor</name><set>TiT</set></card>
+		<card><name id="TiT14">Spy from Mordor</name><set>TiT</set></card>
+		<card><name id="TiT07">Nalir</name><set>TiT</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,50 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="TDM03,encounter">A Wisp of Pale Sheen</name><set>TDM</set></card>
+		<card><name id="TDM09,encounter">Fens and Mires</name><set>TDM</set></card>
+		<card><name id="TDM09,encounter">Fens and Mires</name><set>TDM</set></card>
+		<card><name id="TDM09,encounter">Fens and Mires</name><set>TDM</set></card>
+		<card><name id="TDM09,encounter">Fens and Mires</name><set>TDM</set></card>
+		<card><name id="TDM10,encounter">Giant Marsh Worm</name><set>TDM</set></card>
+		<card><name id="TDM10,encounter">Giant Marsh Worm</name><set>TDM</set></card>
+		<card><name id="TDM12,encounter">Impassable Bog</name><set>TDM</set></card>
+		<card><name id="TDM12,encounter">Impassable Bog</name><set>TDM</set></card>
+		<card><name id="TDM13,encounter">Nightfall</name><set>TDM</set></card>
+		<card><name id="TDM13,encounter">Nightfall</name><set>TDM</set></card>
+		<card><name id="TDM13,encounter">Nightfall</name><set>TDM</set></card>
+		<card><name id="TDM17,encounter">The Heart of the Marshes</name><set>TDM</set></card>
+		<card><name id="TDM17,encounter">The Heart of the Marshes</name><set>TDM</set></card>
+		<card><name id="TDM18,encounter">The Lights of the Dead</name><set>TDM</set></card>
+		<card><name id="TDM18,encounter">The Lights of the Dead</name><set>TDM</set></card>
+		<card><name id="TDM19,encounter">Through the Mist</name><set>TDM</set></card>
+		<card><name id="TDM19,encounter">Through the Mist</name><set>TDM</set></card>
+		<card><name id="TDM19,encounter">Through the Mist</name><set>TDM</set></card>
+		<card><name id="core115,encounter">Eastern Crows</name><set>Core</set></card>
+		<card><name id="core116,encounter">Evil Storm</name><set>Core</set></card>
+		<card><name id="core116,encounter">Evil Storm</name><set>Core</set></card>
+		<card><name id="core117,encounter">Pursued by Shadow</name><set>Core</set></card>
+		<card><name id="core117,encounter">Pursued by Shadow</name><set>Core</set></card>
+		<card><name id="core118,encounter">Treacherous Fog</name><set>Core</set></card>
+		<card><name id="core118,encounter">Treacherous Fog</name><set>Core</set></card>
+		<card><name id="core083,encounter">Goblin Sniper</name><set>Core</set></card>
+		<card><name id="core083,encounter">Goblin Sniper</name><set>Core</set></card>
+		<card><name id="core082,encounter">Hill Troll</name><set>Core</set></card>
+		<card><name id="core087,encounter">The Brown Lands</name><set>Core</set></card>
+		<card><name id="core087,encounter">The Brown Lands</name><set>Core</set></card>
+		<card><name id="core088,encounter">The East Bight</name><set>Core</set></card>
+		<card><name id="core088,encounter">The East Bight</name><set>Core</set></card>
+		<card><name id="core085,encounter">Wargs</name><set>Core</set></card>
+		<card><name id="core085,encounter">Wargs</name><set>Core</set></card>
+		<card><name id="core081,encounter">Wolf Rider</name><set>Core</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="TDM01a.png,TDM01b.png">Into the Marshes</name><set>TDM</set></card>
+		<card><name id="TDM02a.png,TDM02b.png">The Capture</name><set>TDM</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="TDM11,encounter">Gollum</name><set>TDM</set></card>
+	</superzone>
+</deck>

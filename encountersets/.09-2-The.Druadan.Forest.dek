@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<title>08.N-1-The.Stewards.Fear</title>		<author>SetYourName</author>		<date>04-11-12</date>		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="TDF-18,encounter">Stars in the Sky</name><set>TDF</set></card>
+		<card><name id="TDF-18,encounter">Stars in the Sky</name><set>TDF</set></card>
+		<card><name id="TDF-18,encounter">Stars in the Sky</name><set>TDF</set></card>
+		<card><name id="TDF-14,encounter">Men in the Dark</name><set>TDF</set></card>
+		<card><name id="TDF-14,encounter">Men in the Dark</name><set>TDF</set></card>
+		<card><name id="TDF-14,encounter">Men in the Dark</name><set>TDF</set></card>
+		<card><name id="TDF-13,encounter">Leaves on Tree</name><set>TDF</set></card>
+		<card><name id="TDF-13,encounter">Leaves on Tree</name><set>TDF</set></card>
+		<card><name id="TDF-11,encounter">Glade of Cleansing</name><set>TDF</set></card>
+		<card><name id="TDF-11,encounter">Glade of Cleansing</name><set>TDF</set></card>
+		<card><name id="TDF-11,encounter">Glade of Cleansing</name><set>TDF</set></card>
+		<card><name id="TDF-10,encounter">Garden of Poisons</name><set>TDF</set></card>
+		<card><name id="TDF-10,encounter">Garden of Poisons</name><set>TDF</set></card>
+		<card><name id="TDF-10,encounter">Garden of Poisons</name><set>TDF</set></card>
+		<card><name id="TDF-04,encounter">Duradan Drummer</name><set>TDF</set></card>
+		<card><name id="TDF-04,encounter">Duradan Drummer</name><set>TDF</set></card>
+		<card><name id="TDF-04,encounter">Duradan Drummer</name><set>TDF</set></card>
+		<card><name id="TDF-07,encounter">Druadan Thief</name><set>TDF</set></card>
+		<card><name id="TDF-07,encounter">Druadan Thief</name><set>TDF</set></card>
+		<card><name id="TDF-07,encounter">Druadan Thief</name><set>TDF</set></card>
+		<card><name id="TDF-06,encounter">Druadan Hunter</name><set>TDF</set></card>
+		<card><name id="TDF-06,encounter">Druadan Hunter</name><set>TDF</set></card>
+		<card><name id="TDF-06,encounter">Druadan Hunter</name><set>TDF</set></card>
+		<card><name id="TDF-06,encounter">Druadan Hunter</name><set>TDF</set></card>
+		<card><name id="TDF-05,encounter">Druadan Elite</name><set>TDF</set></card>
+		<card><name id="TDF-05,encounter">Druadan Elite</name><set>TDF</set></card>
+		<card><name id="TDF-05,encounter">Druadan Elite</name><set>TDF</set></card>
+		<card><name id="TDF-03,encounter">Ancestral Clearing</name><set>TDF</set></card>
+		<card><name id="HON47,encounter">Secluded Glade</name><set>HON</set></card>
+		<card><name id="HON47,encounter">Secluded Glade</name><set>HON</set></card>
+		<card><name id="HON47,encounter">Secluded Glade</name><set>HON</set></card>
+		<card><name id="HON46,encounter">Overgrown Trail</name><set>HON</set></card>
+		<card><name id="HON46,encounter">Overgrown Trail</name><set>HON</set></card>
+		<card><name id="HON46,encounter">Overgrown Trail</name><set>HON</set></card>
+		<card><name id="HON48,encounter">Lost Campanion</name><set>HON</set></card>
+		<card><name id="HON48,encounter">Lost Campanion</name><set>HON</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="TDF-22.png,TDF-23.png">The Pursuit</name><set>TDF</set></card>
+		<card><name id="TDF-26.png,TDF-27.png">The Passage Out</name><set>TDF</set></card>
+		<card><name id="TDF-24.png,TDF-25.png">An Untimely End</name><set>TDF</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="TDF-08,encounter">Dru-buri-Dru</name><set>TDF</set></card>
+	</superzone>
+</deck>

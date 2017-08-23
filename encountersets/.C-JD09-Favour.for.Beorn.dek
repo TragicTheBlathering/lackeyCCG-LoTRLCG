@@ -1,0 +1,68 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="HFG17,encounter">Goblintown Scavengers</name><set>HFG</set></card>
+		<card><name id="HFG17,encounter">Goblintown Scavengers</name><set>HFG</set></card>
+		<card><name id="HFG14,encounter">River Ninglor</name><set>HFG</set></card>
+		<card><name id="HFG14,encounter">River Ninglor</name><set>HFG</set></card>
+		<card><name id="HFG15,encounter">The East Bank</name><set>HFG</set></card>
+		<card><name id="HFG15,encounter">The East Bank</name><set>HFG</set></card>
+		<card><name id="HFG13,encounter">The Eaves of Mirkwood</name><set>HFG</set></card>
+		<card><name id="HFG13,encounter">The Eaves of Mirkwood</name><set>HFG</set></card>
+		<card><name id="HFG12,encounter">The Old Ford</name><set>HFG</set></card>
+		<card><name id="HFG12,encounter">The Old Ford</name><set>HFG</set></card>
+		<card><name id="HFG16,encounter">The West Bank</name><set>HFG</set></card>
+		<card><name id="HFG16,encounter">The West Bank</name><set>HFG</set></card>
+		<card><name id="HFG19,encounter">False Lead</name><set>HFG</set></card>
+		<card><name id="HFG19,encounter">False Lead</name><set>HFG</set></card>
+		<card><name id="HFG20,encounter">Flooding</name><set>HFG</set></card>
+		<card><name id="HFG20,encounter">Flooding</name><set>HFG</set></card>
+		<card><name id="HFG21,encounter">Old Wives&apos; Tales</name><set>HFG</set></card>
+		<card><name id="HFG21,encounter">Old Wives&apos; Tales</name><set>HFG</set></card>
+		<card><name id="HFG21,encounter">Old Wives&apos; Tales</name><set>HFG</set></card>
+		<card><name id="core083,encounter">Goblin Sniper</name><set>Core</set></card>
+		<card><name id="core083,encounter">Goblin Sniper</name><set>Core</set></card>
+		<card><name id="core082,encounter">Hill Troll</name><set>Core</set></card>
+		<card><name id="core082,encounter">Hill Troll</name><set>Core</set></card>
+		<card><name id="core084,encounter">Marsh Adder</name><set>Core</set></card>
+		<card><name id="core085,encounter">Wargs</name><set>Core</set></card>
+		<card><name id="core085,encounter">Wargs</name><set>Core</set></card>
+		<card><name id="core081,encounter">Wolf Rider</name><set>Core</set></card>
+		<card><name id="core086,encounter">Despair</name><set>Core</set></card>
+		<card><name id="core086,encounter">Despair</name><set>Core</set></card>
+		<card><name id="core111,encounter">Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name id="core111,encounter">Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name id="core111,encounter">Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name id="core113,encounter">Banks of the Anduin</name><set>Core</set></card>
+		<card><name id="core113,encounter">Banks of the Anduin</name><set>Core</set></card>
+		<card><name id="core114,encounter">Gladden Fields</name><set>Core</set></card>
+		<card><name id="core114,encounter">Gladden Fields</name><set>Core</set></card>
+		<card><name id="core114,encounter">Gladden Fields</name><set>Core</set></card>
+		<card><name id="core112,encounter">Massing at Night</name><set>Core</set></card>
+	</superzone>
+	<superzone name="2nd Encounter Deck">
+		<card><name id="KAZ22,encounter">Goblin Swordsman</name><set>KAZ</set></card>
+		<card><name id="KAZ22,encounter">Goblin Swordsman</name><set>KAZ</set></card>
+		<card><name id="KAZ22,encounter">Goblin Swordsman</name><set>KAZ</set></card>
+		<card><name id="KAZ22,encounter">Goblin Swordsman</name><set>KAZ</set></card>
+		<card><name id="KAZ22,encounter">Goblin Swordsman</name><set>KAZ</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="AFfB02A.png,AFfB02B.png">CUSTOM.-.On Patrol</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="AFfB01A.png,AFfB01B.png">CUSTOM.-.Beorn&apos;s Request</name><set>CUSTOM.JRDCQ</set></card>
+		<card><name id="AFfB03A.png,AFfB03B.png">CUSTOM.-.A Grim Fight</name><set>CUSTOM.JRDCQ</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="core031">Beorn</name><set>Core</set></card>
+		<card><name id="OHAUH05">Beorn (OHAUH)</name><set>OHAUH</set></card>
+		<card><name id="HFG13,encounter">The Eaves of Mirkwood</name><set>HFG</set></card>
+		<card><name id="KAZ30,encounter">Mountain Warg</name><set>KAZ</set></card>
+		<card><name id="KAZ30,encounter">Mountain Warg</name><set>KAZ</set></card>
+		<card><name id="KAZ30,encounter">Mountain Warg</name><set>KAZ</set></card>
+		<card><name id="KAZ20,encounter">Goblin Scout</name><set>KAZ</set></card>
+		<card><name id="KAZ20,encounter">Goblin Scout</name><set>KAZ</set></card>
+		<card><name id="KAZ20,encounter">Goblin Scout</name><set>KAZ</set></card>
+	</superzone>
+</deck>

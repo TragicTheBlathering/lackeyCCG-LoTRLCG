@@ -1,0 +1,59 @@
+<deck version="0.8">
+	<meta>
+		<title>07.N-1-Peril.in.Delargir</title>
+		<author>SetYourName</author>
+		<date>04-11-12</date>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="HON31">Battering Ram</name><set>HON</set></card>
+		<card><name id="HON31">Battering Ram</name><set>HON</set></card>
+		<card><name id="HON31">Battering Ram</name><set>HON</set></card>
+		<card><name id="HON30">Orc Scramblers</name><set>HON</set></card>
+		<card><name id="HON30">Orc Scramblers</name><set>HON</set></card>
+		<card><name id="HON30">Orc Scramblers</name><set>HON</set></card>
+		<card><name id="HON32">Siege Raft</name><set>HON</set></card>
+		<card><name id="HON32">Siege Raft</name><set>HON</set></card>
+		<card><name id="HON36">Orc Assault</name><set>HON</set></card>
+		<card><name id="HON36">Orc Assault</name><set>HON</set></card>
+		<card><name id="HON53">Haradrim Elite</name><set>HON</set></card>
+		<card><name id="HON53">Haradrim Elite</name><set>HON</set></card>
+		<card><name id="HON54">Mumak</name><set>HON</set></card>
+		<card><name id="HON52">Southron Mercenaries</name><set>HON</set></card>
+		<card><name id="HON52">Southron Mercenaries</name><set>HON</set></card>
+		<card><name id="HON52">Southron Mercenaries</name><set>HON</set></card>
+		<card><name id="HON55">Southron Support</name><set>HON</set></card>
+		<card><name id="HON55">Southron Support</name><set>HON</set></card>
+		<card><name id="HON56">Lieutenant of Mordor</name><set>HON</set></card>
+		<card><name id="HON57">Orc Arbalesters</name><set>HON</set></card>
+		<card><name id="HON57">Orc Arbalesters</name><set>HON</set></card>
+		<card><name id="HON57">Orc Arbalesters</name><set>HON</set></card>
+		<card><name id="HON58">Orc Vanguard</name><set>HON</set></card>
+		<card><name id="HON58">Orc Vanguard</name><set>HON</set></card>
+		<card><name id="HON59">Orc War Camp</name><set>HON</set></card>
+		<card><name id="HON59">Orc War Camp</name><set>HON</set></card>
+		<card><name id="HON60">The Master&apos;s Malice</name><set>HON</set></card>
+		<card><name id="HON60">The Master&apos;s Malice</name><set>HON</set></card>
+		<card><name id="HON61">The Power of Mordor</name><set>HON</set></card>
+		<card><name id="HON63">Orc Arsonist</name><set>HON</set></card>
+		<card><name id="HON63">Orc Arsonist</name><set>HON</set></card>
+		<card><name id="HON63">Orc Arsonist</name><set>HON</set></card>
+		<card><name id="HON62">Orc Rabble</name><set>HON</set></card>
+		<card><name id="HON62">Orc Rabble</name><set>HON</set></card>
+		<card><name id="HON62">Orc Rabble</name><set>HON</set></card>
+		<card><name id="HON64">Scourge of Mordor</name><set>HON</set></card>
+		<card><name id="HON64">Scourge of Mordor</name><set>HON</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="HON74a">Breakthrough at the Approach</name><set>HON</set></card>
+		<card><name id="HON75a">Breakthrough at the Citadel</name><set>HON</set></card>
+		<card><name id="HON73a">Reinforcing the Banks</name><set>HON</set></card>
+		<card><name id="HON72a">The Defense</name><set>HON</set></card>
+		<card><name id="HON76a">The Last Battle</name><set>HON</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="HON34">The Approach</name><set>HON</set></card>
+		<card><name id="HON33">The Citadel</name><set>HON</set></card>
+		<card><name id="HON35">The Banks</name><set>HON</set></card>
+	</superzone>
+</deck>

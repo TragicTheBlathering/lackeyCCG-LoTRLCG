@@ -1,0 +1,53 @@
+<deck version="0.8">
+	<meta>
+		<title>02.N-3-A.Journey.to.Rhosgobel</title>		<author>SetYourName</author>		<date>04-11-12</date>		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="core091,encounter">Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name id="core089,encounter">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core089,encounter">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core089,encounter">Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name id="core095,encounter">Enchanted Stream</name><set>Core</set></card>
+		<card><name id="core095,encounter">Enchanted Stream</name><set>Core</set></card>
+		<card><name id="core094,encounter">Necromancer&apos;s Pass</name><set>Core</set></card>
+		<card><name id="core092,encounter">Driven by Shadow</name><set>Core</set></card>
+		<card><name id="core093,encounter">The Necromancer&apos;s Reach</name><set>Core</set></card>
+		<card><name id="core074,encounter">King Spider</name><set>Core</set></card>
+		<card><name id="core074,encounter">King Spider</name><set>Core</set></card>
+		<card><name id="core076,encounter">Ungoliant&apos;s Spawn</name><set>Core</set></card>
+		<card><name id="core077,encounter">Great Forest Web</name><set>Core</set></card>
+		<card><name id="core077,encounter">Great Forest Web</name><set>Core</set></card>
+		<card><name id="core078,encounter">Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name id="core078,encounter">Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name id="core078,encounter">Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name id="AJTR18,encounter">Mirkwood Flock</name><set>AJTR</set></card>
+		<card><name id="AJTR18,encounter">Mirkwood Flock</name><set>AJTR</set></card>
+		<card><name id="AJTR18,encounter">Mirkwood Flock</name><set>AJTR</set></card>
+		<card><name id="AJTR18,encounter">Mirkwood Flock</name><set>AJTR</set></card>
+		<card><name id="AJTR14,encounter">Forest Grove</name><set>AJTR</set></card>
+		<card><name id="AJTR14,encounter">Forest Grove</name><set>AJTR</set></card>
+		<card><name id="AJTR14,encounter">Forest Grove</name><set>AJTR</set></card>
+		<card><name id="AJTR14,encounter">Forest Grove</name><set>AJTR</set></card>
+		<card><name id="AJTR11,encounter">Athelas</name><set>AJTR</set></card>
+		<card><name id="AJTR11,encounter">Athelas</name><set>AJTR</set></card>
+		<card><name id="AJTR11,encounter">Athelas</name><set>AJTR</set></card>
+		<card><name id="AJTR11,encounter">Athelas</name><set>AJTR</set></card>
+		<card><name id="AJTR15,encounter">Exhaustion</name><set>AJTR</set></card>
+		<card><name id="AJTR17,encounter">Festering Wounds</name><set>AJTR</set></card>
+		<card><name id="AJTR16,encounter">Swarming Insects</name><set>AJTR</set></card>
+		<card><name id="AJTR19,encounter">Black Forest Bats (AJTR)</name><set>AJTR</set></card>
+		<card><name id="AJTR19,encounter">Black Forest Bats (AJTR)</name><set>AJTR</set></card>
+		<card><name id="AJTR19,encounter">Black Forest Bats (AJTR)</name><set>AJTR</set></card>
+		<card><name id="AJTR19,encounter">Black Forest Bats (AJTR)</name><set>AJTR</set></card>
+		<card><name id="AJTR19,encounter">Black Forest Bats (AJTR)</name><set>AJTR</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="AJTR21a.png,AJTR21b.png">Radagast&apos;s Request</name><set>AJTR</set></card>
+		<card><name id="AJTR22a.png,AJTR22b.png">Return to Rhosgobel</name><set>AJTR</set></card>
+		<card><name id="AJTR20a.png,AJTR20b.png">The Wounded Eagle</name><set>AJTR</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="AJTR12,encounter">Wilyador</name><set>AJTR</set></card>
+		<card><name id="AJTR13,encounter">Rhosgobel</name><set>AJTR</set></card>
+	</superzone>
+</deck>

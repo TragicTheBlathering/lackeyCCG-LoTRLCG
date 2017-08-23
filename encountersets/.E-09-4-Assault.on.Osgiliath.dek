@@ -1,0 +1,44 @@
+<deck version="0.8">
+	<meta>
+		<game>LoTRlcg</game>
+	</meta>
+	<superzone name="Encounter Deck">
+		<card><name id="AOO-01-1,encounter">Ancient Harbor</name><set>AOO</set></card>
+		<card><name id="AOO-02-2,encounter">Counter-Attack</name><set>AOO</set></card>
+		<card><name id="AOO-03-2,encounter">East Quarter</name><set>AOO</set></card>
+		<card><name id="AOO-12-2,encounter">Pinned Down</name><set>AOO</set></card>
+		<card><name id="AOO-12-2,encounter">Pinned Down</name><set>AOO</set></card>
+		<card><name id="AOO-14-3,encounter">Ruined Square</name><set>AOO</set></card>
+		<card><name id="AOO-14-3,encounter">Ruined Square</name><set>AOO</set></card>
+		<card><name id="AOO-14-3,encounter">Ruined Square</name><set>AOO</set></card>
+		<card><name id="AOO-15-3,encounter">Ruined Tower</name><set>AOO</set></card>
+		<card><name id="AOO-15-3,encounter">Ruined Tower</name><set>AOO</set></card>
+		<card><name id="AOO-15-3,encounter">Ruined Tower</name><set>AOO</set></card>
+		<card><name id="AOO-17-3,encounter">Southron Phalanx</name><set>AOO</set></card>
+		<card><name id="AOO-17-3,encounter">Southron Phalanx</name><set>AOO</set></card>
+		<card><name id="AOO-17-3,encounter">Southron Phalanx</name><set>AOO</set></card>
+		<card><name id="AOO-18-2,encounter">Street Fighting</name><set>AOO</set></card>
+		<card><name id="AOO-18-2,encounter">Street Fighting</name><set>AOO</set></card>
+		<card><name id="AOO-20-1,encounter">The King&apos;s Library</name><set>AOO</set></card>
+		<card><name id="AOO-21-1,encounter">The Old Bridge</name><set>AOO</set></card>
+		<card><name id="AOO-23-4,encounter">Uruk Soldier</name><set>AOO</set></card>
+		<card><name id="AOO-23-4,encounter">Uruk Soldier</name><set>AOO</set></card>
+		<card><name id="AOO-23-4,encounter">Uruk Soldier</name><set>AOO</set></card>
+		<card><name id="AOO-23-4,encounter">Uruk Soldier</name><set>AOO</set></card>
+		<card><name id="AOO-24-1,encounter">West Gate</name><set>AOO</set></card>
+		<card><name id="AOO-25-2,encounter">West Quarter</name><set>AOO</set></card>
+		<card><name id="HON56,encounter">Lieutenant of Mordor</name><set>HON</set></card>
+		<card><name id="HON57,encounter">Orc Arbalesters</name><set>HON</set></card>
+		<card><name id="HON57,encounter">Orc Arbalesters</name><set>HON</set></card>
+		<card><name id="HON57,encounter">Orc Arbalesters</name><set>HON</set></card>
+		<card><name id="HON61,encounter">The Power of Mordor</name><set>HON</set></card>
+		<card><name id="HON53,encounter">Haradrim Elite</name><set>HON</set></card>
+		<card><name id="HON53,encounter">Haradrim Elite</name><set>HON</set></card>
+		<card><name id="HON52,encounter">Southron Mercenaries</name><set>HON</set></card>
+		<card><name id="HON52,encounter">Southron Mercenaries</name><set>HON</set></card>
+		<card><name id="HON52,encounter">Southron Mercenaries</name><set>HON</set></card>
+	</superzone>
+	<superzone name="Quest Deck">
+		<card><name id="AOO-26.png,AOO-27.png">Retake the City</name><set>AOO</set></card>
+	</superzone>
+</deck>
